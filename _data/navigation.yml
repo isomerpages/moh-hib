@@ -1,8 +1,28 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: For Members of Public
+    url: /permalink
+    sublinks:
+      - title: Opting out of NEHR
+        url: /permalink
+      - title: Incident Reporting
+        url: /permalink
+      - title: Enforcement Decisions
+        url: /permalink
+      - title: Alerts and Advisories
+        url: /permalink
+      - title: Help and Resources
+        url: /permalink
+  - title: For HIA Entities
+    url: /permalink
+    sublinks:
+      - title: Guidelines and Consultations
+        url: /permalink
+      - title: Incident Reporting
+        url: /permalink
+      - title: Enforcement Decisions
+        url: /permalink
+      - title: Alerts and Advisories
+        url: /permalink
+      - title: Help and Resources
+        url: /permalink
