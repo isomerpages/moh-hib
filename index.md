@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: About HIA
       button: Learn more
-      url: /about-hia
+      url: /about
   - infopic:
       title: Objectives and Scope
       button: Learn more
