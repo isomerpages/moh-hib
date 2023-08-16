@@ -1,18 +1,18 @@
 logo: /images/isomer-logo.svg
 links:
   - title: For Members of Public
-    url: /permalink
+    url: /for-members-of-public
     sublinks:
       - title: Opting out of NEHR
-        url: /permalink
+        url: /for-members-of-public/optout
       - title: Incident Reporting
-        url: /permalink
+        url: /for-members-of-public/incident-reporting
       - title: Enforcement Decisions
-        url: /permalink
+        url: /enforcement-decisions
       - title: Alerts and Advisories
-        url: /permalink
+        url: /alerts-and-advisories
       - title: Help and Resources
-        url: /permalink
+        url: /help-and-resources
   - title: For HIA Entities
     url: /permalink
     sublinks:
