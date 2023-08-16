@@ -2,7 +2,7 @@ collections:
   for-hia-entities:
     output: true
     order:
-      - Guidelines and Consultations/Consultations.md
-      - Guidelines and Consultations/Appropriate Use and Access of Data.md
-      - Guidelines and Consultations/Unified Cyber and Data Requirements.md
       - Guidelines and Consultations/.keep
+      - Guidelines and Consultations/Unified Cyber and Data Requirements.md
+      - Guidelines and Consultations/Appropriate Use and Access of Data.md
+      - Guidelines and Consultations/Consultations.md
