@@ -1,4 +1,5 @@
 collections:
   for-members-of-public:
     output: true
-    order: []
+    order:
+      - Opting Out of NEHR.md
