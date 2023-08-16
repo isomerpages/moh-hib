@@ -7,21 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Health Information Act
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Public Consultations
+          description: ""
+          url: /public-consultations
+        - title: Latest News
+          description: ""
+          url: /news
+        - title: FAQs
+          description: ""
+          url: /faqs
   - infobar:
       title: Infobar title
       subtitle: Subtitle
