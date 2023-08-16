@@ -2,19 +2,19 @@ title: Title
 url: https://hia.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#fff39f"
-  secondary-color: "#aeffb0"
+  primary-color: "#fded55"
+  secondary-color: "#01f5af"
   media-colors:
     - title: media-color-one
-      color: "#aeffb0"
+      color: "#01f5af"
     - title: media-color-two
-      color: "#fff39f"
+      color: "#fded55"
     - title: media-color-three
-      color: "#aeffb0"
+      color: "#01f5af"
     - title: media-color-four
-      color: "#fff39f"
+      color: "#fded55"
     - title: media-color-five
-      color: "#aeffb0"
+      color: "#01f5af"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
