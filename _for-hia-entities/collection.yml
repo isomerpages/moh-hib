@@ -1,0 +1,4 @@
+collections:
+  for-hia-entities:
+    output: true
+    order: []
