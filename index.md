@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Public Consultations
           description: ""
-          url: /public-consultations
+          url: /public-consultations/
         - title: Latest News
           description: ""
-          url: /news
+          url: /news/
         - title: FAQs
           description: ""
-          url: /faqs
+          url: /faqs/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
