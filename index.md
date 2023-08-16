@@ -22,9 +22,18 @@ sections:
           description: ""
           url: /faqs/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: About HIA
+      button: Learn more
+      url: /about-hia/
+  - infopic:
+      title: Objectives and Scope
+      button: Learn more
+      url: /objectives/
+      alt: Image alt text
+  - infopic:
+      title: Different Levels
+      description: of HIA
+      button: Learn More
+      url: /different-levels/
+      alt: Image alt text
 ---
