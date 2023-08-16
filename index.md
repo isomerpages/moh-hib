@@ -10,30 +10,30 @@ sections:
       title: Health Information Act
       background: /images/hero-banner.png
       button: Contact Us
-      url: /contact-us/
+      url: /contact-us
       key_highlights:
         - title: Public Consultations
           description: ""
-          url: /public-consultations/
+          url: /public-consultations
         - title: Latest News
           description: ""
-          url: /news/
+          url: /news
         - title: FAQs
           description: ""
-          url: /faqs/
+          url: /faqs
   - infobar:
       title: About HIA
       button: Learn more
-      url: /about-hia/
+      url: /about-hia
   - infopic:
       title: Objectives and Scope
       button: Learn more
-      url: /objectives/
+      url: /objectives
       alt: Image alt text
   - infopic:
       title: Different Levels
       description: of HIA
       button: Learn More
-      url: /different-levels/
+      url: /different-levels
       alt: Image alt text
 ---
