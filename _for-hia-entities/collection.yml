@@ -1,4 +1,5 @@
 collections:
   for-hia-entities:
     output: true
-    order: []
+    order:
+      - Guidelines and Consultations/.keep
