@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Health Information Act
-      background: /images/hero-banner.png
+      background: /images/test asset 2.png
       button: Contact Us
       url: /contact-us
       key_highlights:
@@ -30,7 +30,7 @@ sections:
       button: Learn more
       url: /objectives
       alt: Image alt text
-      image: /images/hero-banner.png
+      image: /images/test asset 1.png
   - infopic:
       title: Different Levels
       description: of HIA
