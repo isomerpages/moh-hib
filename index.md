@@ -30,6 +30,7 @@ sections:
       button: Learn more
       url: /objectives
       alt: Image alt text
+      image: /images/hero-banner.png
   - infopic:
       title: Different Levels
       description: of HIA
