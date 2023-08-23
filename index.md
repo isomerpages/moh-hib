@@ -37,4 +37,9 @@ sections:
       button: Learn More
       url: /different-levels
       alt: Image alt text
+  - infopic:
+      title: Public Consults
+      button: Learn More
+      url: /different-levels
+      alt: Image alt text
 ---
