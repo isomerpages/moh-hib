@@ -40,6 +40,6 @@ sections:
   - infopic:
       title: Public Consults
       button: Learn More
-      url: /different-levels
+      url: /public-consultations/
       alt: Image alt text
 ---
