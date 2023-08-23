@@ -30,7 +30,7 @@ sections:
       button: Learn more
       url: /objectives
       alt: Image alt text
-      image: /images/test asset 1.png
+      image: /images/obj and scope test.png
   - infopic:
       title: Different Levels
       description: of HIA
