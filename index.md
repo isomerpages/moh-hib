@@ -46,4 +46,9 @@ sections:
       title: Latest News
       subtitle: Updates
       button: More News
+  - infobar:
+      title: FAQ
+      description: Frequently Asked Questions
+      button: Learn More
+      url: /faqs/
 ---
