@@ -42,4 +42,8 @@ sections:
       button: Learn More
       url: /public-consultations/
       alt: Image alt text
+  - resources:
+      title: Latest News
+      subtitle: Updates
+      button: More News
 ---
