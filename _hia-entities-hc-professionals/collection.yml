@@ -2,6 +2,7 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
+      - Guidelines and Consultations.md
       - Guidelines and Consultations/.keep
       - Guidelines and Consultations/Unified Cyber and Data Requirements.md
       - Guidelines and Consultations/Appropriate Use and Access of Data.md
