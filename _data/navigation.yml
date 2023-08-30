@@ -14,12 +14,12 @@ links:
       - title: Help and Resources
         url: /help-and-resources
   - title: For HIA Entities
-    url: /for-hia-entities
+    url: /for-hia-entities-hc-professionals
     sublinks:
       - title: Guidelines and Consultations
-        url: /for-hia-entities/guidelines-and-consultations
+        url: /for-hia-entities-hc-professionals/guidelines-and-consultations
       - title: Incident Reporting
-        url: /for-hia-entities/incident-reporting
+        url: /for-hia-entities-hc-professionals/incident-reporting
       - title: Enforcement Decisions
         url: /enforcement-decisions
       - title: Alerts and Advisories
