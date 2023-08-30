@@ -3,7 +3,7 @@ url: https://hia.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#febe02"
-  secondary-color: "#10c19f"
+  secondary-color: "#febe02"
   media-colors:
     - title: media-color-one
       color: "#febe02"
