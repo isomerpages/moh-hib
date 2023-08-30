@@ -1,5 +1,5 @@
 collections:
-  for-hia-entities:
+  hia-entities-hc-professionals:
     output: true
     order:
       - Guidelines and Consultations/.keep
