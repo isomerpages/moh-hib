@@ -20,6 +20,7 @@ sections:
         - title: FAQs
           description: ""
           url: /faqs
+      background: /images/hero banner.jpg
   - infobar:
       title: About HIA
       button: Learn more
