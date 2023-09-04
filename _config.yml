@@ -1,4 +1,4 @@
-title: Title
+title: Health Information Act
 url: https://hia.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d347474y9046ok.amplifyapp.com
 prod: https://master.d347474y9046ok.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/moh_logo.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
