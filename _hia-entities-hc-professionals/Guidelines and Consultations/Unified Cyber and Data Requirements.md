@@ -6,7 +6,7 @@ third_nav_title: Guidelines and Consultations
 ---
 **Cybersecurity Landscape and Context**
 ---------------------------------------
-![](/images/test%20asset%202.png)
+![](/images/cybersecurity%20landscape.png)
 
 ### Why is cybersecurity important?
 
