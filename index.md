@@ -8,9 +8,8 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Health Information Act
-      background: /images/test asset 2.png
-      button: Contact Us
-      url: /contact-us
+      button: Learn more
+      url: /about
       key_highlights:
         - title: Public Consultations
           description: ""
