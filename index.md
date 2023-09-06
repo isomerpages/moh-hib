@@ -30,7 +30,7 @@ sections:
       button: Learn more
       url: /objectives
       alt: Image alt text
-      image: /images/asset 4hib website img test.png
+      image: /images/hia website assets objectives.png
   - infopic:
       title: Different Levels
       description: of HIA
