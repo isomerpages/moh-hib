@@ -43,6 +43,7 @@ sections:
       button: Learn More
       url: /public-consultations/
       alt: Image alt text
+      image: /images/hia website public consults-05.png
   - resources:
       title: Latest News
       subtitle: Updates
