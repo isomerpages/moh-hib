@@ -25,15 +25,18 @@ sections:
       title: About HIA
       button: Learn more
       url: /about
+      description: What exactly is HIA and how does it affect you?
   - infopic:
       title: Objectives and Scope
       button: Learn more
       url: /objectives
       alt: Image alt text
       image: /images/hia website assets objectives.png
+      description: Why is HIA important and what does it fufill?
   - infopic:
-      title: Different Levels
-      description: of HIA
+      title: Different Levels of HIA
+      description: Your information comes in many different levels. Find out how each
+        level of HIA is different.
       button: Learn More
       url: /different-levels
       alt: Image alt text
@@ -44,6 +47,8 @@ sections:
       url: /public-consultations/
       alt: Image alt text
       image: /images/hia website public consults-05.png
+      description: Still unsure and have more questions? Join us at one of our
+        upcoming public consultations.
   - resources:
       title: Latest News
       subtitle: Updates
