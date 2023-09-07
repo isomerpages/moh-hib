@@ -31,4 +31,4 @@ Cyber-attacks are particularly threatening to the healthcare sector. The prolife
 As such, the Ministry of Health (MOH) is carefully studying and tracking the cybersecurity landscape of the healthcare sector and is considering the need for enforceable standards in future.
 
 ##### Resources
-For more resource: 
+For more resources: [Help and Resources](/help-and-resources)
