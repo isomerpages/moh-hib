@@ -2,6 +2,7 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
+      - Use and Access of Data/Background.md
       - Use and Access of Data/.keep
       - Guidelines and Consultations.md
       - Incident Reporting.md
