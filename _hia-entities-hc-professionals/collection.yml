@@ -2,6 +2,7 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
+      - Cybersecurity and Data/Background.md
       - Cybersecurity and Data/.keep
       - Guidelines and Consultations.md
       - Incident Reporting.md
