@@ -29,3 +29,6 @@ Cyber-attacks and breaches are not new or unique to Singapore’s healthcare sec
 Cyber-attacks are particularly threatening to the healthcare sector. The proliferation and increased connectivity of Health information technology (IT), which consists of networked systems, wireless technology, and software medical devices amongst others, mean that organisations are more susceptible to cyber-attacks. Cyber-attacks on healthcare organisations can lead to serious consequences such as interruptions to business operations, compromised patient data, patient safety issues, financial losses, as well as reputational damage.  
   
 As such, the Ministry of Health (MOH) is carefully studying and tracking the cybersecurity landscape of the healthcare sector and is considering the need for enforceable standards in future.
+
+##### Resources
+For more resource: 
