@@ -46,7 +46,7 @@ sections:
       button: Learn More
       url: /public-consultations/
       alt: Image alt text
-      image: /images/hia website public consults-05.png
+      image: /images/hia website public consults.png
       description: Still unsure and have more questions? Join us at one of our
         upcoming public consultations.
   - resources:
