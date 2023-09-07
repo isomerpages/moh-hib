@@ -1,6 +1,6 @@
 logo: /images/moh_logo.png
 links:
-  - title: For Members of Public
+  - title: Members of Public
     url: /for-members-of-public
     sublinks:
       - title: Opting out of NEHR
@@ -13,20 +13,7 @@ links:
         url: /alerts-and-advisories
       - title: Help and Resources
         url: /help-and-resources
-  - title: For HIA Entities
-    url: /for-hia-entities-hc-professionals
-    sublinks:
-      - title: Guidelines and Consultations
-        url: /for-hia-entities-hc-professionals/guidelines-and-consultations
-      - title: Incident Reporting
-        url: /for-hia-entities-hc-professionals/incident-reporting
-      - title: Enforcement Decisions
-        url: /enforcement-decisions
-      - title: Alerts and Advisories
-        url: /alerts-and-advisories
-      - title: Help and Resources
-        url: /help-and-resources
-  - title: For Healthcare Professionals
+  - title: Entities/ Health Professionals
     url: /for-hia-entities-hc-professionals
     sublinks:
       - title: Guidelines and Consultations
