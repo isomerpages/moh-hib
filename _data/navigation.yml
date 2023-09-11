@@ -9,10 +9,8 @@ links:
         url: /for-members-of-public/incident-reporting
       - title: Enforcement Decisions
         url: /enforcement-decisions
-      - title: Alerts and Advisories
-        url: /alerts-and-advisories
       - title: Help and Resources
-        url: /help-and-resources
+        url: /for-members-of-public/help-and-resources
   - title: Entities/ Health Professionals
     url: /for-hia-entities-hc-professionals
     sublinks:
@@ -23,6 +21,6 @@ links:
       - title: Enforcement Decisions
         url: /enforcement-decisions
       - title: Alerts and Advisories
-        url: /alerts-and-advisories
+        url: /for-hia-entities-hc-professionals/alerts-and-advisories
       - title: Help and Resources
-        url: /help-and-resources
+        url: /for-hia-entities-hc-professionals/help-and-resources
