@@ -2,6 +2,7 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
+      - For HIA Entities and Healthcare Professionals.md
       - Guidelines and Consultations.md
       - Consultations.md
       - Incident Reporting.md
