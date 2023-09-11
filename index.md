@@ -35,8 +35,7 @@ sections:
       description: Why is HIA important and what does it fufill?
   - infopic:
       title: Different Levels of HIA
-      description: Your information comes in many different levels. Find out how each
-        level of HIA is different.
+      description: Find out more about the 3 different aspects of HIA
       button: Learn More
       url: /different-levels
       alt: Image alt text
