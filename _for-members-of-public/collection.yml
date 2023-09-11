@@ -2,5 +2,6 @@ collections:
   for-members-of-public:
     output: true
     order:
+      - Help and Resources.md
       - Incident Reporting (for Public).md
       - Opting Out of NEHR.md
