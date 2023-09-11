@@ -2,8 +2,8 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
-      - Help and Resources.md
       - Guidelines and Consultations.md
+      - Help and Resources.md
       - Incident Reporting.md
       - Cybersecurity and Data/.keep
       - Cybersecurity and Data/Background.md
