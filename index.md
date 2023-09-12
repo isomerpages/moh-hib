@@ -39,7 +39,7 @@ sections:
       button: Learn More
       url: /different-levels
       alt: Image alt text
-      image: /images/hia website levels-04.png
+      image: /images/different levels.png
   - infopic:
       title: Public Consults
       button: Learn More
