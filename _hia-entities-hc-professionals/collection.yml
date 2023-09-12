@@ -2,7 +2,6 @@ collections:
   hia-entities-hc-professionals:
     output: true
     order:
-      - Alerts and Advisories.md
       - For HIA Entities and Healthcare Professionals.md
       - Guidelines and Consultations.md
       - Consultations.md
@@ -13,4 +12,5 @@ collections:
       - Use and Access of Data/.keep
       - Use and Access of Data/Background.md
       - Use and Access of Data/Appropriate Use and Access of Data.md
+      - Alerts and Advisories.md
       - Help and Resources.md
