@@ -5,8 +5,9 @@ description: ""
 ---
 **Please find the various guidelines related to the Health Information Act below**
 
-[Unified Cyber and Data Requirements](/for-hia-entities-hc-professionals/guidelines-and-consultations/unified-cyber-and-data-requirements)
+[Unified Cyber and Data Requirements](/for-hia-entities-hc-professionals/cybersecurity-and-data/guidelines/)
 
-[Appropriate Use and Access of Data](/for-hia-entities-hc-professionals/guidelines-and-consultations/appropriate-use-and-access-of-data/)
+[Appropriate Use and Access of Data](/for-hia-entities-hc-professionals/use-and-access-of-data/guidelines/)
 
-Still unsure about something? Here are a list of upcoming consultations:
+Still unsure about something? Join us in one of our
+[upcoming consultations](/for-hia-entities-hc-professionals/consultations/)
