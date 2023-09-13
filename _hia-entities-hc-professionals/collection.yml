@@ -4,13 +4,13 @@ collections:
     order:
       - For HIA Entities and Healthcare Professionals.md
       - Guidelines and Consultations.md
-      - Consultations.md
-      - Incident Reporting.md
       - Cybersecurity and Data/.keep
       - Cybersecurity and Data/Background.md
       - Cybersecurity and Data/Unified Cyber and Data Requirements.md
       - Use and Access of Data/.keep
       - Use and Access of Data/Background.md
       - Use and Access of Data/Appropriate Use and Access of Data.md
+      - Consultations.md
+      - Incident Reporting.md
       - Alerts and Advisories.md
       - Help and Resources.md
