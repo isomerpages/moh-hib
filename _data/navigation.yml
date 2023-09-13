@@ -3,10 +3,8 @@ links:
   - title: Members of Public
     url: /for-members-of-public
     sublinks:
-      - title: Opting out of NEHR
-        url: /for-members-of-public/optout
-      - title: Incident Reporting
-        url: /for-members-of-public/incident-reporting
+      - title: Feedback and Enquiries
+        url: /for-members-of-public/feedback-and-enquiries
       - title: Enforcement Decisions
         url: /enforcement-decisions
       - title: Help and Resources
