@@ -20,11 +20,6 @@ sections:
           description: ""
           url: /faqs
       background: /images/hia website banner.jpg
-  - infobar:
-      title: About HIA
-      button: Learn more
-      url: /about
-      description: What exactly is HIA and how does it affect you?
   - infopic:
       title: Objectives and Scope
       button: Learn more
