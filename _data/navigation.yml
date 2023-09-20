@@ -24,3 +24,10 @@ links:
         url: /for-hia-entities-hc-professionals/alerts-and-advisories
       - title: Help and Resources
         url: /for-hia-entities-hc-professionals/help-and-resources
+  - title: Help & Resources
+    url: /for-members-of-public/help-and-resources
+    sublinks:
+      - title: FAQs
+        url: /Frequently-Asked-Questions
+      - title: Latest News
+        url: /Latest-News
