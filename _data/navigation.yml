@@ -29,12 +29,16 @@ links:
     sublinks:
       - title: For Members of Public
         url: /enforcement-decisions
-      - title: Entities /Health Professionals
+      - title: Entities/ Health Professionals
         url: /enforcement-decisions
   - title: Help & Resources
     url: /for-members-of-public/help-and-resources
     sublinks:
-      - title: FAQs
-        url: /Frequently-Asked-Questions
+      - title: For Members of Public
+        url: /members-of-public
+      - title: Entities/ Health Professionals
+        url: /healthcare-professionals
       - title: Latest News
         url: /Latest-News
+      - title: FAQs
+        url: /Frequently-Asked-Questions
