@@ -24,6 +24,13 @@ links:
         url: /for-hia-entities-hc-professionals/alerts-and-advisories
       - title: Help and Resources
         url: /for-hia-entities-hc-professionals/help-and-resources
+  - title: Enforcement Decisions
+    url: /enforcement-decisions
+    sublinks:
+      - title: For Members of Public
+        url: /enforcement-decisions
+      - title: Entities /Health Professionals
+        url: /enforcement-decisions
   - title: Help & Resources
     url: /for-members-of-public/help-and-resources
     sublinks:
