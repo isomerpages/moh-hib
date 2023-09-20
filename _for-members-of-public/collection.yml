@@ -1,7 +1,0 @@
-collections:
-  for-members-of-public:
-    output: true
-    order:
-      - For Members of Public.md
-      - Feedback and Enquiries.md
-      - Opting Out of NEHR.md
