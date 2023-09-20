@@ -9,8 +9,8 @@ links:
         url: /for-members-of-public/feedback-and-enquiries
       - title: Enforcement Decisions
         url: /enforcement-decisions
-      - title: Help and Resources
-        url: /for-members-of-public/help-and-resources
+      - title: Public Consultations
+        url: /public-consults
   - title: Entities/ Health Professionals
     url: /for-hia-entities-hc-professionals
     sublinks:
@@ -22,8 +22,6 @@ links:
         url: /enforcement-decisions
       - title: Alerts and Advisories
         url: /for-hia-entities-hc-professionals/alerts-and-advisories
-      - title: Help and Resources
-        url: /for-hia-entities-hc-professionals/help-and-resources
   - title: Enforcement Decisions
     url: /enforcement-decisions
     sublinks:
@@ -35,9 +33,9 @@ links:
     url: /for-members-of-public/help-and-resources
     sublinks:
       - title: For Members of Public
-        url: /members-of-public
+        url: for-members-of-public/help-and-resources
       - title: Entities/ Health Professionals
-        url: /healthcare-professionals
+        url: /for-hia-entities-hc-professionals/help-and-resources
       - title: Latest News
         url: /Latest-News
       - title: FAQs
