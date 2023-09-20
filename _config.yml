@@ -2,19 +2,19 @@ title: Health Information Act
 url: https://hia.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#febe02"
+  primary-color: "#0ca7ed"
   secondary-color: "#10c19f"
   media-colors:
     - title: media-color-one
       color: "#10c19f"
     - title: media-color-two
-      color: "#febe02"
+      color: "#0ca7ed"
     - title: media-color-three
-      color: "#febe02"
+      color: "#0ca7ed"
     - title: media-color-four
-      color: "#febe02"
+      color: "#0ca7ed"
     - title: media-color-five
-      color: "#febe02"
+      color: "#0ca7ed"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
