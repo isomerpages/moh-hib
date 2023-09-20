@@ -1,0 +1,4 @@
+collections:
+  for-members-of-public:
+    output: true
+    order: []
