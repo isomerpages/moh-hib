@@ -2,8 +2,8 @@ title: Health Information Act
 url: https://hia.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#58d3bb"
-  secondary-color: "#febd02"
+  primary-color: "#febd02"
+  secondary-color: "#58d3bb"
   media-colors:
     - title: media-color-one
       color: "#286d9e"
