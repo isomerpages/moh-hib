@@ -21,27 +21,23 @@ sections:
           url: /help-and-resources
       background: /images/hia website banner.jpg
   - infopic:
-      title: Objectives and Scope
+      title: What is HIB?
       button: Learn more
-      url: /objectives
+      url: /introduction
       alt: Image alt text
       image: /images/hia website assets objectives.png
-      description: Why is HIA important and what does it fufill?
   - infopic:
-      title: Different Levels of HIA
-      description: Find out more about the 3 different aspects of HIA
+      title: Provide your feedback
       button: Learn More
-      url: /different-levels
+      url: /public-consultations
       alt: Image alt text
       image: /images/different levels.png
   - infopic:
-      title: Public Consults
+      title: Help & Resources
       button: Learn More
-      url: /public-consultations/
+      url: /help-and-resources
       alt: Image alt text
       image: /images/hia website public consults.png
-      description: Still unsure and have more questions? Join us at one of our
-        upcoming public consultations.
   - resources:
       title: Latest News
       subtitle: Updates
