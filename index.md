@@ -7,18 +7,18 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Health Information Act
+      title: Health Information Bill
       url: /about
       key_highlights:
-        - title: Public Consultations
+        - title: What is HIB?
+          description: ""
+          url: /introduction
+        - title: Provide Your Feedback
           description: ""
           url: /public-consultations
-        - title: Latest News
+        - title: Help & Resources
           description: ""
-          url: /news
-        - title: FAQs
-          description: ""
-          url: /faqs
+          url: /help-and-resources
       background: /images/hia website banner.jpg
   - infopic:
       title: Objectives and Scope
