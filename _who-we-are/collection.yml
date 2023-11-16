@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Different Levels of HIA.md
+      - Health Information and the NEHR.md
