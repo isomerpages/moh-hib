@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: Help & Resources
       button: Learn More
-      url: /help-and-resources
+      url: /help-and-resources/
       alt: Image alt text
       image: /images/hia website public consults.png
   - resources:
