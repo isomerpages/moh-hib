@@ -2,6 +2,6 @@ collections:
   overview-of-hib:
     output: true
     order:
-      - Regulating your Health Information.md
       - Introduction.md
       - Health Information and the NEHR.md
+      - Regulating your Health Information.md
