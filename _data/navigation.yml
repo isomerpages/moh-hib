@@ -1,7 +1,7 @@
 logo: /images/moh_logo.png
 links:
-  - title: Who We Are
-    collection: who-we-are
+  - title: Overview Of Hib
+    collection: overview-of-hib
   - title: Members of Public
     url: /for-members-of-public
     sublinks:
