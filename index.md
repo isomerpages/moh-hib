@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: What is HIB?
       button: Learn more
-      url: /introduction
+      url: /introduction/
       alt: Image alt text
       image: /images/hia website assets objectives.png
   - infopic:
