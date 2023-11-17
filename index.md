@@ -15,7 +15,7 @@ sections:
           url: /introduction
         - title: Provide Your Feedback
           description: ""
-          url: /public-consultations
+          url: /consultations
         - title: Help & Resources
           description: ""
           url: /help-and-resources
