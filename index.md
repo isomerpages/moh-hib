@@ -38,13 +38,4 @@ sections:
       url: /help-and-resources/
       alt: Image alt text
       image: /images/hia website public consults.png
-  - resources:
-      title: Latest News
-      subtitle: Updates
-      button: More News
-  - infobar:
-      title: FAQ
-      description: Frequently Asked Questions
-      button: Learn More
-      url: /faqs/
 ---
