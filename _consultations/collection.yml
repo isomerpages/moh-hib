@@ -1,5 +1,5 @@
 collections:
-  for-members-of-public:
+  consultations:
     output: true
     order:
       - Ongoing or Past Consultations.md
