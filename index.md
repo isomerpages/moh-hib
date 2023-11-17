@@ -18,7 +18,7 @@ sections:
           url: /consultations
         - title: Help & Resources
           description: ""
-          url: /help-and-resources
+          url: /faqs-guidelines-others
       background: /images/hia website banner.jpg
   - infopic:
       title: What is HIB?
