@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Ongoing or Past Consultations.md
-      - Enforcement Decisions.md
       - Objectives and Scope.md
