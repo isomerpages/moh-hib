@@ -6,7 +6,7 @@ links:
     url: /consultations
     sublinks:
       - title: Ongoing/Past Consultations
-        url: /ongoing-or-past-consultations
+        url: /consultations
   - title: Help & Resources
     url: /help-and-resources
     sublinks:
