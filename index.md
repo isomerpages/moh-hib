@@ -29,7 +29,7 @@ sections:
   - infopic:
       title: Provide your feedback
       button: Learn More
-      url: /public-consultations
+      url: /consultations
       alt: Image alt text
       image: /images/different levels.png
   - infopic:
