@@ -2,6 +2,6 @@ collections:
   for-members-of-public:
     output: true
     order:
-      - Public Consultations.md
+      - Ongoing or Past Consultations.md
       - Enforcement Decisions.md
       - Objectives and Scope.md
