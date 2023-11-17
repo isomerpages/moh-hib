@@ -2,41 +2,17 @@ logo: /images/moh_logo.png
 links:
   - title: Overview Of Hib
     collection: overview-of-hib
-  - title: Members of Public
-    url: /for-members-of-public
+  - title: Consultations
+    url: /consultations
     sublinks:
-      - title: Feedback and Enquiries
-        url: /for-members-of-public/feedback-and-enquiries
-      - title: Enforcement Decisions
-        url: /enforcement-decisions
-      - title: Public Consultations
-        url: /public-consults
-  - title: Entities/ Health Professionals
-    url: /for-hia-entities-hc-professionals
-    sublinks:
-      - title: Guidelines and Consultations
-        url: /for-hia-entities-hc-professionals/guidelines-and-consultations
-      - title: Incident Reporting
-        url: /for-hia-entities-hc-professionals/incident-reporting
-      - title: Enforcement Decisions
-        url: /enforcement-decisions
-      - title: Alerts and Advisories
-        url: /for-hia-entities-hc-professionals/alerts-and-advisories
-  - title: Enforcement Decisions
-    url: /enforcement-decisions
-    sublinks:
-      - title: For Members of Public
-        url: /enforcement-decisions
-      - title: Entities/ Health Professionals
-        url: /enforcement-decisions
+      - title: Ongoing/Past Consultations
+        url: /ongoing-or-past-consultations
   - title: Help & Resources
-    url: /for-members-of-public/help-and-resources
+    url: /help-and-resources
     sublinks:
-      - title: For Members of Public
-        url: for-members-of-public/help-and-resources
-      - title: Entities/ Health Professionals
-        url: /for-hia-entities-hc-professionals/help-and-resources
-      - title: Latest News
-        url: /Latest-News
-      - title: FAQs
+      - title: FAQs, Guidelines, Others
         url: /Frequently-Asked-Questions
+      - title: Implementation Support
+        url: /implementation-support
+      - title: Useful Links
+        url: /useful-links
