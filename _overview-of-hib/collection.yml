@@ -2,10 +2,10 @@ collections:
   overview-of-hib:
     output: true
     order:
-      - Blocking your health information.md
       - Introduction.md
       - Health Information and the NEHR.md
       - Accessing your Health Information.md
       - Sharing your health information.md
+      - Blocking your health information.md
       - Protecting your Health Information.md
       - Glossary.md
