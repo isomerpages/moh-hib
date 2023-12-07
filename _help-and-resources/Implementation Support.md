@@ -1,18 +1,7 @@
 ---
 title: Implementation Support
 permalink: /implementation-support/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-# Grants for GP clinics
-* [GP IT Enablement (GP ITE)](https://oursggrants.gov.sg/grants/aicgpiteg/instruction)
-* [Early Contribution Incentive (ECI)](https://cms.synapxe.sg/sites/connectnehr/Pages/ParticipateNEHR.aspx)
-
-# Grants for Community Care Organisations and Social Services Agencies
-* [Community Care Digital Transformation Plan (CCDTP)](https://www.aic.sg/partners/digital-transformation-plan)
-* [Tech-n-Go](https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go)
-
-# Grants for SMEs
-* [Chief Technology Officer-as-a-Service (CTO-as-a-Service)](https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas)
-* [Chief Information Security Officers as-a-Service (CiSO as-a-Service)](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan)
-* [Productivity Solutions Grant](https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant)
+<h1>Grants for GP clinics</h1><ul data-tight="true" class="tight"><li><p><a href="https://oursggrants.gov.sg/grants/aicgpiteg/instruction" rel="noopener noreferrer nofollow" target="_blank">GP IT Enablement (GP ITE)</a></p></li><li><p><a href="https://cms.synapxe.sg/sites/connectnehr/Pages/ParticipateNEHR.aspx" rel="noopener noreferrer nofollow" target="_blank">Early Contribution Incentive (ECI)</a></p></li></ul><h1>Grants for Community Care Organisations and Social Services Agencies</h1><ul data-tight="true" class="tight"><li><p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a></p></li><li><p><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a></p></li></ul><h1>Grants for SMEs</h1><ul data-tight="true" class="tight"><li><p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank">Chief Technology Officer-as-a-Service (CTO-as-a-Service)</a></p></li><li><p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan" rel="noopener noreferrer nofollow" target="_blank">Chief Information Security Officers as-a-Service (CiSO as-a-Service)</a></p></li><li><p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant</a></p></li></ul><p></p>
