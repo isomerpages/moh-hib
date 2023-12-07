@@ -2,6 +2,7 @@ collections:
   overview-of-hib:
     output: true
     order:
+      - Sharing your health information.md
       - Introduction.md
       - Health Information and the NEHR.md
       - Accessing your Health Information.md
