@@ -2,10 +2,6 @@
 title: FAQs, Guidelines, Others
 permalink: /faqs-guidelines-others/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Questions on HIB?
-Please feel free to write in to HIA_Enquiries@moh.gov.sg if you have further questions on the Health Information Bill. 
-# Guidelines for Healthcare Professionals
-# Guidelines for HIA Entities
-# Guidelines for CMS vendors
+<h1>Questions on HIB?</h1><p>Please feel free to write in to HIA_Enquiries@moh.gov.sg if you have further questions on the Health Information Bill.</p><h1>Guidelines for Healthcare Professionals</h1><h1>Guidelines for HIA Entities</h1><h1>Guidelines for CMS vendors</h1><ul data-tight="true" class="tight"><li><p><a href="https://www.moh.gov.sg/resources-statistics/guidelines/code-of-practice-for-clinic-management-system-data-portability" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a></p></li></ul><p></p>
