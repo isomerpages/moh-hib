@@ -31,11 +31,11 @@ sections:
       button: Learn More
       url: /consultations
       alt: Image alt text
-      image: /images/different levels.png
+      image: /images/hia website public consults.png
   - infopic:
       title: Help & Resources
       button: Learn More
       url: /faqs-guidelines-others
       alt: Image alt text
-      image: /images/hia website public consults.png
+      image: /images/frequently asked questions.png
 ---
