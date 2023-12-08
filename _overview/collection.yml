@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Health Information and the NEHR.md
-      - Health Information and the NEHR boo.md
       - Accessing Your Health Information.md
       - Sharing Your Health Information.md
       - Blocking Your Health Information.md
