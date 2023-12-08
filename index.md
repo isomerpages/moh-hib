@@ -4,7 +4,7 @@ title: Health Information Bill
 description: A website on the Health Information Bill
 image: /images/moh_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Health Information Bill
