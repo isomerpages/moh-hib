@@ -5,19 +5,9 @@ permalink: /contact-us/
 agency_name: us
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
-  - content:
       - phone: ""
       - email: HIA_Enquiries@moh.gov.sg
       - other: ""
-    title: Email
+    title: General Enquiries & Feedback
 feedback: ""
 ---
