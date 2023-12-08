@@ -2,8 +2,8 @@ collections:
   overview:
     output: true
     order:
-      - Health Information and the NEHR.md
       - Introduction.md
+      - Health Information and the NEHR.md
       - Health Information and the NEHR boo.md
       - Accessing Your Health Information.md
       - Sharing Your Health Information.md
