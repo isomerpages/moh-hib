@@ -1,5 +1,5 @@
 collections:
-  overview-of-hib:
+  overview:
     output: true
     order:
       - Introduction.md
