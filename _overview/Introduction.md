@@ -9,7 +9,7 @@ variant: markdown
 ##### "Who is using the health data? What is it used for?"
 ##### "Another cyber-attack!? What is the government doing to protect my medical information?"
 If these questions ring a bell, the upcoming Health Information Bill (HIB) has the answers.
-The **HIB** mandates the contribution of selected health information that you share with your healthcare providers to a national database, the National Electronic Healthcare Record (NEHR) and **puts in place safeguards for the use of your health information to improve your care experience**.
+The **HIB** mandates the contribution of selected health information that you share with your healthcare providers to a national database, the National Electronic Healthcare Record (NEHR). It also imposes safeguards to **secure the use of your health information**. With HIB, you should be able to **enjoy a more seamless and better care experience**, and your healthcare provider will be able to **make better clinical decisions** for you.
 
 # Objectives of the Health Information Bill (HIB)
 The Health Information Bill sets out provisions to:
