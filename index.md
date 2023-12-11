@@ -21,7 +21,7 @@ sections:
           url: /faqs-guidelines-others
       background: /images/hia website banner.jpg
   - infopic:
-      title: What is HIB?
+      title: What is the Health Information Bill?
       button: Learn more
       url: /overview/introduction/
       alt: Image alt text
