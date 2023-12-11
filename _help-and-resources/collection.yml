@@ -1,0 +1,7 @@
+collections:
+  help-and-resources:
+    output: true
+    order:
+      - FAQs, Guidelines, Others.md
+      - Implementation Support.md
+      - Useful Links.md

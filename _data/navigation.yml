@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/moh_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Overview
+    collection: overview
+  - title: Consultations
+    url: /consultations
+    sublinks:
+      - title: Ongoing/Past Consultations
+        url: /consultations
+  - title: Help & Resources
+    url: /faqs-guidelines-others/
+    sublinks:
+      - title: FAQs, Guidelines, Others
+        url: /faqs-guidelines-others
+      - title: Implementation Support
+        url: /implementation-support
+      - title: Useful Links
+        url: /useful-links/
