@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
       image: /images/hia website assets objectives.png
   - infopic:
-      title: Provide your feedback
+      title: Provide Your Feedback
       button: Learn More
       url: /consultations
       alt: Image alt text
