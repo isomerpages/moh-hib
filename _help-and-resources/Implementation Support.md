@@ -26,7 +26,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li style="padding-top:1px;" span="">
-<p>Applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS)</p>
+Applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS)
 	</li>
 </ul>
 </li>
