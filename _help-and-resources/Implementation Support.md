@@ -24,12 +24,11 @@ description: ""
 <li>
 <p><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a>
 </p>
-<ul data-tight="true" class="tight">
+<span style="padding-top:1px;"><ul data-tight="true" class="tight"> 
 <li>
-<p>Applicable only to Community Care Organisations that are Members of the
-National Council of Social Service (NCSS)</p>
-</li>
-</ul>
+<p>Applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS)</p>
+	</li>
+</ul></span>
 </li>
 </ul>
 <h1>Grants for SMEs</h1>
