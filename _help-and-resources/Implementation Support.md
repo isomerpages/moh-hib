@@ -25,7 +25,7 @@ description: ""
 <p><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a>
 </p>
 <ul data-tight="true" class="tight">
-<li style="padding-top:1px;" span="">
+<li>
 Applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS)
 	</li>
 </ul>
