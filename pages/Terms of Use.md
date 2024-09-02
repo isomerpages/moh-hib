@@ -8,7 +8,7 @@ description: ""
 <ol>
 <li>
 <p>Thank you for visiting the Ministry of Health corporate website. Access
-to any page in <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.moh.gov.sg</u></a> (henceforth
+to any page in <a href="www.moh.gov.sg" rel="noopener nofollow" target="_blank">www.moh.gov.sg</a> (henceforth
 known as “Web Site”) is governed by the terms and conditions stipulated
 below (“Terms”). Your access and use of this Web Site constitutes your
 acceptance and agreement to be bound by these terms and conditions of use
@@ -328,7 +328,7 @@ Site.</p>
 <li>
 <p>Where permission is required by these Terms of Use for the use of this
 Website or the Contents, you may apply for permission by writing to the
-Ministry of Health at <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moh.gov.sg/feedback</u></a>.</p>
+Ministry of Health at <a href="https://www.moh.gov.sg/feedback" rel="noopener nofollow" target="_blank">https://www.moh.gov.sg/feedback</a>.</p>
 </li>
 <li>
 <p>The Ministry of Health may, at its sole and absolute discretion, grant
@@ -367,7 +367,7 @@ your application or access your website.</p>
 <li>
 <p>If your Sub-Licensees require additional rights, your application and/or
 website should direct your Sub-Licensees to obtain the appropriate licence
-at <a href="https://www.moh.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a>.</p>
+at <a href="https://data.gov.sg/" rel="noopener nofollow" target="_blank">data.gov.sg</a>.</p>
 </li>
 </ul>
 <p><strong>Limitations</strong>
