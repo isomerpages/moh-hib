@@ -470,8 +470,9 @@ acceptance of the new version of this Licence.</p>
 <p><strong>API Terms of Service</strong>
 </p>
 <p>The Agency may offer datasets through an API. Use of the datasets is governed
-by the Singapore Open Data Licence. The service through which you may access
-datasets via APIs is subject to these API terms of service (“Terms of Service”).</p>
+by the <a href="https://data.gov.sg/open-data-licence" rel="noopener nofollow" target="_blank">Singapore Open Data Licence</a>.
+The service through which you may access datasets via APIs is subject to
+these API terms of service (“Terms of Service”).</p>
 <p>By Using an API on the Relevant Websites, you agree to the Terms of Service.</p>
 <p>What You Can Do:</p>
 <ul data-tight="true" class="tight">
