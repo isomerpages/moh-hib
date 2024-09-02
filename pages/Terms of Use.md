@@ -87,7 +87,7 @@ Contents are owned by, licensed to or controlled by the Ministry of Health.</p>
 <h3><strong>Privacy Policy</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Click <a href="https://healthinfo.gov.sg/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+<p>Click <a href="https://healthinfo.gov.sg/privacy/" rel="noopener nofollow" target="_blank">here</a> to
 view this Web Site’s Privacy Policy Statement.</p>
 </li>
 </ol>
