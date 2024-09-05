@@ -19,23 +19,23 @@ sections:
         - title: Help & Resources
           description: ""
           url: /faqs-guidelines-others
-      background: /images/hia website banner.jpg
+      background: /images/Assets/hia website banner.jpg
   - infopic:
       title: What is the Health Information Bill?
       button: Learn more
       url: /overview/introduction/
       alt: Image alt text
-      image: /images/hia website assets objectives.png
+      image: /images/Assets/hia website assets objectives.png
   - infopic:
       title: Provide Your Feedback
       button: Learn More
       url: /consultations
       alt: Image alt text
-      image: /images/hia website public consults.png
+      image: /images/Assets/hia website public consults.png
   - infopic:
       title: Help & Resources
       button: Learn More
       url: /faqs-guidelines-others/
       alt: Image alt text
-      image: /images/frequently asked questions.png
+      image: /images/Assets/frequently asked questions.png
 ---

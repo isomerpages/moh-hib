@@ -1,6 +1,6 @@
 title: Health Information Bill
 url: https://healthinfo.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Logos/moh_logo2.png
 colors:
   primary-color: "#febd02"
   secondary-color: "#58d3bb"
@@ -53,7 +53,7 @@ staging: https://staging.d347474y9046ok.amplifyapp.com
 prod: https://master.d347474y9046ok.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/moh_logo.png
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
