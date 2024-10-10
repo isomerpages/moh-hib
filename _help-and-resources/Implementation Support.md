@@ -54,7 +54,7 @@ with the Cyber and Data Security Guidelines, healthcare organisations can
 approach any of the following service providers to implement the necessary
 security measures.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <p>Note: <em>The Ministry of Health (MOH) does not endorse, recommend, or guarantee the quality of any organisation, individual or service mentioned herein. Users are advised to conduct their own due diligence and exercise judgement in selecting service providers.</em>
 </p>
