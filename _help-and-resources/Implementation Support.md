@@ -47,5 +47,13 @@ National Council of Social Service (NCSS)</p>
 </p>
 </li>
 </ul>
-<h3><strong><u>Service Providers</u></strong><br><strong><u> (Coming Soon)</u></strong></h3>
+<p><strong><u>Service Providers</u></strong>
+<br>
+</p>
+<p>In today's digital landscape, cybersecurity and data security are paramount
+for organisations of all sizes, including healthcare providers. To comply
+with the Cyber and Data Security Guidelines, healthcare organisations can
+approach any of the following service providers to implement the necessary
+security measures.</p>
+<p></p>
 <p></p>
