@@ -47,7 +47,5 @@ National Council of Social Service (NCSS)</p>
 </p>
 </li>
 </ul>
-<h3><strong><u>Guidebook (Coming Soon)</u></strong></h3>
-<p></p>
 <h3><strong><u>Service Providers</u></strong><br><strong><u> (Coming Soon)</u></strong></h3>
 <p></p>
