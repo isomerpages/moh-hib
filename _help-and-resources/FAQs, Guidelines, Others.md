@@ -33,5 +33,10 @@ have further questions on the Health Information Bill.</p>
 </li>
 </ul>
 <h1>Guidelines for CMS vendors</h1>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moh.gov.sg/resources-statistics/guidelines/code-of-practice-for-data-portability" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
+</p>
+</li>
+</ul>
 <p></p>
