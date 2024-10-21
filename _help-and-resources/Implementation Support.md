@@ -4,7 +4,7 @@ permalink: /implementation-support/
 variant: tiptap
 description: ""
 ---
-<h1>Grants for GP clinics</h1>
+<h3><strong><u>Funding Support</u></strong><br><br>Grants for GP clinics</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://oursggrants.gov.sg/grants/aicgpiteg/instruction" rel="noopener noreferrer nofollow" target="_blank">GP IT Enablement (GP ITE)</a>
@@ -15,7 +15,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h1>Grants for Community Care Organisations and Social Services Agencies</h1>
+<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
@@ -24,14 +24,15 @@ description: ""
 <li>
 <p><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a>
 </p>
-<span style="padding-top:1px;"><ul data-tight="true" class="tight"> 
+<ul data-tight="true" class="tight">
 <li>
-<p>Applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS)</p>
-	</li>
-</ul></span>
+<p>Applicable only to Community Care Organisations that are Members of the
+National Council of Social Service (NCSS)</p>
 </li>
 </ul>
-<h1>Grants for SMEs</h1>
+</li>
+</ul>
+<h3>Grants for SMEs</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank">Chief Technology Officer-as-a-Service (CTO-as-a-Service)</a>
@@ -46,4 +47,15 @@ description: ""
 </p>
 </li>
 </ul>
+<h3><strong><u>Service Providers</u></strong><br></h3>
+<p>In today's digital landscape, cybersecurity and data security are paramount
+for organisations of all sizes, including healthcare providers. To comply
+with the Cyber and Data Security Guidelines, healthcare organisations can
+approach any of the following service providers to implement the necessary
+security measures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p>Note: <em>The Ministry of Health (MOH) does not endorse, recommend, or guarantee the quality of any organisation, individual or service mentioned herein. Users are advised to conduct their own due diligence and exercise judgement in selecting service providers.</em>
+</p>
 <p></p>
