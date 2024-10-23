@@ -48,14 +48,17 @@ National Council of Social Service (NCSS)</p>
 </li>
 </ul>
 <h3><strong><u>Service Providers</u></strong><br></h3>
-<p>In today's digital landscape, cybersecurity and data security are paramount
-for organisations of all sizes, including healthcare providers. To comply
-with the Cyber and Data Security Guidelines, healthcare organisations can
-approach any of the following service providers to implement the necessary
-security measures.</p>
+<p>In today’s digital landscape, cybersecurity and data security are paramount
+for organisations of all sizes. Healthcare organisations will accordingly
+be required to comply with cyber and data security requirements under the
+Health Information Bill, including the Cyber and Data Security Guidelines.
+For assistance with implementing the necessary security measures, healthcare
+organisations may wish to approach any of the service providers in the
+table below.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p>Note: <em>The Ministry of Health (MOH) does not endorse, recommend, or guarantee the quality of any organisation, individual or service mentioned herein. Users are advised to conduct their own due diligence and exercise judgement in selecting service providers.</em>
+<p><em>Note:  MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out below, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list below, which has only been provided for reference.</em>
 </p>
 <p></p>
