@@ -36,4 +36,5 @@ have further questions on the Health Information Bill.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/MOH_Cir_No_85_2023_04Dec2023_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers_Annex_A.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidelines</a>
+</p>
