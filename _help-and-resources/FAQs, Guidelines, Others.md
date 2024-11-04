@@ -32,6 +32,10 @@ have further questions on the Health Information Bill.</p>
 <h1>Guidelines for CMS vendors</h1>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/MOH_Cir_No_85_2023_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers.pdf" rel="noopener noreferrer nofollow" target="_blank">Circular - Cyber and Data Security Guidelines</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.moh.gov.sg/resources-statistics/guidelines/code-of-practice-for-data-portability" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
 </p>
 <p></p>
