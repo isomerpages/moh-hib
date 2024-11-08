@@ -13,6 +13,10 @@ have further questions on the Health Information Bill.</p>
 <p><a href="/files/FAQs_on_the_Proposed_HIB_13_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on the Proposed Health Information Bill</a>
 </p>
 </li>
+<li>
+<p><a href="/files/FAQs_on_COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on Code of Practice for Clinic Management System Data Portability</a>
+</p>
+</li>
 </ul>
 <h1>Guidelines for Healthcare Professionals</h1>
 <ul data-tight="true" class="tight">
@@ -36,7 +40,7 @@ have further questions on the Health Information Bill.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moh.gov.sg/resources-statistics/guidelines/code-of-practice-for-data-portability" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
+<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
 </p>
 <p></p>
 </li>
