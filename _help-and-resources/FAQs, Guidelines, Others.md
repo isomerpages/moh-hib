@@ -18,6 +18,7 @@ have further questions on the Health Information Bill.</p>
 </p>
 </li>
 </ul>
+<p></p>
 <h1>Guidelines for Healthcare Professionals</h1>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,18 +32,29 @@ have further questions on the Health Information Bill.</p>
 <p><a href="/files/MOH_Cir_No_85_2023_04Dec2023_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers_Annex_A.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidelines</a>
 </p>
 </li>
-</ul>
-<p></p>
-<h1>Guidelines for CMS vendors</h1>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/MOH_Cir_No_85_2023_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers.pdf" rel="noopener noreferrer nofollow" target="_blank">Circular - Cyber and Data Security Guidelines</a>
 </p>
 </li>
+</ul>
+<h1>Guidelines for CMS vendors</h1>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
 </p>
-<p></p>
 </li>
 </ul>
+<h1>CYBER &amp; DATA SECURITY GUIDEBOOK FOR HEALTHCARE PROVIDERS </h1>
+<p>This guidebook offers practical guidance and examples to help healthcare
+providers understand and meet the Cyber and Data Security Guidelines for
+Healthcare Providers. Start your journey today and take the necessary steps
+to protect health information.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/241112_Generic_HIB_CYBER_DATA_SECURITY_GUIDEBOOK__Website_Upload_.pdf" rel="noopener nofollow" target="_blank">Cyber Data Security Guidebook</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
