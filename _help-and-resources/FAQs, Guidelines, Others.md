@@ -45,7 +45,7 @@ have further questions on the Health Information Bill.</p>
 </p>
 </li>
 </ul>
-<h1>CYBER &amp; DATA SECURITY GUIDEBOOK FOR HEALTHCARE PROVIDERS</h1>
+<h1>Cyber &amp; Data Security Guidebook For Healthcare Providers</h1>
 <p>This guidebook offers practical guidance and examples to help healthcare
 providers understand and meet the Cyber and Data Security Guidelines for
 Healthcare Providers. Start your journey today and take the necessary steps
