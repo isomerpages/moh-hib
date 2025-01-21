@@ -79,15 +79,8 @@ must be provided to MOH <strong>within 2 hours</strong>.</p>
 It also allows MOH to spot patterns that <strong>signal a larger-scale attack </strong>and<strong> pre-emptively take action to protect the integrity</strong> of
 our healthcare system.</p>
 <p>Healthcare providers are also required to<strong> notify the affected individuals in the event of a notifiable data breach</strong>.
-Notifiable data breaches refer to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Data breaches involving Sensitive Health Information; OR</p>
-</li>
-<li>
-<p>Data breaches involving more than 500 individuals*.</p>
-</li>
-</ol>
+Notifiable data breaches refer to data breaches involving more than 500
+individuals*.</p>
 <p>The HIB will not require healthcare providers to report data breaches
 involving non-health information, such as the loss of only financial data
 or account login details. However, they may still be required to report
