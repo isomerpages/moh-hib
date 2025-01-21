@@ -41,46 +41,7 @@ about your health or disability.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Some health information exposes a patient to greater harm </strong>during
-a data breach. These are categorised as <strong>Sensitive Health Information</strong>,
-and <strong>additional controls and safeguards </strong>would be in place
-for managing these.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>Examples of Sensitive Health Information are:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HIV status</p>
-</li>
-<li>
-<p>Substance abuse and addiction</p>
-</li>
-<li>
-<p>Abortion</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click <a href="https://www.moh.gov.sg/others/resources-and-statistics/dbn-list-2021/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the list of Sensitive Health Information.</p>
-</li>
-<li>
-<p>Click <a href="https://www.healthinfo.gov.sg/overview/protecting-your-health-information/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on how the HIB protects your health information, including
-Sensitive Health Information.</p>
-</li>
-</ul>
+<p>Find out <a href="https://www.healthinfo.gov.sg/overview/protecting-your-health-information/" rel="noopener noreferrer nofollow" target="_blank">how the HIB protects your health information</a>.</p>
 <h1>Where will my health information be stored?</h1>
 <p>When you visit a healthcare professional, your health information will
 be recorded in their health record system. Under the HIB, <strong>a selected subset of these information will be contributed and stored in the National Electronic Health Record (NEHR)</strong>.
