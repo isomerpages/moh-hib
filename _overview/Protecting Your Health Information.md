@@ -61,7 +61,7 @@ they:</p>
 <p>This <strong>ensures the safe and secure handling of health information</strong>.
 Similar security requirements apply to any third-party vendor that the
 healthcare provider engages to process health information under the HIB.
-More details on the specific security measures can be found in the <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/cyber-data-security-guidelines-for-healthcare-providers" rel="noopener noreferrer nofollow" target="_blank">Cyber and Data Security Guidelines for Healthcare Providers</a>.</p>
+More details on the specific security measures can be found in the <a href="/files/MOH_Cir_No_85_2025_24Jan2025_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber and Data Security Guidelines for Healthcare Providers</a>.</p>
 <p>MOH will also <strong>conduct random audits</strong> to ensure that healthcare
 providers have fulfilled the security measures.</p>
 <h1>What happens when a cybersecurity incident or data breach occurs?</h1>
