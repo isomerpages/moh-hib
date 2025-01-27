@@ -61,7 +61,7 @@ they:</p>
 <p>This <strong>ensures the safe and secure handling of health information</strong>.
 Similar security requirements apply to any third-party vendor that the
 healthcare provider engages to process health information under the HIB.
-More details on the specific security measures can be found in the <a href="/files/20250116_Generic_HIB_CYBER_DATA_SECURITY_GUIDEBOOK__Website_Upload__Version_1_1_Jan2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber and Data Security Guidelines for Healthcare Providers</a>.</p>
+More details on the specific security measures can be found in the <a href="/files/moh cir no 85_2025_24jan2025_cyber and data security guidelines for healthcare providers_annex a.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber and Data Security Guidelines for Healthcare Providers</a>.</p>
 <p>MOH will also <strong>conduct random audits</strong> to ensure that healthcare
 providers have fulfilled the security measures.</p>
 <h1>What happens when a cybersecurity incident or data breach occurs?</h1>
