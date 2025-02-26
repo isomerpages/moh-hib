@@ -52,7 +52,7 @@ Healthcare Providers. Start your journey today and take the necessary steps
 to protect health information.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/20250116_Generic_HIB_CYBER_DATA_SECURITY_GUIDEBOOK__Website_Upload__Version_1_1_Jan2025.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidebook</a>
+<p><a href="/files/HIB_CYBER_DATA_SECURITY_GUIDEBOOK__Website_Upload__Version_1_3_Feb2025.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidebook</a>
 </p>
 </li>
 </ul>
