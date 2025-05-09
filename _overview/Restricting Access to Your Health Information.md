@@ -17,7 +17,7 @@ the healthcare professional. Healthcare professionals who inappropriately
 override access restrictions to NEHR records may be subject to legal penalties
 under the HIB and disciplinary action from the respective professional
 bodies, such as the Singapore Medical Council.</p>
-<h1>What happens after I exercise my restriction rights?</h1>
+<h1>What happens after I exercise my access restriction rights?</h1>
 <p>While healthcare professionals will be blocked from accessing your NEHR
 records, the background <strong>contribution of selected health information to NEHR will continue</strong>.
 This ensures that there will be <strong>no gaps in your NEHR record</strong> if
