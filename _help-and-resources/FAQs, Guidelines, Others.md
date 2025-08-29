@@ -33,7 +33,7 @@ have further questions on the Health Information Bill.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/MOH_Cir_No_85_2025_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers_Annex_A_1_2.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidelines</a>
+<p><a href="/files/MOH_Cir_No_85_2025_Cyber_and_Data_Security_Guidelines_for_Healthcare_Providers_Annex_A_1_3.pdf" rel="noopener nofollow" target="_blank">Cyber and Data Security Guidelines</a>
 </p>
 </li>
 </ul>
