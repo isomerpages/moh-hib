@@ -78,15 +78,7 @@ must be provided to MOH <strong>within 2 hours</strong>.</p>
 <p>The mandatory reporting of such incidents enables MOH to <strong>coordinate and respond to incidents that may adversely impact patient safety and privacy</strong>.
 It also allows MOH to spot patterns that <strong>signal a larger-scale attack </strong>and<strong> pre-emptively take action to protect the integrity</strong> of
 our healthcare system.</p>
-<p>Healthcare providers are also required to<strong> notify the affected individuals in the event of a notifiable data breach</strong>.
-Notifiable data breaches refer to data breaches involving more than 500
-individuals*.</p>
-<p>The HIB will not require healthcare providers to report data breaches
-involving non-health information, such as the loss of only financial data
-or account login details. However, they may still be required to report
-such data breaches to PDPC if it meets the PDPA's data breach notification
-criteria.</p>
-<p><em>*The “500 individual” threshold is aligned with PDPA’s data breach notification criteria.</em>
-</p>
+<p>Healthcare providers are also required to<strong> notify the affected individuals in the event of a notifiable data breach</strong> where
+appropriate.</p>
 <h1></h1>
 <p></p>
