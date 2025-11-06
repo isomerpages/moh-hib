@@ -1,12 +1,9 @@
 ---
-title: Ongoing or Past Consultations
+title: Public Consultations
 permalink: /consultations/
 description: ""
 variant: tiptap
 ---
-<h1>Active Consultations</h1>
-<p>There are currently no active consultations.</p>
-<p></p>
 <h1>Closed Consultations</h1>
 <p>The public consultation exercise on the Health Information Bill and upcoming
 guidelines on the appropriate use and access to the National Electronic
