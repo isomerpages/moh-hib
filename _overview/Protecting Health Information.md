@@ -1,6 +1,6 @@
 ---
-title: Protecting Your Health Information
-permalink: /overview/protecting-your-health-information/
+title: Protecting Health Information
+permalink: /overview/protecting-health-information/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
-title: Sharing Your Health Information
-permalink: /overview/sharing-your-health-information/
+title: Sharing of Health Information
+permalink: /overview/sharing-of-health-information/
 variant: tiptap
 description: ""
 ---

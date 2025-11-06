@@ -4,8 +4,7 @@ collections:
     order:
       - Introduction.md
       - Health Information and the NEHR.md
-      - Access to Your Health Information.md
-      - Sharing Your Health Information.md
-      - Restricting Access to Your Health Information.md
-      - Protecting Your Health Information.md
-      - Glossary.md
+      - Access to Health Information.md
+      - Restricting Access to Health Information.md
+      - Sharing of Health Information.md
+      - Protecting Health Information.md
