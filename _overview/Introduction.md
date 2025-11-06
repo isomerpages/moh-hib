@@ -5,28 +5,22 @@ variant: tiptap
 description: ""
 ---
 <h2>Objectives of the Health Information Bill (HIB)</h2>
-<ol data-tight="true" class="tight">
-<li>
-<p>HIB will require all licensed healthcare providers, including private
-clinics, clinical laboratories and radiological services, to contribute
-selected health information to NEHR. These providers will also be granted
-access to NEHR to support better care continuity and safeguard patient
-welfare.</p>
-</li>
-</ol>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HIB will also
-enable and regulate the sharing of non-NEHR individually identifiable health
-information within the healthcare ecosystem in support of national health
-programmes and initiatives.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HIB will require all licensed healthcare providers, including private clinics,
+clinical laboratories and radiological services, to contribute selected
+health information to NEHR. These providers will also be granted access
+to NEHR to support better care continuity and safeguard patient welfare.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HIB will also enable and regulate the sharing of non-NEHR individually
+identifiable health information within the healthcare ecosystem in support
+of national health programmes and initiatives.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 To ensure the confidentiality, integrity and availability of health information,
 the HIB will set out cybersecurity and data security standards for healthcare
 providers and Health Information Management Systems (HIMS).</p>
-<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/overview.png">
 </div>
-<p>More details can be found in our HIB public consultation paper on <a href="https://go.gov.sg/hib-consult" rel="noopener noreferrer nofollow" target="_blank">REACH</a>.
-You may also write in to <a href="mailto:HIA_Enquiries@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HIA_Enquiries@moh.gov.sg</a> to provide
-your feedback and enquiries.</p>
+<p></p>
 <p></p>
