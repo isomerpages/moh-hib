@@ -4,4 +4,29 @@ permalink: /overview/introduction/
 variant: tiptap
 description: ""
 ---
-<blockquote><p><em>“I don't remember... is there another way that my doctor can find out all the medicines I am taking?”</em></p></blockquote><blockquote><p><em>“Who is using my health data? What is it used for?”</em></p></blockquote><blockquote><p><em>“Another cyber-attack!? What is the government doing to protect my medical information?”</em></p></blockquote><p>If these questions ring a bell, the upcoming Health Information Bill (HIB) has the answers.</p><p>The proposed <strong>HIB</strong> mandates the contribution of a copy of selected key health information that you share with your healthcare providers to a national database, the National Electronic Health Record (NEHR). It also imposes safeguards to <strong>secure the use of your health information</strong>. With HIB, you will be able to <strong>enjoy a more seamless and better care experience</strong>, and your healthcare provider will be able to <strong>make better clinical decisions</strong> for you.</p><p>&nbsp;</p><h1>Objectives of the Health Information Bill (HIB)</h1><p>The Health Information Bill sets out provisions to:</p><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensure that health information is kept updated, accurate, and accessible by healthcare providers. This is done through requiring healthcare providers to contribute selected health information to the <strong>National Electronic Health Record (NEHR)</strong>.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Establish a framework for the sharing of health information between healthcare providers in the healthcare ecosystem to support the continuity of your care.</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set out the basic data security and cybersecurity requirements that healthcare providers must comply with.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/overview.png"></div><p>More details can be found in our HIB public consultation paper on <a href="https://go.gov.sg/hib-consult" rel="noopener noreferrer nofollow" target="_blank">REACH</a>. You may also write in to <a href="mailto:HIA_Enquiries@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HIA_Enquiries@moh.gov.sg</a> to provide your feedback and enquiries.</p><p></p>
+<h2>Objectives of the Health Information Bill (HIB)</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>HIB will require all licensed healthcare providers, including private
+clinics, clinical laboratories and radiological services, to contribute
+selected health information to NEHR. These providers will also be granted
+access to NEHR to support better care continuity and safeguard patient
+welfare.</p>
+</li>
+<li>
+<p>HIB will also enable and regulate the sharing of non-NEHR individually
+identifiable health information within the healthcare ecosystem in support
+of national health programmes and initiatives.</p>
+</li>
+<li>
+<p>To ensure the confidentiality, integrity and availability of health information,
+the HIB will set out cybersecurity and data security standards for healthcare
+providers and Health Information Management Systems (HIMS).</p>
+</li>
+</ol>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/overview.png">
+</div>
+<p></p>
+<p></p>
