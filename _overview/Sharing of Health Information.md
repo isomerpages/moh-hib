@@ -4,4 +4,35 @@ permalink: /overview/sharing-of-health-information/
 variant: tiptap
 description: ""
 ---
-<h1>Health information beyond your NEHR records may be shared</h1><p>There exists a wealth of information outside the NEHR, some of which may be even more detailed and accurate. Some examples include the clinical notes of GPs or a hospital’s electronic medical records. Indeed, some hospitals and clinics are already sharing health information through their internal health record systems to better support care delivery.</p><p>While the sharing of such information has benefits such as supporting better care quality and enabling the administration of financial assistance schemes, we recognise the potential risks of exposure should there be any unauthorised use. You may be concerned about <strong>who has access</strong> to your health information, <strong>what type</strong> of information may be shared, and for <strong>what purposes</strong>. &nbsp;</p><p>Therefore, the HIB will also <strong>introduce safeguards</strong> <strong>to address concerns on data privacy, confidentiality and security</strong>.</p><h1>Data sharing is allowed only in specific scenarios</h1><p>One of the important safeguards is that <strong>data sharing can only occur if the sharing fulfils all three legal requirements under the HIB</strong>:</p><ol data-tight="true" class="tight"><li><p>The healthcare providers who intend to share and receive your health information must be '<strong>appointed parties</strong>' listed in the HIB;</p></li><li><p>Only the types of data listed in the HIB can be shared; and</p></li><li><p>Your health information can be shared only for purposes listed in the HIB.</p><p></p></li></ol><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Data types allowed to be shared between ‘appointed parties’</strong></p></td><td rowspan="1" colspan="1"><p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative data, </strong>including personal information such as name, address, contact details, and other demographic data.</p><p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clinical data, </strong>including diagnoses, prescriptions, and other information relating to the health of the patient.</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Allowable purposes for data sharing</strong></p></td><td rowspan="1" colspan="1"><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outreach under national healthcare initiatives such as Healthier SG</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supporting continuity of care</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eligibility assessment for financial schemes</p><p><strong>&nbsp;</strong></p></td></tr></tbody></table><p><strong>If any one of the three criteria is not met</strong>, the healthcare provider <strong>will not be allowed</strong> to share your health information under the HIB. Beyond the stipulated purposes in HIB, the provider will have to rely on other legal basis (i.e. other laws) or seek your consent before such data can be shared.</p><p><strong>Penalties will be imposed on healthcare providers and individuals who share your health information without consent </strong>or if they are unable to justify the sharing on any other legal basis.</p><h1>Anonymised or aggregated sharing</h1><p>The goal of data sharing is to <strong>benefit Singaporeans</strong>. Sharing of health information, <strong>aggregated at the population level</strong>, enables the Government or private entities such as research institutions to perform data analysis and <strong>obtain findings or insights that helps to develop better policies or medical treatments</strong>.</p><p>Where necessary, the Minister for Health may <strong>approve the disclosure of anonymised or aggregated health information</strong> and impose any conditions before the disclosure can take place. These include prohibiting the entities from re-identifying the individuals from the dataset.</p>
+<h2><strong>Beyond NEHR: Supporting National Health Initiatives</strong></h2>
+<p>The HIB will also provide the legal basis to enable sharing of health
+information to facilitate shared care and coordination across different
+settings and between healthcare institutions and community partners. While
+the sharing of such information has benefits such as supporting outreach
+for national programmes (e.g. Healthier SG and Age Well SG) and better
+care quality, we recognise the potential risks of exposure should there
+be any unauthorised use.</p>
+<p>Therefore, the HIB will also&nbsp;<strong>introduce safeguards</strong>&nbsp;<strong>to ensure proper governance, cybersecurity and data security</strong>.</p>
+<p>A key safeguard is that the HIB enables&nbsp;<strong>sharing of health information only if it fulfils these requirements:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The parties who are permitted to share and receive your health information
+must be listed in the HIB</p>
+</li>
+<li>
+<p>The specific use case for data sharing must be listed in the HIB</p>
+</li>
+<li>
+<p>Only the specific data types that are prescribed under the HIB can be
+shared and</p>
+</li>
+<li>
+<p>Your health information can be shared only for the use case listed in
+the HIB</p>
+<p></p>
+</li>
+</ol>
+<p>MOH will also be able to stop any further unauthorised sharing of health
+information</p>
+<p></p>
