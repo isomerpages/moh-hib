@@ -72,7 +72,7 @@ in patient care are granted NEHR access. Healthcare providers are also
 required to update NEHR when the roles of their authorised personnel change.</p>
 </li>
 <li>
-<p> <strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
+<p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
 </li>
 </ul>
 <p></p>
