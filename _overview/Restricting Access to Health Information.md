@@ -80,4 +80,12 @@ required to update NEHR when the roles of their authorised personnel change.</p>
 personnel to take corrective actions such as stopping unauthorised access
 and use of NEHR, and destroying health information collected in an unauthorised
 manner.</p>
-<p></p>
+<h2>NEHR has safeguards to protect against cyber-attacks</h2>
+<p>A comprehensive set of security measures and processes protect the NEHR
+against cyberattacks. On top of that, both system operator‘s and users’
+access are <strong>regularly audited and subjected to vulnerability scans and penetration tests </strong>to
+ensure strict compliance with security standards for government-owned systems.
+&nbsp;</p>
+<p>Additionally, systems that are required to connect to NEHR undergo a robust
+onboarding process to ensure that they have met the appropriate connectivity
+and security requirements before they are allowed to connect to NEHR.</p>
