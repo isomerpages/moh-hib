@@ -4,24 +4,20 @@ permalink: /improving-the-patient-journey-through-our-healthcare-ecosystem/
 variant: tiptap
 description: ""
 ---
-<h2>Improving the patient journey through our healthcare ecosystem</h2>
-<p>“…<em>better flow of patients’ data drives higher quality of care</em>”
-– Minister Ong at World Organisation of Family Doctors Asia Pacific Regional
-Conference 2024</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-As our population ages, medical conditions become more complex, and seeing
-a single doctor (whether public or private) may no longer be enough.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Patients may need to be referred to various specialists to manage different
-medical conditions. Or they may need access to additional services like
-health screening, rehabilitation, or physiotherapy.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Whether patients are seeing their family doctor, a specialist, or a surgeon
-for the first time, when healthcare providers can immediately access patients'
-medical history, drug allergies, and recent diagnostic images, they can
-make better and faster decisions about patients’ treatment.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-To do this, the healthcare system must be able to coordinate across these
-different touchpoints seamlessly to deliver a higher quality of care for
-patients. This requires patients' health information from previous visits
-to be collected, stored, and shared for doctors and healthcare providers.</p>
+<h2>How the HIA Affects Patients </h2>
+<p>Authorised healthcare professionals may access your NEHR records</p>
+<p>• Access to NEHR records only for the provision of healthcare service
+and community health service</p>
+<p>• Summary of the types of users who can access NEHR</p>
+<p>• Access to NEHR records not allowed for</p>
+<p>o Any employment purpose (except for statutory medical examinations prescribed
+under the HIA); or</p>
+<p>o Assessment of insurability.</p>
+<p>• MOH has developed a set of guidelines to guide healthcare professionals
+on the appropriate use and access to NEHR records.</p>
+<p>• MOH has also built in technical controls such as session timeout after
+a period of inactivity, and controls to limit patient search.</p>
+<p>• Regular backend audits are performed to flag inappropriate accesses
+for review and dormant accounts will be removed.</p>
+<p></p>
+<p></p>
