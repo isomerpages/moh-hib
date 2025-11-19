@@ -44,4 +44,11 @@ sections:
       url: /faqs-guidelines-others/
       alt: Image alt text
       image: /images/Assets/frequently asked questions.png
+  - infopic:
+      title: Why is HIA Important?
+      id: infopic
+      description: How will Singaporeans benefit from the Act?
+      button: Find out more
+      url: /overview/introduction/
+      alt: Image alt text
 ---
