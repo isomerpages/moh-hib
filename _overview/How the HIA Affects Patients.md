@@ -63,7 +63,7 @@ or insights that helps to develop better policies or medical treatments.</p>
 <p>• MOH may impose conditions before the disclosure can take place. These
 include prohibiting the entities from re-identifying the individuals from
 the dataset.</p>
-<h3>NEHR has safeguards to protect against cyber-attacks </h3>
+<h3>NEHR has safeguards to protect against cyber-attacks</h3>
 <p>• Third-party audits to ensure compliance with security standards for
 government-owned systems.</p>
 <p>• Robust onboarding process to ensure systems used by healthcare providers
@@ -88,7 +88,7 @@ must be provided to MOH within 2 hours.</p>
 <p>• Healthcare providers are also required to notify the affected individuals
 in the event of a notifiable data breach. Notifiable data breaches refer
 to data breaches involving more than 500 individuals.</p>
-<h3>Organisations must comply with baseline cybersecurity and data security measures </h3>
+<h3>Organisations must comply with baseline cybersecurity and data security measures</h3>
 <p>• Healthcare providers as well as their IT vendors supporting connection
 to NEHR must</p>
 <p>o Meet cybersecurity and data security requirements for IT systems and
@@ -109,7 +109,7 @@ penalties in place to serve as a deterrent in certain scenarios:</p>
 <p>o Access or collection of NEHR information for prohibited purposes (i.e.,
 for any employment or insurance purpose) will be subject to penalties that
 2x higher;</p>
-<p>o Unauthorised individuals’ who access or use of NEHR information will
+<p>o Unauthorised individuals who access or use of NEHR information will
 face penalties that are 2x higher, as these individuals were never allowed
 access to NEHR in the first place.</p>
 <p>• In the event of non-compliance or breach of HIA requirements, MOH has
