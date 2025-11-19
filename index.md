@@ -24,7 +24,7 @@ sections:
           url: /faqs-guidelines-others
         - title: For Public
           description: ""
-          url: ""
+          url: /overview/introduction/
       background: /images/Assets/hia website banner.jpg
   - infopic:
       title: What is the Health Information Bill?
