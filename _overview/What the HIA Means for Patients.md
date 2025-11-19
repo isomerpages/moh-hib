@@ -13,7 +13,7 @@ aspects of healthcare such as patient data, which needs to flow across
 different healthcare providers and settings. The Health Information Act
 (HIA) is developed to improve the current situation of data collection
 and sharing.</p>
-<h3>Improving the patient journey through our healthcare ecosystem </h3>
+<h3>Improving the patient journey through our healthcare ecosystem</h3>
 <blockquote>
 <p>“…better flow of patients’ data drives higher quality of care” – Minister
 Ong at World Organisation of Family Doctors Asia Pacific Regional Conference
@@ -36,7 +36,7 @@ visits to be collected, stored, and shared for doctors and healthcare providers.
 <p>• NEHR consolidates key health information from various healthcare institutions
 through seamless system-to-system integration. Sharing NEHR information
 benefits both patients and healthcare professionals</p>
-<p>• Provide link to NEHR: <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/" rel="noopener noreferrer nofollow" target="_blank">https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/</a> 
+<p>• Provide link to NEHR: <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/" rel="noopener noreferrer nofollow" target="_blank">https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/</a>
 </p>
 <h3>Closing the last mile on achieving a comprehensive overview of patients' medical histories</h3>
 <p>• All public healthcare institutions have onboarded the NEHR, with private
@@ -55,7 +55,7 @@ coverage across Singapore's healthcare landscape.</p>
 contribute to and benefit from the shared health record.</p>
 <p>Read on to learn more about what this means for you, and how MOH will
 continue to safeguard your health information .</p>
-<h3>Support outreach efforts for vulnerable patients in the community </h3>
+<h3>Support outreach efforts for vulnerable patients in the community</h3>
 <p>• Support vulnerable patients/seniors who are isolated in the community.</p>
 <p>• Sharing health information enables community care teams to reach out
 and identify these seniors before their isolation leads to serious health
