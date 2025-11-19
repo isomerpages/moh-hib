@@ -4,7 +4,7 @@ permalink: /improving-the-patient-journey-through-our-healthcare-ecosystem/
 variant: tiptap
 description: ""
 ---
-<h2>How the HIA Affects Patients </h2>
+<h2>How the HIA Affects Patients</h2>
 <p>Authorised healthcare professionals may access your NEHR records</p>
 <p>• Access to NEHR records only for the provision of healthcare service
 and community health service</p>
