@@ -23,7 +23,7 @@ sections:
           description: ""
           url: /faqs-guidelines-others
         - title: For Public
-          description: Key Highlight description
+          description: ""
           url: ""
       background: /images/Assets/hia website banner.jpg
   - infopic:
