@@ -3,7 +3,7 @@ url: https://healthinfo.gov.sg
 favicon: /images/Logos/moh_logo2.png
 colors:
   primary-color: "#549ad4"
-  secondary-color: "#c6a1cf"
+  secondary-color: "#9fd3c7"
   media-colors:
     - title: media-color-one
       color: "#286d9e"
