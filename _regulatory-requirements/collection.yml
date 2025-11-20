@@ -2,4 +2,5 @@ collections:
   regulatory-requirements:
     output: true
     order:
+      - What are My Obligations.md
       - Organisational Roles and Responsibilities.md
