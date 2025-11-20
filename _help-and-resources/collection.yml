@@ -2,10 +2,10 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Circulars.md
-      - FAQs.md
-      - Engagement.md
-      - Educational Materials.md
       - Implementation Support.md
+      - Educational Materials.md
+      - Engagement.md
+      - FAQs.md
+      - Circulars.md
       - FAQs, Guidelines, Others.md
       - Useful Links.md
