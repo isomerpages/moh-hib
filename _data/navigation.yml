@@ -13,12 +13,14 @@ links:
         url: /educational-materials/
       - title: Engagement
         url: /engagement/
-      - title: FAQs, Guidelines, Others
-        url: /faqs-guidelines-others
-      - title: Useful Links
-        url: /useful-links/
+      - title: FAQs
+        url: /permalink
       - title: Circulars
         url: /circulars/
+      - title: Useful Links
+        url: /useful-links/
+      - title: FAQs, Guidelines, Others
+        url: /faqs-guidelines-others
   - title: Consultations
     url: /consultations
     sublinks:
