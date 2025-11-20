@@ -4,11 +4,6 @@ links:
     collection: overview
   - title: Regulatory Requirements
     collection: regulatory-requirements
-  - title: Consultations
-    url: /consultations
-    sublinks:
-      - title: Ongoing/Past Consultations
-        url: /consultations
   - title: Help & Resources
     url: /faqs-guidelines-others/
     sublinks:
@@ -18,3 +13,8 @@ links:
         url: /implementation-support
       - title: Useful Links
         url: /useful-links/
+  - title: Consultations
+    url: /consultations
+    sublinks:
+      - title: Ongoing/Past Consultations
+        url: /consultations
