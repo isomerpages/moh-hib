@@ -34,7 +34,7 @@ sections:
       alt: Image alt text
       image: /images/Assets/frequently asked questions.png
   - infopic:
-      title: Provide Your Feedback
+      title: Announcements
       button: Learn More
       url: /consultations
       alt: Image alt text
