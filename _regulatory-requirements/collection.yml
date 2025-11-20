@@ -1,0 +1,4 @@
+collections:
+  regulatory-requirements:
+    output: true
+    order: []
