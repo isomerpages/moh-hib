@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Help & Resources
       button: Learn More
-      url: /faqs-guidelines-others/
+      url: /implementation-support/
       alt: Image alt text
       image: /images/Assets/frequently asked questions.png
   - infopic:
