@@ -7,18 +7,20 @@ links:
   - title: Help & Resources
     url: /faqs-guidelines-others/
     sublinks:
-      - title: FAQs, Guidelines, Others
-        url: /faqs-guidelines-others
       - title: Implementation Support
         url: /implementation-support
-      - title: Useful Links
-        url: /useful-links/
       - title: Implementation Support
         url: /implementation-support/
       - title: Educational Materials
         url: /educational-materials/
       - title: Engagement
         url: /engagement/
+      - title: FAQs, Guidelines, Others
+        url: /faqs-guidelines-others
+      - title: Useful Links
+        url: /useful-links/
+      - title: Circulars
+        url: /permalink
   - title: Consultations
     url: /consultations
     sublinks:
