@@ -10,7 +10,7 @@ description: ""
 business practices (if any) e.g. may need to onboard to NEHR if not already
 onboarded, but no change if organisation already has an existing baseline
 set of CS/DS requirements</p>
-<h3>Responsibilities of the healthcare provider</h3>
+<h2>Responsibilities of the healthcare provider</h2>
 <p>• Objective 1</p>
 <p>o Timeline for onboarding to NEHR/mandatory contribution to NEHR/access
 to NEHR by xxx . Link to Synapxe’s onboarding page</p>
@@ -52,7 +52,7 @@ notification).</p>
 as the loss of only financial data or account login details. However, they
 may still be required to report such data breaches to PDPC if it meets
 the PDPA's data breach notification criteria.</p>
-<h3>Outsourcing services to a vendor</h3>
+<h2>Outsourcing services to a vendor</h2>
 <p>• Examples of vendors e.g., HIMS providers and CS/DS providers.</p>
 <p>• Good practices/guidelines when choosing a vendor, e.g.,</p>
 <p>o Vendors must fulfil the relevant regulatory requirements</p>
@@ -60,7 +60,7 @@ the PDPA's data breach notification criteria.</p>
 spells out their respective roles and responsibilities.</p>
 <p>• Link to the whitelisted HIA NEHR-compatible CMS systems</p>
 <p>• Link to the approved CS/DS providers</p>
-<h3>Responsibilities of the IT vendor</h3>
+<h2>Responsibilities of the IT vendor</h2>
 <p>• Vendors of health information management systems (e.g. CMS, EMR) providing
 their services for the healthcare providers will need to comply with the
 cyber and data requirements, in addition to the existing Code of Practice
