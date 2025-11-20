@@ -2,11 +2,11 @@ collections:
   overview:
     output: true
     order:
+      - Introduction.md
       - What the HIA Means for Patients.md
       - How the HIA Affects Patients.md
       - Patient Rights under the HIA.md
       - Additional Information for Patients.md
-      - Introduction.md
       - Health Information and the NEHR.md
       - Access to Health Information.md
       - Restricting Access to Health Information.md
