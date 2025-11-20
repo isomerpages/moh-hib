@@ -17,7 +17,7 @@ description: ""
 <p>For Members of Public</p>
 <p>• Link to xxx</p>
 <p>We will aim to get back by xxx days.</p>
-<h3>Reporting Requirements </h3>
+<h3>Reporting Requirements</h3>
 <p>• A notifiable cybersecurity incident, i.e., a cybersecurity incident
 in respect of any applicable computer or computer system under the control
 of the healthcare provider, which is prescribed, e.g. ransomware</p>
@@ -32,8 +32,4 @@ incident</p>
 <p>o Provide an incident report within 14 days of initial notification</p>
 <p>• IT vendors are required to notify the HIA entity of suspected data breach
 without delay</p>
-<h3>Where can I get help</h3>
-<p>• Specific regulatory guidance</p>
-<p>• Support resources</p>
-<p>• Circulars</p>
 <p></p>
