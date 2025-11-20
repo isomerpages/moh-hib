@@ -2,7 +2,7 @@ collections:
   regulatory-requirements:
     output: true
     order:
-      - Where can I get support.md
-      - What do I need to do.md
-      - My Obligations under the HIA.md
       - Organisational Roles and Responsibilities.md
+      - My Obligations under the HIA.md
+      - What do I need to do.md
+      - Where can I get support.md
