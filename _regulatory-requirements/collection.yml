@@ -1,4 +1,5 @@
 collections:
   regulatory-requirements:
     output: true
-    order: []
+    order:
+      - Organisational Roles and Responsibilities.md
