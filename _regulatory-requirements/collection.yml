@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - What do I need to do.md
-      - What are My Obligations.md
+      - My Obligations under the HIA.md
       - Organisational Roles and Responsibilities.md
