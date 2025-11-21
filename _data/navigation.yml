@@ -1,7 +1,7 @@
 logo: /images/Logos/moh_logo.png
 links:
-  - title: Overview
-    collection: overview
+  - title: For Public
+    collection: for-public
   - title: Regulatory Requirements
     collection: regulatory-requirements
   - title: Help & Resources
