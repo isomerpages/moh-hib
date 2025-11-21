@@ -2,15 +2,15 @@ title: Health Information Bill
 url: https://healthinfo.gov.sg
 favicon: /images/Logos/moh_logo2.png
 colors:
-  primary-color: "#3e8f87"
-  secondary-color: "#90adc6"
+  primary-color: "#b7eafc"
+  secondary-color: "#e1cefb"
   media-colors:
     - title: media-color-one
-      color: "#286d9e"
+      color: "#9b4bb7"
     - title: media-color-two
-      color: "#0b87d4"
+      color: "#97e6ea"
     - title: media-color-three
-      color: "#0b87d4"
+      color: "#6aa1da"
     - title: media-color-four
       color: "#0b87d4"
     - title: media-color-five
