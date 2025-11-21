@@ -27,32 +27,34 @@ sections:
       button: Find out more
       url: /overview/introduction/
       alt: Image alt text
-  - infopic:
-      title: Announcements
-      button: Learn More
-      url: /consultations
-      alt: Image alt text
-      image: /images/Assets/hia website public consults.png
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Help & Resources
       id: textcards
-      description: Text card description
       cards:
         - title: Implementation Support
-          description: Card description
+          description: ""
           linktext: Learn more
           url: ""
         - title: Educational Materials
-          description: Card description
+          description: ""
           linktext: Learn more
           url: ""
         - title: FAQs
-          description: Card description
+          description: ""
           linktext: Learn more
           url: ""
         - title: Useful Links
-          description: Card description
+          description: ""
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: HIA
+          date: 21 November 2025
+          announcement: Content
+          link_text: Link to appropriate content page
+          link_url: /introduction
 ---
