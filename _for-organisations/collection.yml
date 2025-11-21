@@ -1,5 +1,5 @@
 collections:
-  regulatory-requirements:
+  for-organisations:
     output: true
     order:
       - What the HIA Means for Me.md
