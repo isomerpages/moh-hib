@@ -28,15 +28,31 @@ sections:
       url: /overview/introduction/
       alt: Image alt text
   - infopic:
-      title: Help & Resources
-      button: Learn More
-      url: /implementation-support/
-      alt: Image alt text
-      image: /images/Assets/frequently asked questions.png
-  - infopic:
       title: Announcements
       button: Learn More
       url: /consultations
       alt: Image alt text
       image: /images/Assets/hia website public consults.png
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Implementation Support
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Educational Materials
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: FAQs
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Useful Links
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
