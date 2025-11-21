@@ -42,7 +42,7 @@ sections:
         - title: FAQs
           description: ""
           linktext: Learn more
-          url: ""
+          url: /faqs/
         - title: Useful Links
           description: ""
           linktext: Learn more
