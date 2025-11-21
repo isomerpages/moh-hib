@@ -38,7 +38,7 @@ sections:
         - title: Educational Materials
           description: ""
           linktext: Learn more
-          url: ""
+          url: /educational-materials/
         - title: FAQs
           description: ""
           linktext: Learn more
