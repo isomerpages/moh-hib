@@ -21,8 +21,3 @@ links:
         url: /useful-links/
       - title: FAQs, Guidelines, Others
         url: /faqs-guidelines-others
-  - title: Consultations
-    url: /consultations
-    sublinks:
-      - title: Ongoing/Past Consultations
-        url: /consultations
