@@ -46,7 +46,7 @@ sections:
         - title: Useful Links
           description: ""
           linktext: Learn more
-          url: ""
+          url: /useful-links/
   - announcements:
       title: Announcements
       id: announcements
