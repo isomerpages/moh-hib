@@ -11,15 +11,13 @@ links:
         url: /implementation-support/
       - title: Educational Materials
         url: /educational-materials/
-      - title: Engagement
-        url: /engagement/
       - title: FAQs
         url: /faqs/
-      - title: Circulars
-        url: /circulars/
       - title: Useful Links
         url: /useful-links/
-      - title: FAQs, Guidelines, Others
-        url: /faqs-guidelines-others
+      - title: Circulars
+        url: /circulars/
+      - title: Engagement
+        url: /engagement/
   - title: Report An Incident
     collection: report-an-incident
