@@ -4,7 +4,7 @@ permalink: /patient-rights-under-the-hia/
 variant: tiptap
 description: ""
 ---
-<h1>Patient Rights under the HIA</h1>
+<h2>Patient Rights under the HIA</h2>
 <p>outline of patient rights</p>
 <p>Complaint mechanism</p>
 <p>xxx</p>
