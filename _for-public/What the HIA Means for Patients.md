@@ -4,7 +4,7 @@ permalink: /what-the-hia-means-for-patients/
 variant: tiptap
 description: ""
 ---
-<h2>What the HIA Means for Patients</h2>
+<h1>What the HIA Means for Patients</h1>
 <p>• Rapidly ageing population + higher life expectancy = growing healthcare
 needs; more chronic diseases requiring sustained care</p>
 <p>• Healthcare delivery extends beyond hospitals to clinics, community partners,
@@ -13,7 +13,7 @@ aspects of healthcare such as patient data, which needs to flow across
 different healthcare providers and settings. The Health Information Act
 (HIA) is developed to improve the current situation of data collection
 and sharing.</p>
-<h3>Improving the patient journey through our healthcare ecosystem</h3>
+<h1>Improving the patient journey through our healthcare ecosystem</h1>
 <blockquote>
 <p>“…better flow of patients’ data drives higher quality of care” – Minister
 Ong at World Organisation of Family Doctors Asia Pacific Regional Conference
@@ -32,13 +32,13 @@ they can make better and faster decisions about patients’ treatment.</p>
 these different touchpoints seamlessly to deliver a higher quality of care
 for patients. This requires patients' health information from previous
 visits to be collected, stored, and shared for doctors and healthcare providers.</p>
-<h3>One Patient, One Health Record</h3>
+<h1>One Patient, One Health Record</h1>
 <p>• NEHR consolidates key health information from various healthcare institutions
 through seamless system-to-system integration. Sharing NEHR information
 benefits both patients and healthcare professionals</p>
 <p>• Provide link to NEHR: <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/" rel="noopener noreferrer nofollow" target="_blank">https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/</a>
 </p>
-<h3>Closing the last mile on achieving a comprehensive overview of patients' medical histories</h3>
+<h1>Closing the last mile on achieving a comprehensive overview of patients' medical histories</h1>
 <p>• All public healthcare institutions have onboarded the NEHR, with private
 hospitals preparing to join. 75% of private primary care clinics are already
 connected through Healthier SG.</p>
@@ -55,12 +55,12 @@ coverage across Singapore's healthcare landscape.</p>
 contribute to and benefit from the shared health record.</p>
 <p>Read on to learn more about what this means for you, and how MOH will
 continue to safeguard your health information .</p>
-<h3>Support outreach efforts for vulnerable patients in the community</h3>
+<h1>Support outreach efforts for vulnerable patients in the community</h1>
 <p>• Support vulnerable patients/seniors who are isolated in the community.</p>
 <p>• Sharing health information enables community care teams to reach out
 and identify these seniors before their isolation leads to serious health
 crises.</p>
-<h3>Key features of the Act</h3>
+<h1>Key features of the Act</h1>
 <p>Explain the three Objectives (in public-friendly terms):</p>
 <p>1. Objective 1 provides the legislative basis for (i) mandatory contribution
 of selected health information to the NEHR, and (ii) access to the NEHR
