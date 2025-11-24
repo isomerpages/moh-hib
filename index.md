@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /overview/introduction/
+          url: /what-the-hia-means-for-patients/
         - title: For Organisations
           description: ""
           url: /organisational-roles-and-responsibilities/
@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: How will Singaporeans benefit from the Act?
       button: Find out more
-      url: /overview/introduction/
+      url: /what-the-hia-means-for-patients/
       alt: Image alt text
   - textcards:
       title: Help & Resources
