@@ -50,10 +50,9 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: HIA
-          date: 21 November 2025
+        - title: Health Information Act - First Reading
+          date: 04 November 2025
           announcement: Content
           link_text: Link to appropriate content page
           link_url: /introduction
