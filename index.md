@@ -20,6 +20,12 @@ sections:
           description: ""
           url: /for-organisations/introduction/
       background: /images/Assets/hia website banner.jpg
+  - infobar:
+      title: Why is HIA important?
+      id: infobar
+      description: How will Singaporeans benefit from the Act?
+      button: Find Out More
+      url: /what-the-hia-means-for-patients/
   - infopic:
       title: Why is HIA Important?
       id: infopic
