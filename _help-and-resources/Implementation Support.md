@@ -15,7 +15,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
+<p>Grants for Community Care Organisations and Social Services Agencies</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
@@ -47,7 +47,7 @@ National Council of Social Service (NCSS)</p>
 </p>
 </li>
 </ul>
-<h3><strong><u>Service Providers</u></strong><br></h3>
+<h2><strong><u>Service Providers</u></strong><br></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
