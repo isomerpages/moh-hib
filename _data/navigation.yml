@@ -21,3 +21,5 @@ links:
         url: /useful-links/
       - title: FAQs, Guidelines, Others
         url: /faqs-guidelines-others
+  - title: Report An Incident
+    collection: report-an-incident
