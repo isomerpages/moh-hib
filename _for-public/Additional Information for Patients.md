@@ -4,8 +4,8 @@ permalink: /where-can-i-get-more-information/
 variant: tiptap
 description: ""
 ---
-<h1>Where Can I Get More Information</h1>
-<p>• FAQs</p>
+<h1>Where Can I Get More Information?</h1>
+<h2>FAQs</h2>
 <p>• Contact info</p>
 <h1>Glossary</h1>
 <p>• Definition of healthcare service</p>
