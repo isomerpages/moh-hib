@@ -1,4 +1,5 @@
 collections:
   report-an-incident:
     output: true
-    order: []
+    order:
+      - Reporting Requirements.md
