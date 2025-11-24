@@ -4,12 +4,12 @@ permalink: /what-do-we-need-to-do/
 variant: tiptap
 description: ""
 ---
-<h3>Onboarding Clinic Management Systems to NEHR</h3>
+<h2>Onboarding Clinic Management Systems to NEHR</h2>
 <p>• Link to Synapxe’s onboarding page</p>
 <p>• Ensure timely/accurate/complete contribution by xxx</p>
-<h3>Meeting CSDS</h3>
+<h2>Meeting CSDS</h2>
 <p>• How to meet CS/DS requirements</p>
-<h3>Reporting Forms</h3>
+<h2>Reporting Forms</h2>
 <p>For healthcare providers and IT vendors</p>
 <p>• Link to reporting form 1 (cybersecurity incidents/data breaches)</p>
 <p>• Link to reporting form 2 (unauthorised NEHR access)</p>
@@ -17,7 +17,7 @@ description: ""
 <p>For Members of Public</p>
 <p>• Link to xxx</p>
 <p>We will aim to get back by xxx days.</p>
-<h3>Reporting Requirements</h3>
+<h2>Reporting Requirements</h2>
 <p>• A notifiable cybersecurity incident, i.e., a cybersecurity incident
 in respect of any applicable computer or computer system under the control
 of the healthcare provider, which is prescribed, e.g. ransomware</p>
