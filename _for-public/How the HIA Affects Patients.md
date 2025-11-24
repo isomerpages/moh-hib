@@ -4,8 +4,7 @@ permalink: /improving-the-patient-journey-through-our-healthcare-ecosystem/
 variant: tiptap
 description: ""
 ---
-<h2>How the HIA Affects Patients</h2>
-<h3>Authorised healthcare professionals may access your NEHR records</h3>
+<h1>Authorised healthcare professionals may access your NEHR records</h1>
 <p>• Access to NEHR records only for the provision of healthcare service
 and community health service</p>
 <p>• Summary of the types of users who can access NEHR</p>
@@ -19,17 +18,17 @@ on the appropriate use and access to NEHR records.</p>
 a period of inactivity, and controls to limit patient search.</p>
 <p>• Regular backend audits are performed to flag inappropriate accesses
 for review and dormant accounts will be removed.</p>
-<h3>How do I check who has assessed my NEHR records?</h3>
+<h1>How do I check who has assessed my NEHR records?</h1>
 <p>• Patients can check which institutions/clinics has viewed their NEHR
 records via access logs on Health Hub.</p>
 <p>• If unauthorised access to NEHR is suspected, write to <a href="mailto:nehr.feedback@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.feedback@synapxe.sg</a>.</p>
-<h3>Can I refuse access to or sharing of my NEHR records?</h3>
+<h1>Can I refuse access to or sharing of my NEHR records?</h1>
 <p>• Individuals can (i) select which NEHR Users (e.g. institutions, clinics,
 pharmacies, etc) can access their NEHR information; or (ii) block access
 to all NEHR Users.</p>
 <p>• The opt-out will apply only to Users who are accessing the NEHR for
 the purpose of patient care.</p>
-<h3>What happens after I exercise my access restriction rights?</h3>
+<h1>What happens after I exercise my access restriction rights?</h1>
 <p>• Even if an individual has opted-out:</p>
 <p>o A basic set of essential information will be viewable by all NEHR Users,
 to minimise impact to care. These are allergies and vaccinations records
@@ -44,32 +43,32 @@ circumstances:</p>
 <p>o Where required or permitted by other written law (e.g. the PSGA or CPC).</p>
 <p>o Where requested on public health grounds and approved for sharing by
 the Minister for Health or his delegated authorised officer.</p>
-<h3>I’ve changed my mind and want to remove the access restriction</h3>
+<h1>I’ve changed my mind and want to remove the access restriction</h1>
 <p>• Can opt back in via HealthHub</p>
-<h3>Health information outside of the NEHR may be shared to facilitate your care and coordination</h3>
+<h1>Health information outside of the NEHR may be shared to facilitate your care and coordination</h1>
 <p>• Strategic shift from hospital to community to support ageing population
 and to reduce burden on acute care healthcare providers.</p>
 <p>• Data sharing facilitates shared care and coordination across between
 hospitals, clinics, community partners and caregivers</p>
 <p>• Example (if any)</p>
-<h3>Specific provisions are in place to facilitate data sharing</h3>
+<h1>Specific provisions are in place to facilitate data sharing</h1>
 <p>1. Data sharing is only permitted for specified purposes</p>
 <p>2. Only for prescribed entities</p>
 <p>3. A valid Data Sharing Agreement must be signed between the discloser
 and recipient</p>
-<h3>Sharing of anonymised or aggregated data</h3>
+<h1>Sharing of anonymised or aggregated data</h1>
 <p>• Goal of data sharing, i.e., to perform data analysis and obtain findings
 or insights that helps to develop better policies or medical treatments.</p>
 <p>• MOH may impose conditions before the disclosure can take place. These
 include prohibiting the entities from re-identifying the individuals from
 the dataset.</p>
-<h3>NEHR has safeguards to protect against cyber-attacks</h3>
+<h1>NEHR has safeguards to protect against cyber-attacks</h1>
 <p>• Third-party audits to ensure compliance with security standards for
 government-owned systems.</p>
 <p>• Robust onboarding process to ensure systems used by healthcare providers
 have met the appropriate connectivity and security requirements before
 they are allowed to connect to NEHR.</p>
-<h3>How MOH prevents improper access and use of your NEHR records</h3>
+<h1>How MOH prevents improper access and use of your NEHR records</h1>
 <p>• There are built-in technical controls such as session timeout after
 a period of inactivity, and controls to limit patient search.</p>
 <p>• Regular backend audits are performed to flag inappropriate accesses
@@ -79,7 +78,7 @@ dormant accounts and ensure access granted are based on current business
 needs.</p>
 <p>• Patients can check which institutions/clinics has viewed their NEHR
 records via access logs on Health Hub.</p>
-<h3>What happens when a cybersecurity incident, data breach or unauthorised access to NEHR occurs?</h3>
+<h1>What happens when a cybersecurity incident, data breach or unauthorised access to NEHR occurs?</h1>
 <p>• Healthcare providers must report cybersecurity incidents or data breaches
 to MOH.</p>
 <p>o An initial report of the confirmed cybersecurity incident or data breach
@@ -88,7 +87,7 @@ must be provided to MOH within 2 hours.</p>
 <p>• Healthcare providers are also required to notify the affected individuals
 in the event of a notifiable data breach. Notifiable data breaches refer
 to data breaches involving more than 500 individuals.</p>
-<h3>Organisations must comply with baseline cybersecurity and data security measures</h3>
+<h1>Organisations must comply with baseline cybersecurity and data security measures</h1>
 <p>• Healthcare providers as well as their IT vendors supporting connection
 to NEHR must</p>
 <p>o Meet cybersecurity and data security requirements for IT systems and
@@ -96,7 +95,7 @@ medical devices</p>
 <p>o Report confirmed cybersecurity incidents and data breaches to MOH and
 affected individuals in a timely manner</p>
 <p>• Strict penalties will be imposed for any contraventions to the HIA requirements</p>
-<h3>Organisations can be required to take corrective action</h3>
+<h1>Organisations can be required to take corrective action</h1>
 <p>• To minimise harm arising from non-compliances, MOH can direct contributors
 to contribute health information in accordance with the Act, stop users
 from accessing or collecting health information or require users to delete
