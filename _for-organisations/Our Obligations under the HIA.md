@@ -4,7 +4,6 @@ permalink: /what-are-our-obligations/
 variant: tiptap
 description: ""
 ---
-<h2>What are my obligations</h2>
 <h3>All healthcare providers are required to contribute selected health information to NEHR</h3>
 <p>• Private and Public healthcare providers licensed under the Healthcare
 Services Act (HCSA).</p>
