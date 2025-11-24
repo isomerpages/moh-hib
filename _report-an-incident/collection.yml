@@ -1,0 +1,4 @@
+collections:
+  report-an-incident:
+    output: true
+    order: []
