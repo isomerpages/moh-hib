@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Introduction.md
-      - What the HIA Means for Me.md
+      - What the HIA Means for Us.md
       - My Obligations under the HIA.md
       - What do I need to do.md
       - Where can I get support.md
