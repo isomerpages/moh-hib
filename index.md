@@ -51,7 +51,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Health Information Act (HIA) - First Reading
+        - title: Health Information Act (HIA) 2025 - First Reading
           date: 05 November 2025
           announcement: Health Information Bill (HIB) 2025 was read in Parliament the
             first time on 5 November 2025.
