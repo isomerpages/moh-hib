@@ -18,7 +18,7 @@ sections:
           url: /what-the-hia-means-for-patients/
         - title: For Organisations
           description: ""
-          url: /organisational-roles-and-responsibilities/
+          url: /for-organisations/introduction/
       background: /images/Assets/hia website banner.jpg
   - infopic:
       title: Why is HIA Important?
