@@ -52,8 +52,8 @@ sections:
       id: announcements
       announcement_items:
         - title: Health Information Act - First Reading
-          date: 04 November 2025
-          announcement: Content
-          link_text: Link to appropriate content page
-          link_url: /introduction
+          date: 05 November 2025
+          announcement: First Reading of Health Information Act 2025
+          link_text: Health Information Bill
+          link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
 ---
