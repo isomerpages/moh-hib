@@ -51,9 +51,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Health Information Act - First Reading
+        - title: Health Information Act (HIA) - First Reading
           date: 05 November 2025
-          announcement: First Reading of Health Information Act 2025
-          link_text: Health Information Bill
+          announcement: Health Information Bill (HIB) 2025 was read in Parliament the
+            first time on 5 November 2025.
+          link_text: Bill No. 20/2025 - Health Information Bill 2025
           link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
 ---
