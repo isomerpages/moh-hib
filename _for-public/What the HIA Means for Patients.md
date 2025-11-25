@@ -43,7 +43,7 @@ are types of health information that will be contributed to the NEHR. There
 may be occasions where you may not recall the type of medications you are
 on, or the tests already done, and your doctor can access the information
 in NEHR before determining the course of treatment.</p>
-<h3>What does mandatory contribution to NEHR mean? </h3>
+<h3>What does mandatory contribution to NEHR mean?</h3>
 <p>The HIB will require all licensed healthcare providers and MOH-approved
 care providers (such as retail pharmacies) to contribute data to NEHR.
 In other words,<strong> selected health information generated from your care episode with your healthcare provider will be contributed and stored in NEHR</strong>.
