@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - Introduction/What the HIA Means for Patients.md
       - Introduction/.keep
       - How the HIA Affects Patients.md
       - Patient Rights under the HIA.md
