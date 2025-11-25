@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Help & Resources/Implementation Support.md
       - Help & Resources/.keep
       - Educational Materials.md
       - FAQs.md
