@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Useful Links.md
       - Circulars.md
       - Engagement.md
       - Help & Resources/FAQs.md
