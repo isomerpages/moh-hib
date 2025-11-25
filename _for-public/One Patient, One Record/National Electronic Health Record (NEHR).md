@@ -42,7 +42,7 @@ coverage across Singapore's healthcare landscape.</p>
 contribute to and benefit from the shared health record.</p>
 <p>Read on to learn more about what this means for you, and how MOH will
 continue to safeguard your health information.</p>
-<p>Support outreach efforts for vulnerable patients in the community</p>
+<h3>Support outreach efforts for vulnerable patients in the community</h3>
 <p>• Support vulnerable patients/seniors who are isolated in the community.</p>
 <p>• Sharing health information enables community care teams to reach out
 and identify these seniors before their isolation leads to serious health
