@@ -2,7 +2,6 @@ collections:
   for-public:
     output: true
     order:
-      - One Patient, One Record/.keep
       - Overview/What the HIA Means for Patients.md
       - Overview/.keep
       - How the HIA Affects Patients.md
