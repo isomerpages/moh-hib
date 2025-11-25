@@ -56,8 +56,4 @@ sections:
             first time on 5 November 2025.
           link_text: Bill No. 20/2025 - Health Information Bill 2025
           link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
