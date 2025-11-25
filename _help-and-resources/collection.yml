@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Educational Materials.md
       - FAQs.md
       - Useful Links.md
       - Circulars.md
