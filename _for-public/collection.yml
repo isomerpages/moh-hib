@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - One Patient, One Record/National Electronic Health Record (NEHR).md
       - One Patient, One Record/.keep
       - Overview/What the HIA Means for Patients.md
       - Overview/.keep
