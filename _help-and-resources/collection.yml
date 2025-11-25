@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Help & Resources/.keep
-      - Implementation Support.md
       - Educational Materials.md
       - FAQs.md
       - Useful Links.md
