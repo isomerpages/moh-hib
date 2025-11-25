@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - What the HIA Means for Patients.md
       - How the HIA Affects Patients.md
       - Patient Rights under the HIA.md
       - Additional Information for Patients.md
