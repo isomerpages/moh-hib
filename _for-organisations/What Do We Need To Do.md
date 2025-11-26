@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>Onboarding Clinic Management Systems to NEHR</h2>
-<p>• Link to Synapxe’s onboarding page</p>
+<p>{Link to Synapxe’s onboarding page}</p>
 <p>• Ensure timely/accurate/complete contribution by xxx</p>
 <h2>Meeting CSDS</h2>
-<p>• How to meet CS/DS requirements</p>
+<p>[How to meet CS/DS requirements]</p>
 <h2>Reporting Forms</h2>
 <p>For healthcare providers and IT vendors</p>
 <p>• Link to reporting form 1 (cybersecurity incidents/data breaches)</p>
