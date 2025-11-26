@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The NEHR.md
-      - Overview.md
       - What HIA Means for Patients.md
       - How HIA Affects Patients/.keep
       - How HIA Affects Patients/Access to Health Information.md
