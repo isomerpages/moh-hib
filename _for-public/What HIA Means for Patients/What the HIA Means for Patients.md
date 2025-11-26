@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What HIA Means for Patients
 ---
-<h2>What the HIA Means for Patients</h2>
+<h2>Overview</h2>
 <p>• Rapidly ageing population + higher life expectancy = growing healthcare
 needs; more chronic diseases requiring sustained care</p>
 <p>• Healthcare delivery extends beyond hospitals to clinics, community partners,
