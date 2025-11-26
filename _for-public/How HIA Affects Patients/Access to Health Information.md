@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: How HIA Affects Patients
 ---
-<h2>Authorised healthcare professionals may access your NEHR records</h2>
+<h1>Authorised healthcare professionals may access your NEHR records</h1>
 <p>NEHR may only be accessed by&nbsp;<strong>authorised healthcare professionals to provide direct patient care for you</strong>.</p>
 <p>Other circumstances where your NEHR&nbsp;<strong>may be used&nbsp;</strong>include:</p>
 <ul data-tight="true" class="tight">
@@ -22,7 +22,7 @@ clinical assessment.</p>
 access your NEHR&nbsp;<strong>for employment or insurance purposes</strong>.
 Healthcare professionals who are not involved in your care should also
 not be accessing your health records.</p>
-<h2>How do I check who has assessed my NEHR records?</h2>
+<h1>How do I check who has assessed my NEHR records?</h1>
 <p>You can view health information such as your medications, drug allergies,
 and laboratory results through HealthHub.</p>
 <p>The NEHR Access History section in HealthHub allows you to see which healthcare
