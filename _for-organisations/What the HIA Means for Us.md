@@ -4,6 +4,26 @@ permalink: /for-organisations/what-the-hia-means-for-us/
 variant: tiptap
 description: ""
 ---
+<h2>Objectives of the Health Information Bill (HIB)</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>HIB will require all licensed healthcare providers, including private
+clinics, clinical laboratories and radiological services, to contribute
+selected health information to NEHR. These providers will also be granted
+access to NEHR to support better care continuity and safeguard patient
+welfare.</p>
+</li>
+<li>
+<p>HIB will also enable and regulate the sharing of non-NEHR individually
+identifiable health information within the healthcare ecosystem in support
+of national health programmes and initiatives.</p>
+</li>
+<li>
+<p>To ensure the confidentiality, integrity and availability of health information,
+the HIB will set out cybersecurity and data security standards for healthcare
+providers and Health Information Management Systems (HIMS).</p>
+</li>
+</ol>
 <h2>Organisational Roles and Responsibilities</h2>
 <p>• Brief intro on how HIB would change the delivery of patient care</p>
 <p>• Overview of how the regulatory requirements under the HIA will impact
@@ -13,8 +33,7 @@ set of CS/DS requirements</p>
 <p></p>
 <p></p>
 <h2>Responsibilities of the healthcare provider</h2>
-<p>• Objective 1</p>
-<p>o Timeline for onboarding to NEHR/mandatory contribution to NEHR/access
+<p>Timeline for onboarding to NEHR/mandatory contribution to NEHR/access
 to NEHR by xxx . Link to Synapxe’s onboarding page</p>
 <p>o MOH approval is required for entities’ access to NEHR.</p>
 <p>o Entities should ensure that only the personnel who require NEHR access
@@ -55,26 +74,42 @@ as the loss of only financial data or account login details. However, they
 may still be required to report such data breaches to PDPC if it meets
 the PDPA's data breach notification criteria.</p>
 <h2>Outsourcing services to a vendor</h2>
-<p>• Examples of vendors e.g., HIMS providers and CS/DS providers.</p>
-<p>• Good practices/guidelines when choosing a vendor, e.g.,</p>
-<p>o Vendors must fulfil the relevant regulatory requirements</p>
-<p>o Ensure the contract signed between the healthcare provider and the vendor
+<p>[Examples of vendors e.g., HIMS providers and CS/DS providers]</p>
+<p>When choosing a vendor, the following guidelines should be considered:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Vendors must fulfil the relevant regulatory requirements</p>
+</li>
+<li>
+<p>Ensure the contract signed between the healthcare provider and the vendor
 spells out their respective roles and responsibilities.</p>
-<p>• Link to the whitelisted HIA NEHR-compatible CMS systems</p>
-<p>• Link to the approved CS/DS providers</p>
+</li>
+</ul>
+<p>[Link to the whitelisted HIA NEHR-compatible CMS systems]</p>
+<p>[Link to the approved CS/DS providers]</p>
 <h2>Responsibilities of the IT vendor</h2>
-<p>• Vendors of health information management systems (e.g. CMS, EMR) providing
+<ol data-tight="true" class="tight">
+<li>
+<p>Vendors of health information management systems (e.g. CMS, EMR) providing
 their services for the healthcare providers will need to comply with the
 cyber and data requirements, in addition to the existing Code of Practice
-for Data Portability</p>
-<p>• Ensure that the confidentiality, integrity and availability of the health
+for Data Portability.</p>
+</li>
+<li>
+<p>Ensure that the confidentiality, integrity and availability of the health
 information are always protected, and that health information is appropriately
 disposed of once the purpose for which the health information is required
 is no longer being served and the retention of the health information is
 no longer necessary for legal or business purpose.</p>
-<p>• Support healthcare providers in conducting assessment of cybersecurity
+</li>
+<li>
+<p>Support healthcare providers in conducting assessment of cybersecurity
 incidents and/or data breaches, and in meeting notification timelines.</p>
-<p>• Ensure accurate and complete porting of records between IT vendors as
-prescribed, if a healthcare provider chooses to change IT vendors</p>
-<p>• Link to Synapxe on onboarding CMS to NEHR</p>
+</li>
+<li>
+<p>Ensure accurate and complete porting of records between IT vendors as
+prescribed, if a healthcare provider chooses to change IT vendors.</p>
+</li>
+</ol>
+<p></p>
 <p></p>
