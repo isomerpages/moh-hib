@@ -106,7 +106,7 @@ notification).</p>
 as the loss of only financial data or account login details. However, they
 may still be required to report such data breaches to PDPC if it meets
 the PDPA's data breach notification criteria.</p>
-<h2>Outsourcing services to a vendor</h2>
+<h2>Outsourcing services to an IT vendor</h2>
 <p>[To insert examples of vendors e.g., HIMS providers and CS/DS providers]</p>
 <p>When choosing a vendor, the following guidelines should be considered:</p>
 <ul data-tight="true" class="tight">
