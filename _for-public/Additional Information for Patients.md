@@ -6,9 +6,6 @@ description: ""
 ---
 <h1>Where Can I Get More Information?</h1>
 <h2>FAQs</h2>
-<p>• Contact info</p>
-<h1>Glossary</h1>
-<p>• Definition of healthcare service</p>
-<p>• Definition of community health service</p>
-<p>• Definition of health information</p>
+<p>[To be updated after 2R]</p>
+<h1></h1>
 <p></p>
