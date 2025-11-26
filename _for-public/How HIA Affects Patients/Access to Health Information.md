@@ -31,3 +31,7 @@ providers have accessed your health records.</p>
 MOH has implemented robust access controls and set up audit mechanisms
 to ensure that appropriate actions are taken against&nbsp;<strong>unauthorised access of your health records</strong>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEHR_access_history.jpg">
+</div>
+<p></p>
