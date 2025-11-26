@@ -36,11 +36,4 @@ the HIB</p>
 <p>&nbsp;</p>
 <p>MOH will also be able to stop any further unauthorised sharing of health
 information</p>
-<h3>Sharing of anonymised or aggregated data</h3>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Goal of data sharing, i.e., to perform data analysis and obtain findings
-or insights that helps to develop better policies or medical treatments.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MOH may impose conditions before the disclosure can take place. These include
-prohibiting the entities from re-identifying the individuals from the dataset.</p>
 <p></p>
