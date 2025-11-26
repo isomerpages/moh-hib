@@ -12,7 +12,8 @@ Services Act (HCSA).</p>
 Forces (SAF) clinics under the Ministry of Defence (MINDEF) and Singapore
 Civil Defence Force (SCDF) under the Ministry of Home Affairs (MHA).</p>
 <h2>Type of health information to be contributed</h2>
-<p>[List of data to contribute]</p>
+<p>[To insert List of data to contribute]</p>
+<p>Key Health Information with value for continuity of care will be contributed</p>
 <p>• Only the health information of Singaporeans, Permanent Residents and
 long-term residents with Foreign Identification Number (FIN).</p>
 <p>• Providers are only responsible for contributing the data that they generate.</p>
