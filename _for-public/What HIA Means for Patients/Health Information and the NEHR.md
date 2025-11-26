@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What HIA Means for Patients
 ---
-<h1>What is "Health Information"? </h1>
+<h1>What is "Health Information"?</h1>
 <p>Health information includes:</p>
 <p><strong>Personal details</strong> - This refers to information like your
 name, address, phone number, and other personal details. This counts as
@@ -14,7 +14,7 @@ health information when it is used for healthcare purposes.</p>
 physical and mental health, as well as details about your diagnosis, treatment,
 and care. Examples include your prescriptions, test results, medical procedures,
 and discharge notes when you leave the hospital.</p>
-<h1>Where will health information be stored? </h1>
+<h1>Where will health information be stored?</h1>
 <p>When you visit a healthcare service, health information generated during
 that visit will be recorded in their health record systems. Under the HIB,&nbsp;<strong>a subset of these information will be contributed and stored in the National Electronic Health Record system (NEHR)</strong>.</p>
 <p></p>
@@ -57,8 +57,4 @@ most healthcare interactions in Singapore will contribute to and benefit
 from the shared health record.</p>
 <p>Read on to learn more about what this means for you, and how MOH will
 continue to safeguard your health information.</p>
-<h1>Support outreach efforts for vulnerable patients in the community</h1>
-<p>• Support vulnerable patients/seniors who are isolated in the community.</p>
-<p>• Sharing health information enables community care teams to reach out
-and identify these seniors before their isolation leads to serious health
-crises.</p>
+<p></p>
