@@ -5,32 +5,56 @@ variant: tiptap
 description: ""
 third_nav_title: How HIA Affects Patients
 ---
-<h2>NEHR has safeguards to protect against cyber-attacks </h2>
-<p>• Third-party audits to ensure compliance with security standards for
-government-owned systems.</p>
-<p>• Robust onboarding process to ensure systems used by healthcare providers
-have met the appropriate connectivity and security requirements before
-they are allowed to connect to NEHR.</p>
+<h2>NEHR has safeguards to protect against cyber-attacks</h2>
+<p>A comprehensive set of security measures and processes protect the NEHR
+against cyberattacks. On top of that, both system operator‘s and users’
+access are <strong>regularly audited and subjected to vulnerability scans and penetration tests </strong>to
+ensure strict compliance with security standards for government-owned systems.
+&nbsp;</p>
+<p>Additionally, systems that are required to connect to NEHR undergo a robust
+onboarding process to ensure that they have met the appropriate connectivity
+and security requirements before they are allowed to connect to NEHR.</p>
 <h2>How MOH prevents improper access and use of your NEHR records</h2>
-<p>• There are built-in technical controls such as session timeout after
-a period of inactivity, and controls to limit patient search.</p>
-<p>• Regular backend audits are performed to flag inappropriate accesses
-for review.</p>
-<p>• System Operator will conduct User Account Review periodically to remove
-dormant accounts and ensure access granted are based on current business
-needs.</p>
-<p>• Patients can check which institutions/clinics has viewed their NEHR
-records via access logs on Health Hub.</p>
+<p>The HIB also has safeguards in place to govern the safe access, collection
+and use of NEHR information. These safeguards include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Penalties to deter unauthorised
+or improper access of NEHR information</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Healthcare providers and their authorised personnel</strong>&nbsp;may
+only access the NEHR information of patients registered with them.</p>
+</li>
+<li>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only personnel directly involved
+in patient care are granted NEHR access. Healthcare providers are also
+required to update NEHR when the roles of their authorised personnel change.</p>
+</li>
+<li>
+<p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
+</li>
+</ul>
+<p>MOH will also be able to direct healthcare providers and their authorised
+personnel to take corrective actions such as stopping unauthorised access
+and use of NEHR, and destroying health information collected in an unauthorised
+manner.</p>
 <h2>What happens when a cybersecurity incident, data breach or unauthorised access to NEHR occurs?</h2>
-<p>• Healthcare providers must report cybersecurity incidents or data breaches
-to MOH.</p>
-<p>o An initial report of the confirmed cybersecurity incident or data breach
-must be provided to MOH within 2 hours.</p>
-<p>o The detailed incident report must be submitted after 14 days.</p>
-<p>• Healthcare providers are also required to notify the affected individuals
-in the event of a notifiable data breach. Notifiable data breaches refer
-to data breaches involving more than 500 individuals.</p>
-<h2>Organisations must comply with baseline cybersecurity and data security measures </h2>
+<p>The HIB will require healthcare providers report<strong> cybersecurity incidents or data breaches to MOH</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An initial report of the confirmed cybersecurity incident or data breach
+must be provided to MOH&nbsp;<strong>within 2 hours</strong>.</p>
+</li>
+<li>
+<p>The detailed incident report must be submitted&nbsp;<strong>within 14 days</strong>.</p>
+</li>
+</ul>
+<p>The mandatory reporting of such incidents enables MOH to&nbsp;<strong>coordinate and respond to incidents that may adversely impact patient safety and privacy</strong>.
+It also allows MOH to spot patterns that&nbsp;<strong>signal a larger-scale attack&nbsp;</strong>and<strong>&nbsp;pre-emptively take action to protect the integrity</strong>&nbsp;of
+our healthcare system.</p>
+<p>Healthcare providers will also be required to<strong>&nbsp;notify the affected individuals in the event of a notifiable data breach that is likely to result in significant harm</strong>.</p>
+<h2>Organisations must comply with baseline cybersecurity and data security measures</h2>
 <p>• Healthcare providers as well as their IT vendors supporting connection
 to NEHR must</p>
 <p>o Meet cybersecurity and data security requirements for IT systems and
