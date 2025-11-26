@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What HIA Means for Patients
 ---
-<h2>Introduction</h2>
+<h1>Introduction</h1>
 <p>With Singapore's rapidly ageing population and higher life expectancy,
 healthcare needs will continue growing and there will be more chronic diseases
 requiring sustained care.</p>
@@ -15,7 +15,7 @@ aspects of healthcare such as patient data, which needs to flow across
 different healthcare providers and settings. The Health Information Act
 (HIA) is developed to improve the current situation of data collection
 and sharing.</p>
-<h2>Improving the patient journey through our healthcare ecosystem</h2>
+<h1>Improving the patient journey through our healthcare ecosystem</h1>
 <blockquote>
 <p>“…better flow of patients’ data drives higher quality of care” – Minister
 Ong at World Organisation of Family Doctors Asia Pacific Regional Conference
