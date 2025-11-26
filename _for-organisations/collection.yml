@@ -2,6 +2,7 @@ collections:
   for-organisations:
     output: true
     order:
+      - Introduction.md
       - What the HIA Means for Us.md
       - Our Obligations under the HIA.md
       - What Do We Need To Do.md
