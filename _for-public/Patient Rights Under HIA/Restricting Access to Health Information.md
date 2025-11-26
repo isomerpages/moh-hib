@@ -55,6 +55,4 @@ see if your NEHR have been accessed.</p>
 <p>If you wish to restrict access, more details on the opt-out process is
 available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe</a></strong>
 </p>
-<h2>I’ve changed my mind and want to remove the access restriction</h2>
-<p>• Can opt back in via HealthHub</p>
 <p></p>
