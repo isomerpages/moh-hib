@@ -28,10 +28,4 @@ circumstances:</p>
 the Minister for Health or his delegated authorised officer.</p>
 <h2>I’ve changed my mind and want to remove the access restriction</h2>
 <p>• Can opt back in via HealthHub</p>
-<h2>Health information outside of the NEHR may be shared to facilitate your care and coordination</h2>
-<p>• Strategic shift from hospital to community to support ageing population
-and to reduce burden on acute care healthcare providers.</p>
-<p>• Data sharing facilitates shared care and coordination across between
-hospitals, clinics, community partners and caregivers</p>
-<p>• Example (if any)</p>
 <p></p>
