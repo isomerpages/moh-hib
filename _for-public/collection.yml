@@ -2,12 +2,12 @@ collections:
   for-public:
     output: true
     order:
-      - How HIA Affects Patients/Access to Health Information.md
-      - How HIA Affects Patients/How the HIA Affects Patients.md
-      - How HIA Affects Patients/.keep
       - What HIA Means for Patients/.keep
       - What HIA Means for Patients/What the HIA Means for Patients.md
       - What HIA Means for Patients/The NEHR.md
       - What HIA Means for Patients/Key Features of HIA.md
+      - How HIA Affects Patients/.keep
+      - How HIA Affects Patients/Access to Health Information.md
+      - How HIA Affects Patients/How the HIA Affects Patients.md
       - Patient Rights under the HIA.md
       - Additional Information for Patients.md
