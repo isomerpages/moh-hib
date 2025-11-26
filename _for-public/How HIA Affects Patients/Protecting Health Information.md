@@ -100,5 +100,5 @@ the data types that an user may access, suspend or remove an users’ access
 to NEHR.</p>
 <p>MOH may tap on emergency powers and direct healthcare providers to perform
 non-cyber mitigating measures to respond to threats and incidents affecting
-health information</p>
+health information.</p>
 <p></p>
