@@ -5,22 +5,29 @@ variant: tiptap
 description: ""
 third_nav_title: How HIA Affects Patients
 ---
-<h2>Authorised healthcare professionals may access your NEHR records </h2>
-<p>• Access to NEHR records only for the provision of healthcare service
-and community health service</p>
-<p>• Summary of the types of users who can access NEHR</p>
-<p>• Access to NEHR records not allowed for</p>
-<p>o Any employment purpose (except for statutory medical examinations prescribed
-under the HIA); or</p>
-<p>o Assessment of insurability.</p>
-<p>• MOH has developed a set of guidelines to guide healthcare professionals
-on the appropriate use and access to NEHR records.</p>
-<p>• MOH has also built in technical controls such as session timeout after
-a period of inactivity, and controls to limit patient search.</p>
-<p>• Regular backend audits are performed to flag inappropriate accesses
-for review and dormant accounts will be removed.</p>
+<h2>Authorised healthcare professionals may access your NEHR records</h2>
+<p>NEHR may only be accessed by&nbsp;<strong>authorised healthcare professionals to provide direct patient care for you</strong>.</p>
+<p>Other circumstances where your NEHR&nbsp;<strong>may be used&nbsp;</strong>include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>When information from the NEHR is required to be provided under other
+written laws.</p>
+</li>
+</ul>
+<p>Your healthcare professional does not need to access your NEHR during
+every visit. NEHR serves as a complementary tool to aid the healthcare
+professional in history taking and physical examination, when making a
+clinical assessment.</p>
+<p>Healthcare professionals are&nbsp;<strong>not allowed</strong>&nbsp;to
+access your NEHR&nbsp;<strong>for employment or insurance purposes</strong>.
+Healthcare professionals who are not involved in your care should also
+not be accessing your health records.</p>
 <h2>How do I check who has assessed my NEHR records?</h2>
-<p>• Patients can check which institutions/clinics has viewed their NEHR
-records via access logs on Health Hub.</p>
-<p>• If unauthorised access to NEHR is suspected, write to <a href="mailto:nehr.feedback@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.feedback@synapxe.sg</a>.</p>
+<p>You can view health information such as your medications, drug allergies,
+and laboratory results through HealthHub.</p>
+<p>The NEHR Access History section in HealthHub allows you to see which healthcare
+providers have accessed your health records.</p>
+<p>If you suspect that your NEHR has been wrongly accessed,&nbsp;<strong><a href="https://support.healthhub.sg/hc/en-us/articles/15823764203161-NEHR-Access-History-shows-that-my-records-in-the-NEHR-were-accessed-on-a-day-when-I-did-not-seek-any-care-or-treatment-What-should-I-do-" rel="noopener noreferrer nofollow" target="_blank">you may notify the NEHR system operator, Synapxe, for further investigation</a></strong>.
+MOH has implemented robust access controls and set up audit mechanisms
+to ensure that appropriate actions are taken against&nbsp;<strong>unauthorised access of your health records</strong>.</p>
 <p></p>
