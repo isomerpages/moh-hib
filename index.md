@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: How will Singaporeans benefit from the Act?
       button: Find out more
-      url: /what-the-hia-means-for-patients/
+      url: /overview/
       image: /images/Assets/hia website assets objectives.png
       alt: Image alt text
   - textcards:
