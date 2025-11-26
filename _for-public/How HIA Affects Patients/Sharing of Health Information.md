@@ -6,20 +6,34 @@ description: ""
 third_nav_title: How HIA Affects Patients
 ---
 <h2>Health information outside of the NEHR may be shared to facilitate your care and coordination</h2>
-<p>• Strategic shift from hospital to community to support ageing population
-and to reduce burden on acute care healthcare providers.</p>
-<p>• Data sharing facilitates shared care and coordination across between
-hospitals, clinics, community partners and caregivers</p>
-<p>• Example (if any)</p>
-<h2>Specific provisions are in place to facilitate data sharing</h2>
-<p>1. Data sharing is only permitted for specified purposes</p>
-<p>2. Only for prescribed entities</p>
-<p>3. A valid Data Sharing Agreement must be signed between the discloser
-and recipient</p>
-<h2>Sharing of anonymised or aggregated data</h2>
-<p>• Goal of data sharing, i.e., to perform data analysis and obtain findings
-or insights that helps to develop better policies or medical treatments.</p>
-<p>• MOH may impose conditions before the disclosure can take place. These
-include prohibiting the entities from re-identifying the individuals from
-the dataset.</p>
+<p>The HIB will also provide the legal basis to enable sharing of health
+information to facilitate shared care and coordination across different
+settings and between healthcare institutions and community partners. While
+the sharing of such information has benefits such as supporting outreach
+for national programmes (e.g. Healthier SG and Age Well SG) and better
+care quality, we recognise the potential risks of exposure should there
+be any unauthorised use.</p>
+<p>Therefore, the HIB will also&nbsp;<strong>introduce safeguards</strong>&nbsp;<strong>to ensure proper governance, cybersecurity and data security</strong>.</p>
+<p>A key safeguard is that the HIB enables&nbsp;<strong>sharing of health information only if it fulfils these requirements:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The parties who are permitted to share and receive your health information
+must be listed in the HIB</p>
+</li>
+<li>
+<p>The specific use case for data sharing must be listed in the HIB</p>
+</li>
+<li>
+<p>Only the specific data types that are prescribed under the HIB can be
+shared and</p>
+</li>
+<li>
+<p>Your health information can be shared only for the use case listed in
+the HIB</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>MOH will also be able to stop any further unauthorised sharing of health
+information</p>
 <p></p>
