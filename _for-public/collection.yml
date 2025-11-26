@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - What HIA Means for Patients/What HIA Means for Patients.md
       - What HIA Means for Patients/.keep
       - The NEHR.md
       - How HIA Affects Patients/.keep
