@@ -40,14 +40,14 @@ sections:
           description: ""
           linktext: Learn more
           url: /educational-materials/
-        - title: FAQs
-          description: ""
-          linktext: Learn more
-          url: /faqs/
         - title: Useful Links
           description: ""
           linktext: Learn more
           url: /useful-links/
+        - title: FAQs
+          description: ""
+          linktext: Learn more
+          url: /faqs/
   - announcements:
       title: Announcements
       id: announcements
