@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: How HIA Affects Patients
 ---
-<h2>Health information outside of the NEHR may be shared to facilitate your care and coordination</h2>
+<h1>Health information outside of the NEHR may be shared to facilitate your care and coordination</h1>
 <p>The HIB will also provide the legal basis to enable sharing of health
 information to facilitate shared care and coordination across different
 settings and between healthcare institutions and community partners. While
