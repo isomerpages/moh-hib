@@ -2,9 +2,9 @@ collections:
   for-public:
     output: true
     order:
-      - Patient Rights Under HIA/Protecting Health Information.md
-      - Patient Rights Under HIA/Restricting Access to Health Information.md
       - Patient Rights Under HIA/.keep
+      - Patient Rights Under HIA/Restricting Access to Health Information.md
+      - Patient Rights Under HIA/Protecting Health Information.md
       - What HIA Means for Patients/.keep
       - What HIA Means for Patients/Introduction.md
       - What HIA Means for Patients/Health Information and the NEHR.md
