@@ -7,7 +7,7 @@ description: ""
 <h2>Health Information Act (HIA)</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FAQs_on_the_Proposed_HIB_13_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on the Health Information Act</a>
+<p><a href="/files/FAQs_on_the_Proposed_HIB_13_Dec_23.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on the Health Information Act (HIA)</a>
 </p>
 </li>
 </ul>
