@@ -24,124 +24,124 @@ the HIB will set out cybersecurity and data security standards for healthcare
 providers and Health Information Management Systems (HIMS).</p>
 </li>
 </ol>
-<h1><em>Organisational Roles and Responsibilities</em></h1>
-<h2><em>Responsibilities of the healthcare provider</em></h2>
+<h1>Organisational Roles and Responsibilities</h1>
+<h2>Responsibilities of the healthcare provider</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><em>Objective 1 (Contribute to NEHR?)</em>
-</p>
+<p>Objective 1 (Contribute to NEHR?)</p>
 </li>
 </ol>
-<p><em>[To include timeline for onboarding to NEHR/mandatory contribution to NEHR/access to NEHR by xxx . Link to Synapxe’s onboarding page]</em>
-</p>
-<p><em>MOH approval is required for entities’ access to NEHR.</em>
-</p>
-<p><em>Entities should:</em>
-</p>
+<p>[To include timeline for onboarding to NEHR/mandatory contribution to
+NEHR/access to NEHR by xxx . Link to Synapxe’s onboarding page]</p>
+<p>MOH approval is required for entities’ access to NEHR.</p>
+<p>Entities should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>ensure that only the personnel who require NEHR access for a HIA purpose are granted NEHR access.</em>
-</p>
+<p>ensure that only the personnel who require NEHR access for a HIA purpose
+are granted NEHR access.</p>
 </li>
 <li>
-<p><em>ensure access to NEHR is only for patients under entities’ care.</em>
-</p>
+<p>ensure access to NEHR is only for patients under entities’ care.</p>
 </li>
 <li>
-<p><em>notify Synapxe of any personnel movements that affect NEHR access to ensure NEHR accounts are removed in a timely fashion (e.g., personnel has left organisation or changed role).</em>
-</p>
+<p>notify Synapxe of any personnel movements that affect NEHR access to ensure
+NEHR accounts are removed in a timely fashion (e.g., personnel has left
+organisation or changed role).</p>
 </li>
 <li>
-<p><em>educate their personnel on appropriate use of NEHR information (e.g., by providing training, updating SOP).</em>
-</p>
+<p>educate their personnel on appropriate use of NEHR information (e.g.,
+by providing training, updating SOP).</p>
 </li>
 <li>
-<p><em>establish internal mechanisms to track and flag inappropriate accesses.</em>
-</p>
+<p>establish internal mechanisms to track and flag inappropriate accesses.</p>
 </li>
 </ul>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><em>Objective 2 (Protect?)</em>
-</p>
+<p>Objective 2 (Protect?)</p>
 </li>
 </ol>
-<p><em>[To include Timeline for data sharing under the HIA by xxx]</em>
-</p>
+<p>[To include Timeline for data sharing under the HIA by xxx]</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Both discloser and recipient must abide by the conditions in the sharing agreement.</em>
-</p>
+<p>Both discloser and recipient must abide by the conditions in the sharing
+agreement.</p>
 </li>
 <li>
-<p><em>Recipient must ensure that the data is collected by only the authorised personnel stated in the sharing agreement and abide by the conditions in the sharing agreement when using the data.</em>
-</p>
+<p>Recipient must ensure that the data is collected by only the authorised
+personnel stated in the sharing agreement and abide by the conditions in
+the sharing agreement when using the data.</p>
 </li>
 </ul>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><em>Objective 3 (Report?)</em>
-</p>
+<p>Objective 3 (Report?)</p>
 </li>
 </ol>
-<p><em>[To include Timeline for compliance with CS/DS requirements under the HIA by xxx. Link to “Cyber and Data Security Guidebook” and “Implementation Support” for help complying with the requirements]</em>
-</p>
-<p><em>Entities should:</em>
-</p>
+<p>[To include Timeline for compliance with CS/DS requirements under the
+HIA by xxx. Link to “Cyber and Data Security Guidebook” and “Implementation
+Support” for help complying with the requirements]</p>
+<p>Entities should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Designate an individual to ensure that they comply with cyber and data security requirements for IT systems and medical devices under HIA</em>
-</p>
+<p>Designate an individual to ensure that they comply with cyber and data
+security requirements for IT systems and medical devices under HIA</p>
 </li>
 <li>
-<p><em>Ensure that the confidentiality, integrity and availability of the health information are always protected, and that health information is appropriately disposed of once the purpose for which the health information is required is no longer being served and the retention of the health information is no longer necessary for legal or business purpose.</em>
-</p>
+<p>Ensure that the confidentiality, integrity and availability of the health
+information are always protected, and that health information is appropriately
+disposed of once the purpose for which the health information is required
+is no longer being served and the retention of the health information is
+no longer necessary for legal or business purpose.</p>
 </li>
 <li>
-<p><em>Report cybersecurity incidents and data breaches within the specified time period (2 hours), and an incident report (within 14 days of initial notification).</em>
-</p>
+<p>Report cybersecurity incidents and data breaches within the specified
+time period (2 hours), and an incident report (within 14 days of initial
+notification).</p>
 </li>
 </ul>
-<p><em>o Note: No need to data breaches involving non-health information, such as the loss of only financial data or account login details. However, they may still be required to report such data breaches to PDPC if it meets the PDPA's data breach notification criteria.</em>
-</p>
-<h2><em>Outsourcing services to an IT vendor</em></h2>
-<p><em>[To insert examples of vendors e.g., HIMS providers and CS/DS providers]</em>
-</p>
-<p><em>When choosing a vendor, the following guidelines should be considered:</em>
-</p>
+<p>o Note: No need to data breaches involving non-health information, such
+as the loss of only financial data or account login details. However, they
+may still be required to report such data breaches to PDPC if it meets
+the PDPA's data breach notification criteria.</p>
+<h2>Outsourcing services to an IT vendor</h2>
+<p>[To insert examples of vendors e.g., HIMS providers and CS/DS providers]</p>
+<p>When choosing a vendor, the following guidelines should be considered:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Vendors must fulfil the relevant regulatory requirements</em>
-</p>
+<p>Vendors must fulfil the relevant regulatory requirements</p>
 </li>
 <li>
-<p><em>Ensure the contract signed between the healthcare provider and the vendor spells out their respective roles and responsibilities.</em>
-</p>
+<p>Ensure the contract signed between the healthcare provider and the vendor
+spells out their respective roles and responsibilities.</p>
 </li>
 </ul>
-<p><em>[To insert link to the whitelisted HIA NEHR-compatible CMS systems]</em>
-</p>
-<p><em>[To insert link to the approved CS/DS providers]</em>
-</p>
-<h2><em>Responsibilities of the IT vendor</em></h2>
+<p>[To insert link to the whitelisted HIA NEHR-compatible CMS systems]</p>
+<p>[To insert link to the approved CS/DS providers]</p>
+<h2>Responsibilities of the IT vendor</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><em>Vendors of health information management systems (e.g. CMS, EMR) providing their services for the healthcare providers will need to comply with the cyber and data requirements, in addition to the existing Code of Practice for Data Portability.</em>
-</p>
+<p>Vendors of health information management systems (e.g. CMS, EMR) providing
+their services for the healthcare providers will need to comply with the
+cyber and data requirements, in addition to the existing Code of Practice
+for Data Portability.</p>
 </li>
 <li>
-<p><em>Ensure that the confidentiality, integrity and availability of the health information are always protected, and that health information is appropriately disposed of once the purpose for which the health information is required is no longer being served and the retention of the health information is no longer necessary for legal or business purpose.</em>
-</p>
+<p>Ensure that the confidentiality, integrity and availability of the health
+information are always protected, and that health information is appropriately
+disposed of once the purpose for which the health information is required
+is no longer being served and the retention of the health information is
+no longer necessary for legal or business purpose.</p>
 </li>
 <li>
-<p><em>Support healthcare providers in conducting assessment of cybersecurity incidents and/or data breaches, and in meeting notification timelines.</em>
-</p>
+<p>Support healthcare providers in conducting assessment of cybersecurity
+incidents and/or data breaches, and in meeting notification timelines.</p>
 </li>
 <li>
-<p><em>Ensure accurate and complete porting of records between IT vendors as prescribed, if a healthcare provider chooses to change IT vendors.</em>
-</p>
+<p>Ensure accurate and complete porting of records between IT vendors as
+prescribed, if a healthcare provider chooses to change IT vendors.</p>
 </li>
 </ol>
 <p></p>
