@@ -34,11 +34,11 @@ make better and faster decisions about patients’ treatment.</p>
 different touchpoints seamlessly to deliver a higher quality of care for
 patients. This requires patients' health information from previous visits
 to be collected, stored, and shared for doctors and healthcare providers.</p>
-<h2>Support outreach efforts for vulnerable patients in the community</h2>
-<p>• Support vulnerable patients/seniors who are isolated in the community.</p>
-<p>• Sharing health information enables community care teams to reach out
-and identify these seniors before their isolation leads to serious health
-crises.</p>
+<h2><em>Support outreach efforts for vulnerable patients in the community</em></h2>
+<p><em>• Support vulnerable patients/seniors who are isolated in the community.</em>
+</p>
+<p><em>• Sharing health information enables community care teams to reach out and identify these seniors before their isolation leads to serious health crises.</em>
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
