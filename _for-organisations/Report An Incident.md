@@ -37,4 +37,6 @@ Provide an incident report within 14 days of initial notification</p>
 without delay</p>
 </li>
 </ul>
-<p></p>
+<h1>Submit a Report</h1>
+<p>[To insert Link to reporting form 1]</p>
+<p>[To insert Link to reporting form 2]</p>
