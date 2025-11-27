@@ -19,7 +19,7 @@ sections:
         - title: For Organisations
           description: ""
           url: /for-organisations/what-hia-means-for-us/
-      background: /images/shutterstock_15283585_v3.jpg
+      background: /images/shutterstock_15283585__2_.jpg
   - infopic:
       title: Why is HIA Important?
       id: infopic
