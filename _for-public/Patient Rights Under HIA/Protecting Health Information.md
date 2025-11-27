@@ -5,24 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Patient Rights Under HIA
 ---
-<h2>Cybersecurity and data security standards</h2>
-<p>HIB sets out the cybersecurity and data security standards that will be
-imposed on healthcare providers if they contribute to or access NEHR or
-share data under the HIB.</p>
-<p>This&nbsp;<strong>ensures the safe and secure handling of health information</strong>.
-HIMS vendors that support healthcare providers to access or contribute
-data to NEHR will also need to meet cybersecurity and data security standards.</p>
-<p>MOH will also&nbsp;<strong>conduct audits</strong>&nbsp;to ensure that
-healthcare providers have fulfilled the security measures.</p>
-<h2>NEHR has safeguards to protect against cyber-attacks</h2>
-<p>A comprehensive set of security measures and processes protect the NEHR
-against cyberattacks. On top of that, both system operator‘s and users’
-access are <strong>regularly audited and subjected to vulnerability scans and penetration tests </strong>to
-ensure strict compliance with security standards for government-owned systems.
-&nbsp;</p>
-<p>Additionally, systems that are required to connect to NEHR undergo a robust
-onboarding process to ensure that they have met the appropriate connectivity
-and security requirements before they are allowed to connect to NEHR.</p>
 <h2>How MOH prevents improper access and use of your NEHR records</h2>
 <p>The HIB also has safeguards in place to govern the safe access, collection
 and use of NEHR information. These safeguards include:</p>
@@ -48,6 +30,24 @@ required to update NEHR when the roles of their authorised personnel change.</p>
 personnel to take corrective actions such as stopping unauthorised access
 and use of NEHR, and destroying health information collected in an unauthorised
 manner.</p>
+<h2>Cybersecurity and data security standards</h2>
+<p>HIB sets out the cybersecurity and data security standards that will be
+imposed on healthcare providers if they contribute to or access NEHR or
+share data under the HIB.</p>
+<p>This&nbsp;<strong>ensures the safe and secure handling of health information</strong>.
+HIMS vendors that support healthcare providers to access or contribute
+data to NEHR will also need to meet cybersecurity and data security standards.</p>
+<p>MOH will also&nbsp;<strong>conduct audits</strong>&nbsp;to ensure that
+healthcare providers have fulfilled the security measures.</p>
+<h2>NEHR has safeguards to protect against cyber-attacks</h2>
+<p>A comprehensive set of security measures and processes protect the NEHR
+against cyberattacks. On top of that, both system operator‘s and users’
+access are <strong>regularly audited and subjected to vulnerability scans and penetration tests </strong>to
+ensure strict compliance with security standards for government-owned systems.
+&nbsp;</p>
+<p>Additionally, systems that are required to connect to NEHR undergo a robust
+onboarding process to ensure that they have met the appropriate connectivity
+and security requirements before they are allowed to connect to NEHR.</p>
 <h2>What happens when a cybersecurity incident, data breach or unauthorised access to NEHR occurs?</h2>
 <p>The HIB will require healthcare providers report<strong> cybersecurity incidents or data breaches to MOH</strong>.</p>
 <ul data-tight="true" class="tight">
