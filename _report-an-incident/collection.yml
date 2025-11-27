@@ -1,6 +1,0 @@
-collections:
-  report-an-incident:
-    output: true
-    order:
-      - Reporting Requirements.md
-      - Submit A Report.md
