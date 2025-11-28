@@ -2,6 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - Press Releases and Speeches.md
+      - Press Releases & Speeches.md
       - News & Feature Articles.md
       - Public Consultations.md
