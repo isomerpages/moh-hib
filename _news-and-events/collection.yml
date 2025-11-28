@@ -2,7 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
-      - Upcoming & Past Events.md
       - News & Feature Articles.md
       - Public Consultations.md
       - Press Releases & Speeches.md
+      - Upcoming & Past Events.md
