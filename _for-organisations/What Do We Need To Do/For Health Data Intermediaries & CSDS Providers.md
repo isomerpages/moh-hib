@@ -6,8 +6,8 @@ description: ""
 third_nav_title: What Do We Need To Do
 ---
 <h2>NEHR Onboarding Process</h2>
-<p>[insert]</p>
+<p>{Link to Synapxe’s onboarding page}</p>
+<p>• Ensure timely/accurate/complete contribution by xxx</p>
 <h2>Meeting MOH’s CSDS Essentials</h2>
-<p>[insert]</p>
-<p></p>
+<p>[How to meet CS/DS requirements]</p>
 <p></p>
