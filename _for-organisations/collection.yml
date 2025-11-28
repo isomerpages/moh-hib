@@ -2,7 +2,7 @@ collections:
   for-organisations:
     output: true
     order:
-      - What HIA Means & Obligations/What HIA Means for Us.md
+      - What HIA Means & Obligations/For Healthcare Providers.md
       - What HIA Means & Obligations/.keep
       - Our Obligations under HIA.md
       - What Do We Need To Do.md
