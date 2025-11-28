@@ -1,4 +1,5 @@
 collections:
   help-and-resources:
     output: true
-    order: []
+    order:
+      - For Patients/.keep
