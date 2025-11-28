@@ -1,5 +1,4 @@
 collections:
   self-reference:
     output: true
-    order:
-      - Our Obligations under HIA.md
+    order: []
