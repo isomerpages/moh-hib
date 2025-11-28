@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - For Healthcare Providers/Circulars.md
       - For Healthcare Providers/Implementation Support.md
       - For Healthcare Providers/.keep
       - For Patients.md
