@@ -2,7 +2,6 @@ collections:
   for-organisations:
     output: true
     order:
-      - What Do We Need To Do/Our Obligations under HIA.md
       - What Do We Need To Do/.keep
       - What HIA Means & Obligations/For Health Data Intermediaries & CSDS
         Providers.md
