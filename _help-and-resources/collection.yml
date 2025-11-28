@@ -2,5 +2,4 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Useful Links.md
       - Circulars.md
