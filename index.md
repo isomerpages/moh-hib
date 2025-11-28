@@ -18,7 +18,7 @@ sections:
           url: /for-public/what-hia-means-for-patients/introduction/
         - title: For Organisations
           description: ""
-          url: /for-organisations/what-hia-means-for-us/
+          url: /what-hia-means-and-obligations/for-healthcare-providers/
       background: /images/shutterstock_15283585__4_.jpg
   - infocols:
       title: Why is HIB Important?
