@@ -1,0 +1,4 @@
+collections:
+  self-reference:
+    output: true
+    order: []
