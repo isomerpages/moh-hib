@@ -2,7 +2,6 @@ collections:
   self-reference:
     output: true
     order:
-      - Implementation Support.md
       - Engagement.md
       - Report An Incident.md
       - Where Can We Get Support.md
