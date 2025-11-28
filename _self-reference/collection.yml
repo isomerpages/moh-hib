@@ -2,6 +2,7 @@ collections:
   self-reference:
     output: true
     order:
+      - Report An Incident.md
       - Where Can We Get Support.md
       - What Do We Need To Do.md
       - Our Obligations under HIA.md
