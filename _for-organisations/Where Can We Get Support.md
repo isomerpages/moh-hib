@@ -4,3 +4,4 @@ permalink: /where-can-we-get-support/
 variant: tiptap
 description: ""
 ---
+<p>link to resources page</p>
