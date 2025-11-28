@@ -2,5 +2,6 @@ collections:
   self-reference:
     output: true
     order:
+      - Where Can We Get Support.md
       - What Do We Need To Do.md
       - Our Obligations under HIA.md
