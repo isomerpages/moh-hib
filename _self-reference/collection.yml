@@ -2,5 +2,4 @@ collections:
   self-reference:
     output: true
     order:
-      - What Do We Need To Do.md
       - Our Obligations under HIA.md
