@@ -2,6 +2,7 @@ collections:
   for-organisations:
     output: true
     order:
+      - Report an Incident/Reporting Forms.md
       - Report an Incident/Reporting Requirements and Timelines.md
       - Report an Incident/.keep
       - What HIA Means & Obligations/.keep
