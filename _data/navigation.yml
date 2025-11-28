@@ -9,11 +9,9 @@ links:
     sublinks:
       - title: Implementation Support
         url: /implementation-support/
-      - title: Educational Materials
-        url: /educational-materials/
-      - title: Useful Links
-        url: /useful-links/
       - title: Circulars
         url: /circulars/
-      - title: Engagement
-        url: /engagement/
+      - title: Guidelines & Guidebook
+        url: /educational-materials/
+      - title: References & Useful Links
+        url: /useful-links/
