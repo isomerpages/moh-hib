@@ -5,3 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: What HIA Means & Obligations
 ---
+<h2>Health Data Intermediaries (HDIs)</h2>
+<p>[Definition of HDI]</p>
+<h2>HIMS</h2>
+<p>[Definition of HIMS]</p>
+<h2>Roles and Responsibilities of HIMS &amp; CS/DS Providers</h2>
+<p></p>
+<p></p>
