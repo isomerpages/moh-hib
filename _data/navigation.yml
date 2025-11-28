@@ -6,14 +6,5 @@ links:
     collection: for-organisations
   - title: News & Events
     collection: news-and-events
-  - title: Help & Resources
-    url: /help-and-resources/for-patients/
-    sublinks:
-      - title: Implementation Support
-        url: /implementation-support/
-      - title: Circulars
-        url: /circulars/
-      - title: Guidelines & Guidebook
-        url: /educational-materials/
-      - title: References & Useful Links
-        url: /useful-links/
+  - title: Help
+    collection: help-and-resources
