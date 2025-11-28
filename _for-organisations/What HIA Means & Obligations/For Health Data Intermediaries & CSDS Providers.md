@@ -10,5 +10,6 @@ third_nav_title: What HIA Means & Obligations
 <h2>HIMS</h2>
 <p>[Definition of HIMS]</p>
 <h2>Roles and Responsibilities of HIMS &amp; CS/DS Providers</h2>
+<p>[paste]</p>
 <p></p>
 <p></p>
