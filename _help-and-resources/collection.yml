@@ -2,8 +2,8 @@ collections:
   help-and-resources:
     output: true
     order:
-      - For Healthcare Providers/Guidelines & Guidebooks.md
       - For Healthcare Providers/.keep
       - For Healthcare Providers/Implementation Support.md
       - For Healthcare Providers/Circulars.md
+      - For Healthcare Providers/Guidelines & Guidebooks.md
       - For Patients.md
