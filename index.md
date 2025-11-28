@@ -58,4 +58,18 @@ sections:
             first time on 5 November 2025.
           link_text: Bill No. 20/2025 - Health Information Bill 2025
           link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
+  - infocols:
+      title: Why is HIB Important?
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: One Patient, One Health Record
+          description: HIB transforms healthcare delivery by connecting providers with
+            unified patient data
+        - title: Closing the Last Mile
+          description: HIB completes Singapore's health record network by connecting all
+            remaining healthcare providers
+        - title: Robust Safeguards
+          description: Comprehensive security through role-based access controls, incident
+            reporting, strict penalties for unauthorised access
 ---
