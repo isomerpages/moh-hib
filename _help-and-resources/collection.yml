@@ -2,7 +2,6 @@ collections:
   help-and-resources:
     output: true
     order:
-      - For Health Data Intermediaries/.keep
       - For Patients.md
       - For Healthcare Providers/.keep
       - For Healthcare Providers/References & Useful Links.md
