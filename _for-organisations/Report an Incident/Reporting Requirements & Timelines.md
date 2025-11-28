@@ -34,7 +34,7 @@ Breach involves sensitive health information, or</p>
 <p><strong>IT vendors</strong> are required to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>notify the HIA entity of suspected data breach without delay</p>
+<p>Notify the HIA entity of suspected data breach without delay</p>
 </li>
 </ul>
 <h2></h2>
