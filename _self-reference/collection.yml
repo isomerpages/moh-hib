@@ -2,7 +2,6 @@ collections:
   self-reference:
     output: true
     order:
-      - Useful Links.md
       - Educational Materials.md
       - Implementation Support.md
       - Engagement.md
