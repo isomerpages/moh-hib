@@ -2,7 +2,6 @@ collections:
   self-reference:
     output: true
     order:
-      - Educational Materials.md
       - Implementation Support.md
       - Engagement.md
       - Report An Incident.md
