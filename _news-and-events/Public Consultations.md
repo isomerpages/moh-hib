@@ -35,13 +35,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Health Information Bill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11 Dec 2023 to 11 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Feedback Report</a>
+</p>
 </td>
 </tr>
 <tr>
