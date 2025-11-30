@@ -70,7 +70,8 @@ Health Information Bill</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.moh.gov.sg/others/health-regulation/" rel="noopener nofollow" target="_blank">MOH Circulars on Cybersecurity</a>
+</p>
 </td>
 </tr>
 </tbody>
