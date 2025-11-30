@@ -57,7 +57,8 @@ You</p>
 Health Information Bill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOH Cir No 13/2025</p>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13/2025</a>
+</p>
 </td>
 </tr>
 <tr>
