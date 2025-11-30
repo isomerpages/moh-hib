@@ -64,7 +64,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SMA News</p>
+<p>Adj A/Prof Raymond Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMA News (November 2024)</p>
@@ -74,7 +74,8 @@ description: ""
 Healthcare Practices Too!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMA News (November 2024) Page 16-17</p>
+<p><a href="/files/SMA_News_Nov_2024_Pg_16_17.pdf" rel="noopener noreferrer nofollow" target="_blank">SMA News (November 2024) Page 16-17</a>
+</p>
 </td>
 </tr>
 </tbody>
