@@ -45,7 +45,8 @@ third_nav_title: For Healthcare Providers
 You</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOH Circular Nov 2025</p>
+<p><a href="/files/MOH_Cir_4Nov25_Notification_for_HIB.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Circular Nov 2025</a>
+</p>
 </td>
 </tr>
 <tr>
