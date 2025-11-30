@@ -54,7 +54,7 @@ description: ""
 <p>Highlights from the Honorary Secretary - Meeting with MOH on HIB and NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News_Article_SMA_News_April2024_Pg13.pdf" rel="noopener noreferrer nofollow" target="_blank">SMA News Vol.56 No.4 (April 2024) Page 13</a>
+<p><a href="/files/News_Article_SMA_News_April2024_Pg13.pdf" rel="noopener noreferrer nofollow" target="_blank">SMA News (April 2024) Vol.56 No.4 Page 13</a>
 </p>
 </td>
 </tr>
