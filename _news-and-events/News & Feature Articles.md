@@ -15,7 +15,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Author/Publisher</strong>
+<p><strong>Author</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SMA News</p>
+<p>Clinical Asst Prof Benny Loo Kai Guo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMA News (April 2024) Vol.56 No.4 Page 13</p>
