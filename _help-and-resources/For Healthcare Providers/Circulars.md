@@ -17,3 +17,48 @@ third_nav_title: For Healthcare Providers
 </p>
 <p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [FOR INFORMATION] UPCOMING HEALTH INFORMATION BILL – WHAT IT MEANS FOR YOU (Nov 2025)</strong>
 </p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date of Issue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title of Circular</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Material</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[For Information] Upcoming Health Information Bill - What It Means For
+You</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOH Circular Nov 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
