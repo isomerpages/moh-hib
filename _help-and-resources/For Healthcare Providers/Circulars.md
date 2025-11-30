@@ -50,6 +50,18 @@ You</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Mar 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarifications on the Implementation Support Measures for the Proposed
+Health Information Bill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOH Cir No 13/2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
