@@ -66,10 +66,11 @@ description: ""
 <p>SMA News (November 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Safe Health: Safety Includes Ensuring Cyber and Data Security in Your
+Healthcare Practices Too!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SMA News (November 2024) Page 16-17</p>
 </td>
 </tr>
 </tbody>
