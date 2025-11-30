@@ -40,7 +40,7 @@ sections:
       description: How will Singaporeans benefit from the Act?
       button: Find out more
       url: /for-public/what-hia-means-for-patients/introduction/
-      image: /images/why_is_hia_important_icon__blue_purple_with_transparent_background_.jpg
+      image: /images/HIB_Isomer_Graphics.png
       alt: Image alt text
   - textcards:
       title: Help & Resources
