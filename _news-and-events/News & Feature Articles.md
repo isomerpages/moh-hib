@@ -31,16 +31,20 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Author/Publisher</p>
+<p><strong>Author/Publisher</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Source</p>
+<p><strong>Source</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Title of Article</p>
+<p><strong>Title of Article</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Material</p>
+<p><strong>Material</strong>
+</p>
 </td>
 </tr>
 <tr>
