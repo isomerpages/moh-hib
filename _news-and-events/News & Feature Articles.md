@@ -63,7 +63,7 @@ description: ""
 <p>SMA News</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMA News</p>
+<p>SMA News (November 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
