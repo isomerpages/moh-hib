@@ -1,5 +1,5 @@
 collections:
-  overview:
+  for-public:
     output: true
     order:
       - Introduction.md
