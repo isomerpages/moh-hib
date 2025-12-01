@@ -13,16 +13,13 @@ sections:
       title: Health Information Bill
       url: /about
       key_highlights:
-        - title: What is HIB?
+        - title: For Public
           description: ""
           url: /overview/introduction/
-        - title: Provide Your Feedback
+        - title: For Organisations
           description: ""
           url: /consultations/public-consultations/
-        - title: Help & Resources
-          description: ""
-          url: /help-and-resources/faqs-guidelines-others/
-      background: /images/Assets/hia website banner.jpg
+      background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: What is the Health Information Bill?
       id: infopic
