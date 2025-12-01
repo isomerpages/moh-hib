@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Healthcare Providers
 ---
+<h2>Cyber and Data Security Guidelines</h2>
 <p>This infographic provides an overview of the cyber and data security requirements
 while the HIB Cyber and Data Security Guidelines (Dec 2023) for Service
 Providers are being revised. The revised requirements will align with CSA’s
