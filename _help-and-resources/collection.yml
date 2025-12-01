@@ -2,4 +2,5 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Implementation Support.md
       - FAQs, Guidelines, Others.md
