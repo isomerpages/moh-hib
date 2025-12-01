@@ -2,9 +2,9 @@ collections:
   overview:
     output: true
     order:
-      - Protecting Health Information.md
+      - Introduction.md
+      - Health Information and the NEHR.md
+      - Access to Health Information.md
       - Restricting Access to Health Information.md
       - Sharing of Health Information.md
-      - Access to Health Information.md
-      - Health Information and the NEHR.md
-      - Introduction.md
+      - Protecting Health Information.md
