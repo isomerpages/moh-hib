@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   scamshield.gov.sg for more information.
 sections:
   - hero:
-      title: Health Information Bill
+      title: Health Information Bill (HIB)
       url: /about
       key_highlights:
         - title: For Public
