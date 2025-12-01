@@ -34,8 +34,9 @@ sections:
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
       subtitle: Why is HIB important?
-      description: All public and private healthcare providers must contribute key
-        health information to NEHR to enable seamless information sharing
+      description: All public and private healthcare providers will be required to
+        contribute key health information to NEHR to enable seamless information
+        sharing
   - infopic:
       title: Robust Safeguards
       id: infopic
