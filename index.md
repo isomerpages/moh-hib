@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is HIB?
           description: ""
-          url: ""
+          url: /overview/introduction/
         - title: Provide Your Feedback
           description: ""
           url: ""
