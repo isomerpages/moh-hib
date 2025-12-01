@@ -28,7 +28,7 @@ of 2026.</p>
 <h2>Guidelines for CMS vendors</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data </a>
+<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data</a>
 </p>
 </li>
 </ul>
