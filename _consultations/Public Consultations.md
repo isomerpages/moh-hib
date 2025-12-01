@@ -13,7 +13,7 @@ on <a href="https://go.gov.sg/hib-consult" rel="noopener noreferrer nofollow" ta
 &nbsp;A copy of the draft NEHR guidelines may be found below for your reference.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">Draft Guidelines on the Appropriate Use and Access to the National Electronic Health Record</a>
+<p><a href="/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">Draft Guidelines on the Appropriate Use and Access to the National Electronic Health Record</a>
 </p>
 </li>
 </ul>
