@@ -21,9 +21,24 @@ sections:
           url: /what-hia-means-and-obligations/for-healthcare-providers/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
-      title: Infopic
+      title: What is the Health Information Bill?
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Learn more
+      alt: Image alt text
+      image: /images/Assets/hia website assets objectives.png
+      url: /overview/introduction/
+  - infopic:
+      title: Provide Your Feedback
+      id: infopic
+      button: Learn More
+      url: /public-consultations/
+      image: /images/Assets/hia website public consults.png
+      alt: Image alt text
+  - infopic:
+      title: Help & Resources
+      id: infopic
+      button: Learn More
+      url: /faqs-guidelines-others/
+      image: /images/Assets/frequently asked questions.png
       alt: Image alt text
 ---
