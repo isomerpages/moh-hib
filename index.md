@@ -31,7 +31,7 @@ sections:
       title: Provide Your Feedback
       id: infopic
       button: Learn More
-      url: /public-consultations/
+      url: /consultations/public-consultations/
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
   - infopic:
