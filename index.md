@@ -58,4 +58,14 @@ sections:
           description: ""
           linktext: Learn more
           url: /help-and-resources/for-health-data-intermediaries-hdis-csds-providers/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Health Information Bill (HIB) - First Reading
+          date: 05 November 2025
+          announcement: The Health Information Bill (HIB) was read for the first time on
+            5th December 2025
+          link_text: ""
+          link_url: ""
 ---
