@@ -2,5 +2,4 @@ collections:
   news-and-events:
     output: true
     order:
-      - Press Releases & Speeches.md
       - Upcoming & Past Events.md
