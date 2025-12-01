@@ -7,10 +7,10 @@ third_nav_title: What HIA Means & Obligations
 ---
 <h2>Health Data Intermediaries (HDIs)</h2>
 <p>[Definition of HDI]</p>
-<h2>HIMS</h2>
+<h2>Health Information Management Systems</h2>
 <p>[Definition of HIMS]</p>
 <h2>Roles and Responsibilities of HIMS &amp; CS/DS Providers</h2>
-<h4>Responsibilities of the IT vendor</h4>
+<h3>Responsibilities of the IT vendor</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Vendors of health information management systems (e.g. CMS, EMR) providing
