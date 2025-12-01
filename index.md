@@ -22,7 +22,7 @@ sections:
         - title: Help & Resources
           description: ""
           url: ""
-      background: /images/shutterstock_15283585__4_.jpg
+      background: /images/Assets/hia website banner.jpg
   - infopic:
       title: What is the Health Information Bill?
       id: infopic
