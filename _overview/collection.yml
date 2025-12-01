@@ -2,6 +2,7 @@ collections:
   overview:
     output: true
     order:
+      - Access to Health Information.md
       - Health Information and the NEHR.md
       - Introduction.md
       - How HIA Affects Patients/.keep
