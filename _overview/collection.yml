@@ -1,5 +1,5 @@
 collections:
-  for-public:
+  overview:
     output: true
     order:
       - What HIA Means for Patients/.keep
