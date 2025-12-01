@@ -7,5 +7,7 @@ links:
     sublinks:
       - title: Ongoing/Past Consultations
         url: /consultations/public-consultations/
+  - title: News & Events
+    collection: news-and-events
   - title: Help & Resources
     collection: help-and-resources
