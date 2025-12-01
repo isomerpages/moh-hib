@@ -21,7 +21,7 @@ clinical assessment.</p>
 access your NEHR&nbsp;<strong>for employment or insurance purposes</strong>.
 Healthcare professionals who are not involved in your care should also
 not be accessing your health records.</p>
-<h2>How do I know who has assessed NEHR?</h2>
+<h2>How do I know who has accessed NEHR?</h2>
 <p>You can view health information such as your medications, drug allergies,
 and laboratory results through HealthHub.</p>
 <p>The NEHR Access History section in HealthHub allows you to see which healthcare
