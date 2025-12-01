@@ -1,5 +1,4 @@
 collections:
   help-and-resources:
     output: true
-    order:
-      - For Health Data Intermediaries (HDIs) & CSDS Providers.md
+    order: []
