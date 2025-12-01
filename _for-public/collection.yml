@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - What HIA Means for Patients/.keep
       - Introduction.md
       - Health Information and the NEHR.md
       - Access to Health Information.md
