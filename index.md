@@ -18,7 +18,7 @@ sections:
           url: /for-public/what-hia-means-for-patients/introduction/
         - title: For Organisations
           description: ""
-          url: /consultations/public-consultations/
+          url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: One Patient, One Health Record
