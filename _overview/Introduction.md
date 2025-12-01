@@ -4,7 +4,6 @@ permalink: /introduction/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h2>Objectives of the Health Information Bill (HIB)</h2>
 <ol data-tight="true" class="tight">
 <li>
