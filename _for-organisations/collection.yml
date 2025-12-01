@@ -2,4 +2,5 @@ collections:
   for-organisations:
     output: true
     order:
+      - What HIA Means & Obligations/For Healthcare Providers.md
       - What HIA Means & Obligations/.keep
