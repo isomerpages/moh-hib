@@ -13,17 +13,6 @@ related to the Health Information Bill.</p>
 </p>
 </li>
 </ul>
-<h1>MOH Circulars and Guidelines</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/" rel="noopener noreferrer nofollow" target="_blank">MOH Circulars on Cybersecurity</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/cyber-data-security-guidelines-for-healthcare-providers" rel="noopener noreferrer nofollow" target="_blank">Cyber/Data Security Guidelines for Healthcare Providers</a>
-</p>
-</li>
-</ul>
 <h1>HSA Guidelines</h1>
 <ul data-tight="true" class="tight">
 <li>
