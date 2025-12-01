@@ -18,7 +18,7 @@ sections:
           url: /overview/introduction/
         - title: Provide Your Feedback
           description: ""
-          url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
+          url: /consultations/public-consultations/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: What is the Health Information Bill?
