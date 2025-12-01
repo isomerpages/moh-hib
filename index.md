@@ -21,7 +21,7 @@ sections:
           url: /consultations/public-consultations/
         - title: Help & Resources
           description: ""
-          url: ""
+          url: /help-and-resources/faqs-guidelines-others/
       background: /images/Assets/hia website banner.jpg
   - infopic:
       title: What is the Health Information Bill?
