@@ -13,7 +13,7 @@ sections:
       title: Health Information Bill
       url: /about
       key_highlights:
-        - title: WHAT IS HIB?
+        - title: What is HIB?
           description: ""
           url: ""
         - title: Provide Your Feedback
