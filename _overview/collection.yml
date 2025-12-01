@@ -2,6 +2,7 @@ collections:
   overview:
     output: true
     order:
+      - Health Information and the NEHR.md
       - Introduction.md
       - What HIA Means for Patients/.keep
       - How HIA Affects Patients/.keep
