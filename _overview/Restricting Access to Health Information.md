@@ -13,9 +13,11 @@ through the NEHR.</p>
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We will enable patients to select the healthcare providers who can access
-their NEHR information</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
+select the healthcare providers who can access their NEHR information.</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
 (i.e. allergies, vaccination records, together with key demographic information
