@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Patient Rights Under HIA
 ---
-<p></p>
 <h2>Cybersecurity and data security standards</h2>
 <p>HIB sets out the cybersecurity and data security standards that will be
 imposed on healthcare providers if they contribute to or access NEHR or
