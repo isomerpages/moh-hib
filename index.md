@@ -50,12 +50,12 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: For Healthcare Providers
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: For Health Data Intermediaries & CSDS Providers
+          description: ""
           linktext: Learn more
           url: ""
 ---
