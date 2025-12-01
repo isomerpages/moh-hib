@@ -21,24 +21,27 @@ sections:
           url: /consultations/public-consultations/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
-      title: What is the Health Information Bill?
+      title: One Patient, One Health Record
       id: infopic
-      button: Learn more
       alt: Image alt text
       image: /images/Assets/hia website assets objectives.png
-      url: /overview/introduction/
+      description: HIB will enable more effective clinical care by ensuring all
+        healthcare providers have access to key health information in NEHR
+      subtitle: Why is hib important?
   - infopic:
-      title: Provide Your Feedback
+      title: Adopting Best Practices
       id: infopic
-      button: Learn More
-      url: /consultations/public-consultations/
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
+      subtitle: Why is HIB important?
+      description: All public and private healthcare providers must contribute key
+        health information to NEHR to enable seamless information sharing
   - infopic:
-      title: Help & Resources
+      title: Robust Safeguards
       id: infopic
-      button: Learn More
-      url: /help-and-resources/faqs-guidelines-others/
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
+      subtitle: Why is HIB Important?
+      description: Reinforced cyber and data security measures ensure comprehensive
+        protections and oversight
 ---
