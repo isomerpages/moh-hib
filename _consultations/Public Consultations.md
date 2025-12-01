@@ -39,7 +39,7 @@ We thank all respondents for their thoughtful contributions to this important
 piece of work that will transform Singapore's healthcare landscape.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Feedback Report on the Public Consultation for HIB</a>
+<p><a href="/files/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Feedback Report on the Public Consultation for HIB</a>
 </p>
 </li>
 </ul>
