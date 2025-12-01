@@ -42,4 +42,6 @@ sections:
       id: infopic
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
+      url: /help-and-resources/faqs-guidelines-others/
+      button: Learn More
 ---
