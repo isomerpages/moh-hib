@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - For Patients.md
       - For Health Data Intermediaries (HDIs) & CSDS Providers.md
       - For Healthcare Providers/.keep
       - For Healthcare Providers/Implementation Support.md
