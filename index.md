@@ -13,13 +13,10 @@ sections:
       title: Health Information Bill
       url: /about
       key_highlights:
-        - title: For Public
+        - title: WHAT IS HIB?
           description: ""
-          url: /for-public/what-hia-means-for-patients/introduction/
-        - title: For Organisations
-          description: ""
-          url: /what-hia-means-and-obligations/for-healthcare-providers/
-      background: /images/shutterstock_15283585__4_.jpg
+          url: ""
+      background: /images/Assets/hia website banner.jpg
   - infopic:
       title: What is the Health Information Bill?
       id: infopic
