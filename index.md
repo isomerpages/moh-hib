@@ -42,4 +42,20 @@ sections:
       alt: Image alt text
       description: Reinforced cyber and data security measures ensure comprehensive
         protections and oversight
+  - textcards:
+      title: Help & Resources
+      id: textcards
+      cards:
+        - title: For Patients
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
