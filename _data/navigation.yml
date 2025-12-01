@@ -3,16 +3,9 @@ links:
   - title: Overview
     collection: overview
   - title: Consultations
-    url: /consultations
+    url: /consultations/public-consultations/
     sublinks:
       - title: Ongoing/Past Consultations
-        url: /consultations
+        url: /consultations/public-consultations/
   - title: Help & Resources
-    url: /faqs-guidelines-others/
-    sublinks:
-      - title: FAQs, Guidelines, Others
-        url: /faqs-guidelines-others
-      - title: Implementation Support
-        url: /implementation-support
-      - title: Useful Links
-        url: /useful-links/
+    collection: help-and-resources

@@ -4,7 +4,7 @@ permalink: /overview/sharing-of-health-information/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Beyond NEHR: Supporting National Health Initiatives</strong></h2>
+<h2>Beyond NEHR: Supporting National Health Initiatives</h2>
 <p>The HIB will also provide the legal basis to enable sharing of health
 information to facilitate shared care and coordination across different
 settings and between healthcare institutions and community partners. While
@@ -34,5 +34,5 @@ the HIB</p>
 </li>
 </ol>
 <p>MOH will also be able to stop any further unauthorised sharing of health
-information</p>
+information.</p>
 <p></p>

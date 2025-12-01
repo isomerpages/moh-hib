@@ -1,10 +1,10 @@
 ---
 title: Public Consultations
-permalink: /consultations/
-description: ""
+permalink: /consultations/public-consultations/
 variant: tiptap
+description: ""
 ---
-<h1>Closed Consultations</h1>
+<h2>Closed Consultations</h2>
 <p>The public consultation exercise on the Health Information Bill and upcoming
 guidelines on the appropriate use and access to the National Electronic
 Health Record (NEHR) have <strong>closed</strong> since 6pm on 11 January
@@ -19,7 +19,7 @@ on <a href="https://go.gov.sg/hib-consult" rel="noopener noreferrer nofollow" ta
 </ul>
 <p>Please write in to <a rel="noopener noreferrer nofollow" target="_blank">HIA_Enquiries@moh.gov.sg</a> if
 you have any questions on the Bill.</p>
-<h1>Public Consultation Report on the Health Information Bill</h1>
+<h2>Public Consultation Report on the Health Information Bill</h2>
 <p>The Ministry of Health conducted a public consultation from 11 December
 2023 to 11 January 2024 to seek views on the proposed Health Information
 Bill (HIB).</p>
@@ -39,10 +39,8 @@ We thank all respondents for their thoughtful contributions to this important
 piece of work that will transform Singapore's healthcare landscape.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener nofollow" target="_blank">Feedback Report on the Public Consultation for HIB</a>
+<p><a href="/files/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Feedback Report on the Public Consultation for HIB</a>
 </p>
 </li>
 </ul>
-<hr>
-<p></p>
 <p></p>

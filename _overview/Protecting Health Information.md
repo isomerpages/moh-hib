@@ -4,7 +4,8 @@ permalink: /overview/protecting-health-information/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Cybersecurity and data security standards</strong></h2>
+<p></p>
+<h2>Cybersecurity and data security standards</h2>
 <p>HIB sets out the cybersecurity and data security standards that will be
 imposed on healthcare providers if they contribute to or access NEHR or
 share data under the HIB.</p>
@@ -13,7 +14,7 @@ HIMS vendors that support healthcare providers to access or contribute
 data to NEHR will also need to meet cybersecurity and data security standards.</p>
 <p>MOH will also&nbsp;<strong>conduct audits</strong>&nbsp;to ensure that
 healthcare providers have fulfilled the security measures.</p>
-<h2><strong>What happens if a healthcare provider encounters a cybersecurity incident or a data breach?</strong></h2>
+<h2>What happens if a healthcare provider encounters a cybersecurity incident or a data breach?</h2>
 <p>The HIB will require healthcare providers report<strong> cybersecurity incidents or data breaches to MOH</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>

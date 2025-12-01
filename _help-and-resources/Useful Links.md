@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /useful-links/
+permalink: /help-and-resources/useful-links/
 variant: tiptap
 description: ""
 ---
@@ -9,21 +9,7 @@ related to the Health Information Bill.</p>
 <h1>Health Information Bill</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1" rel="noopener nofollow" target="_blank">Health Information Bill</a>
-</p>
-<p>
-<br>
-</p>
-</li>
-</ul>
-<h1>MOH Circulars and Guidelines</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/" rel="noopener noreferrer nofollow" target="_blank">MOH Circulars on Cybersecurity</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/cyber-data-security-guidelines-for-healthcare-providers" rel="noopener noreferrer nofollow" target="_blank">Cyber/Data Security Guidelines for Healthcare Providers</a>
+<p><a href="https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1" rel="noopener noreferrer nofollow" target="_blank">Health Information Bill</a>
 </p>
 </li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: Implementation Support
-permalink: /implementation-support/
+permalink: /help-and-resources/implementation-support/
 variant: tiptap
 description: ""
 ---
@@ -64,7 +64,7 @@ table below.</p>
 <h3><strong><u>Circulars</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIB</a>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIB</a>
 </p>
 </li>
 </ul>

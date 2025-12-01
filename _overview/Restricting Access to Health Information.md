@@ -13,8 +13,8 @@ through the NEHR.</p>
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
-select the healthcare providers who can access their NEHR information</p>
+<p>We will enable patients to select the healthcare providers who can access
+their NEHR information</p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
@@ -35,7 +35,6 @@ similar to NEHR. &nbsp;</p>
 </ul>
 <p>The enhanced access controls will be made available on the HealthHub application
 in the second half of 2026.</p>
-<p></p>
 <p>MOH will audit cases where your access restriction is overridden&nbsp;by
 the healthcare professional. Healthcare professionals who inappropriately
 override access restrictions to NEHR may be subject to legal penalties
@@ -53,7 +52,8 @@ emergency situations when there is a need to override the restrictions.</p>
 <p>Today, you can already check the NEHR Access History in HealthHub, to
 see if your NEHR have been accessed.</p>
 <p>If you wish to restrict access, more details on the opt-out process is
-available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe</a></strong>.</p>
+available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe</a></strong>
+</p>
 <h1>How we prevent improper access and use of NEHR information</h1>
 <p>The HIB also has safeguards in place to govern the safe access, collection
 and use of NEHR information. These safeguards include:</p>
@@ -75,7 +75,6 @@ required to update NEHR when the roles of their authorised personnel change.</p>
 <p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
 </li>
 </ul>
-<p></p>
 <p>MOH will also be able to direct healthcare providers and their authorised
 personnel to take corrective actions such as stopping unauthorised access
 and use of NEHR, and destroying health information collected in an unauthorised
@@ -83,9 +82,10 @@ manner.</p>
 <h2>NEHR has safeguards to protect against cyber-attacks</h2>
 <p>A comprehensive set of security measures and processes protect the NEHR
 against cyberattacks. On top of that, both system operator‘s and users’
-access are <strong>regularly audited and subjected to vulnerability scans and penetration tests </strong>to
-ensure strict compliance with security standards for government-owned systems.
-&nbsp;</p>
+access are <strong>regularly audited and subjected to vulnerability scans and penetration tests</strong> to
+ensure strict compliance with security standards for government-owned systems.</p>
 <p>Additionally, systems that are required to connect to NEHR undergo a robust
 onboarding process to ensure that they have met the appropriate connectivity
 and security requirements before they are allowed to connect to NEHR.</p>
+<p></p>
+<p></p>
