@@ -13,8 +13,8 @@ through the NEHR.</p>
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
-select the healthcare providers who can access their NEHR information</p>
+<p>We will enable patients to select the healthcare providers who can access
+their NEHR information</p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
@@ -57,14 +57,24 @@ available in the <strong><a href="https://www.synapxe.sg/healthtech/national-pro
 <h1>How we prevent improper access and use of NEHR information</h1>
 <p>The HIB also has safeguards in place to govern the safe access, collection
 and use of NEHR information. These safeguards include:</p>
-<p>• Penalties to deter unauthorised or improper access of NEHR information</p>
-<p>• <strong>Healthcare providers and their authorised personnel</strong> may
+<ul data-tight="true" class="tight">
+<li>
+<p>Penalties to deter unauthorised or improper access of NEHR information</p>
+</li>
+<li>
+<p><strong>         Healthcare providers and their authorised personnel</strong> may
 only access the NEHR information of patients registered with them.</p>
-<p>• Only personnel directly involved in patient care are granted NEHR access.
+</li>
+<li>
+<p>Only personnel directly involved in patient care are granted NEHR access.
 Healthcare providers are also required to update NEHR when the roles of
 their authorised personnel change.</p>
-<p>• <strong>Accessing NEHR information for employment or insurance purposes, will be disallowed.</strong>
+</li>
+<li>
+<p><strong>         Accessing NEHR information for employment or insurance purposes, will be disallowed.</strong>
 </p>
+</li>
+</ul>
 <p>MOH will also be able to direct healthcare providers and their authorised
 personnel to take corrective actions such as stopping unauthorised access
 and use of NEHR, and destroying health information collected in an unauthorised
