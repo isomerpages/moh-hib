@@ -54,7 +54,7 @@ emergency situations when there is a need to override the restrictions.</p>
 <p>Today, you can already check the NEHR Access History in HealthHub, to
 see if your NEHR have been accessed.</p>
 <p>If you wish to restrict access, more details on the opt-out process is
-available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe</a></strong>
+available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
 </p>
 <h1>How we prevent improper access and use of NEHR information</h1>
 <p>The HIB also has safeguards in place to govern the safe access, collection
