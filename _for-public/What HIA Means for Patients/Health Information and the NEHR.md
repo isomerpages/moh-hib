@@ -38,20 +38,4 @@ an increasingly useful tool for healthcare professionals in delivering
 care to you.</p>
 <p>Read on to find out more about NEHR or&nbsp;<a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">visit Synapxe’s website</a>&nbsp;for
 more information.</p>
-<h2>Closing the last mile on achieving a comprehensive overview of patients' medical histories</h2>
-<p>All public healthcare institutions have onboarded the NEHR, with private
-hospitals preparing to join. 75% of private primary care clinics are already
-connected through Healthier SG.</p>
-<p>NEHR consolidates key health information from various healthcare institutions
-through seamless system-to-system integration. This allows for better care
-quality, lowers costs and improves patient safety.</p>
-<p>However, while we have achieved good coverage, gaps remain. Private specialist
-clinics, clinical and radiological laboratories, dental clinics, and retail
-pharmacies are not yet onboarded.</p>
-<p>HIB closes the last mile through mandatory contribution, ensuring comprehensive
-coverage across Singapore's healthcare landscape. When fully implemented,
-most healthcare interactions in Singapore will contribute to and benefit
-from the shared health record.</p>
-<p>Read on to learn more about what this means for you, and how MOH will
-continue to safeguard your health information.</p>
 <p></p>
