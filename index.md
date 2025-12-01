@@ -38,7 +38,7 @@ sections:
       title: Help & Resources
       id: infopic
       button: Learn More
-      url: /faqs-guidelines-others/
+      url: /help-and-resources/faqs-guidelines-others/
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
 ---
