@@ -19,7 +19,7 @@ on <a href="https://go.gov.sg/hib-consult" rel="noopener noreferrer nofollow" ta
 </ul>
 <p>Please write in to <a rel="noopener noreferrer nofollow" target="_blank">HIA_Enquiries@moh.gov.sg</a> if
 you have any questions on the Bill.</p>
-<p>Public Consultation Report on the Health Information Bill</p>
+<h2>Public Consultation Report on the Health Information Bill</h2>
 <p>The Ministry of Health conducted a public consultation from 11 December
 2023 to 11 January 2024 to seek views on the proposed Health Information
 Bill (HIB).</p>
