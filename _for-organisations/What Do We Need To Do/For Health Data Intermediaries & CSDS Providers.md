@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Do
 ---
-<h2>Health Data Intermediaries (HDIs)</h2>
-<p>[Definition of HDI]</p>
-<h2>Health Information Management Systems (HIMS)</h2>
-<p>[Definition of HIMS]</p>
-<h2>Roles and Responsibilities of HIMS &amp; CSDS Providers</h2>
+<h2>NEHR Onboarding Process</h2>
 <p>[To insert content]</p>
+<h2>Meeting MOH’s CSDS Essentials</h2>
+<p>[To insert content]</p>
+<p></p>
