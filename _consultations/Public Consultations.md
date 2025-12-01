@@ -4,7 +4,7 @@ permalink: /public-consultations/
 variant: tiptap
 description: ""
 ---
-<p>Closed Consultations</p>
+<h2>Closed Consultations</h2>
 <p>The public consultation exercise on the Health Information Bill and upcoming
 guidelines on the appropriate use and access to the National Electronic
 Health Record (NEHR) have <strong>closed</strong> since 6pm on 11 January
