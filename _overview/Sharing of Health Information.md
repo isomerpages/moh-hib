@@ -30,9 +30,9 @@ shared and</p>
 <li>
 <p>Your health information can be shared only for the use case listed in
 the HIB</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>MOH will also be able to stop any further unauthorised sharing of health
-information</p>
+information.</p>
 <p></p>
