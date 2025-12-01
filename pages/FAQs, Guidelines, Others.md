@@ -23,7 +23,8 @@ copies of health information, and will be published in the first quarter
 of 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Key Cyber and Data Security Essentials</p>
+<p><a href="/files/infographic_key_cyber_and_data_security_essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Cyber and Data Security Essentials</a>
+</p>
 </li>
 </ul>
 <h2>Guidelines for CMS vendors</h2>
