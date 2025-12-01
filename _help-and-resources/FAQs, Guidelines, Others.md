@@ -10,7 +10,7 @@ have further questions on the Health Information Bill.</p>
 <h2>Guidelines for Healthcare Professionals</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">Draft Guidelines for Appropriate Use and Access to National Electronic Health Record</a>
+<p><a href="/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">Draft Guidelines for Appropriate Use and Access to National Electronic Health Record</a>
 </p>
 </li>
 </ul>
