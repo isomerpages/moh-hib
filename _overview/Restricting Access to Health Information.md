@@ -59,20 +59,20 @@ available in the <strong><a href="https://www.synapxe.sg/healthtech/national-pro
 and use of NEHR information. These safeguards include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Penalties to deter unauthorised or improper access of NEHR information</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Penalties to deter unauthorised
+or improper access of NEHR information</p>
 </li>
 <li>
-<p><strong>Healthcare providers and their authorised personnel</strong> may
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Healthcare providers and their authorised personnel</strong>&nbsp;may
 only access the NEHR information of patients registered with them.</p>
 </li>
 <li>
-<p>Only personnel directly involved in patient care are granted NEHR access.
-Healthcare providers are also required to update NEHR when the roles of
-their authorised personnel change.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only personnel directly involved
+in patient care are granted NEHR access. Healthcare providers are also
+required to update NEHR when the roles of their authorised personnel change.</p>
 </li>
 <li>
-<p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed.</strong>
-</p>
+<p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
 </li>
 </ul>
 <p>MOH will also be able to direct healthcare providers and their authorised
