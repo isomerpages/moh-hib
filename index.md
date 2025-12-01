@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /overview/introduction/
+          url: /for-public/what-hia-means-for-patients/introduction/
         - title: For Organisations
           description: ""
           url: /consultations/public-consultations/
