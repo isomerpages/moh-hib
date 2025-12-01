@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - References & Useful Links.md
-      - Cyber and Data Security Guidelines.md
+      - FAQs, Guidelines, Others.md
       - Implementation Support.md
