@@ -2,9 +2,9 @@ collections:
   for-organisations:
     output: true
     order:
-      - Report An Incident/Reporting Forms.md
-      - Report An Incident/Reporting Requirements & Timelines.md
       - Report An Incident/.keep
+      - Report An Incident/Reporting Requirements & Timelines.md
+      - Report An Incident/Reporting Forms.md
       - What HIA Means & Obligations/.keep
       - What HIA Means & Obligations/For Healthcare Providers.md
       - What HIA Means & Obligations/For Health Data Intermediaries & CSDS
