@@ -19,6 +19,9 @@ sections:
         - title: Provide Your Feedback
           description: ""
           url: /consultations/public-consultations/
+        - title: Help & Resources
+          description: ""
+          url: ""
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: What is the Health Information Bill?
