@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Cyber and Data Security Guidelines.md
       - Circulars.md
       - Implementation Support.md
       - For Healthcare Providers/.keep
