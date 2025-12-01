@@ -21,25 +21,9 @@ sections:
           url: /what-hia-means-and-obligations/for-healthcare-providers/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
-      title: One Patient, One Health Record
+      title: Infopic
       id: infopic
-      description: HIB will enable more effective clinical care by ensuring all
-        healthcare providers have access to key health information in NEHR
-      image: /images/HIB_Isomer_Graphics.png
-      alt: Image alt text
-      subtitle: Why is hib important?
-  - infopic:
-      title: Adopting Best Practices
-      subtitle: Why is HIB important?
-      id: infopic
-      description: All public and private healthcare providers must contribute key
-        health information to NEHR to enable seamless information sharing
-      alt: Image alt text
-  - infopic:
-      title: Robust Safeguards
-      subtitle: Why is HIB Important?
-      id: infopic
-      description: Reinforced cyber and data security measures ensure comprehensive
-        protections and oversight
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
