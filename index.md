@@ -31,10 +31,8 @@ sections:
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
   - infopic:
-      title: Robust Safeguards
+      title: Help & Resources
       id: infopic
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
-      description: Reinforced cyber and data security measures ensure comprehensive
-        protections and oversight
 ---
