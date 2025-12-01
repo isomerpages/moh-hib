@@ -20,56 +20,26 @@ sections:
           description: ""
           url: /what-hia-means-and-obligations/for-healthcare-providers/
       background: /images/shutterstock_15283585__4_.jpg
-  - infocols:
-      title: Why is HIB Important?
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: One Patient, One Health Record
-          description: HIB transforms healthcare delivery by connecting providers with
-            unified patient data
-        - title: Closing the Last Mile
-          description: HIB completes Singapore's health record network by connecting all
-            remaining healthcare providers
-        - title: Robust Safeguards
-          description: Comprehensive security through role-based access controls, incident
-            reporting, strict penalties for unauthorised access
   - infopic:
-      title: Why is HIA Important?
+      title: One Patient, One Health Record
       id: infopic
-      description: How will Singaporeans benefit from the Act?
-      button: Find out more
-      url: /for-public/what-hia-means-for-patients/introduction/
+      description: HIB will enable more effective clinical care by ensuring all
+        healthcare providers have access to key health information in NEHR
       image: /images/HIB_Isomer_Graphics.png
       alt: Image alt text
-  - textcards:
-      title: Help & Resources
-      id: textcards
-      cards:
-        - title: Implementation Support
-          description: ""
-          linktext: Learn more
-          url: /implementation-support/
-        - title: Educational Materials
-          description: ""
-          linktext: Learn more
-          url: /educational-materials/
-        - title: Useful Links
-          description: ""
-          linktext: Learn more
-          url: /useful-links/
-        - title: FAQs
-          description: ""
-          linktext: Learn more
-          url: /faqs/
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Health Information Act (HIA) 2025 - First Reading
-          date: 05 November 2025
-          announcement: Health Information Bill (HIB) 2025 was read in Parliament the
-            first time on 5 November 2025.
-          link_text: Bill No. 20/2025 - Health Information Bill 2025
-          link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
+      subtitle: Why is hib important?
+  - infopic:
+      title: Adopting Best Practices
+      subtitle: Why is HIB important?
+      id: infopic
+      description: All public and private healthcare providers must contribute key
+        health information to NEHR to enable seamless information sharing
+      alt: Image alt text
+  - infopic:
+      title: Robust Safeguards
+      subtitle: Why is HIB Important?
+      id: infopic
+      description: Reinforced cyber and data security measures ensure comprehensive
+        protections and oversight
+      alt: Image alt text
 ---
