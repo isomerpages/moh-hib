@@ -5,61 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: For Healthcare Providers
 ---
-<p>[content to be updated]</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Date of Issue</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Title of Guideline/Guidebook</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Material</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>This infographic provides an overview of the cyber and data security requirements
+while the HIB Cyber and Data Security Guidelines (Dec 2023) for Service
+Providers are being revised. The revised requirements will align with CSA’s
+Cyber Essentials (15 Apr 2025), with guidance on the handling of physical
+copies of health information, and will be published in the first quarter
+of 2026.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
