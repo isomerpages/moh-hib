@@ -18,11 +18,11 @@ description: ""
 <h3>Grants for Community Care Organisations and Social Services Agencies</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a></strong>
+<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a></strong>
+<p><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,7 +64,7 @@ table below.</p>
 <h3><strong><u>Circulars</u></strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.healthinfo.gov.sg/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIB</a></strong>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIB</a>
 </p>
 </li>
 </ul>
