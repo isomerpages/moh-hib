@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is HIB?
           description: ""
-          url: /for-public/what-hia-means-for-patients/introduction/
+          url: /overview/introduction/
         - title: Provide Your Feedback
           description: ""
           url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
