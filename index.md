@@ -65,7 +65,7 @@ sections:
         - title: Health Information Bill (HIB) - First Reading
           date: 05 November 2025
           announcement: The Health Information Bill (HIB) was read for the first time on
-            5th December 2025
+            5th December 2025.
           link_text: ""
           link_url: ""
 ---
