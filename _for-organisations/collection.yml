@@ -1,4 +1,5 @@
 collections:
   for-organisations:
     output: true
-    order: []
+    order:
+      - What HIA Means & Obligations/.keep
