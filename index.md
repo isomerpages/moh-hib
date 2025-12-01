@@ -32,6 +32,8 @@ sections:
       id: infopic
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
+      url: /consultations/public-consultations/
+      button: Learn More
   - infopic:
       title: Help & Resources
       id: infopic
