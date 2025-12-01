@@ -12,7 +12,7 @@ that provides nationally harmonised health information and healthcare e-Services
 <br>It is integrated with key healthcare systems such as the National Electronic
 Health Record (NEHR) and the National Billing System to allow a synchronised
 viewing of records, appointments, bills and more.</p>
-<p>For more information on HealthHub, please visit <a href="https://www.synapxe.sg/healthtech/national-programmes/healthhub" rel="noopener nofollow" target="_blank">HealthHub</a>
+<p>For more information on HealthHub, please visit <a href="https://www.synapxe.sg/healthtech/national-programmes/healthhub" rel="noopener nofollow" target="_blank">Synapxe's website.</a>
 </p>
 <h2>FAQs</h2>
 <p>[To be updated after 2R]</p>
