@@ -32,6 +32,23 @@ National Council of Social Service (NCSS)</p>
 </ul>
 </li>
 </ul>
+<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.ncss.gov.sg/Our-Initiatives/Tech-and-Go" rel="noopener noreferrer nofollow" target="_blank">Tech-n-Go</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicable only to Community Care Organisations that are Members of the
+National Council of Social Service (NCSS)</p>
+</li>
+</ul>
+</li>
+</ul>
 <h3>Grants for SMEs</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,7 +64,7 @@ National Council of Social Service (NCSS)</p>
 </p>
 </li>
 </ul>
-<h2><strong><u>Service Providers</u></strong><br></h2>
+<h3><strong><u>Service Providers</u></strong><br></h3>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
