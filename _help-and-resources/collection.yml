@@ -2,6 +2,6 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Useful Links.md
       - FAQs, Guidelines, Others.md
       - Implementation Support.md
+      - Useful Links.md
