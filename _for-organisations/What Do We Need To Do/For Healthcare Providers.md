@@ -49,8 +49,8 @@ the sharing agreement when using the data.</p>
 <p>Objective 3 (Report?)</p>
 </li>
 </ol>
-<p>[To include Timeline for compliance with CS/DS requirements under the
-HIA by xxx. Link to “Cyber and Data Security Guidebook” and “Implementation
+<p>[To include Timeline for compliance with CSDS requirements under the HIA
+by xxx. Link to “Cyber and Data Security Guidebook” and “Implementation
 Support” for help complying with the requirements]</p>
 <p>Entities should:</p>
 <ul data-tight="true" class="tight">
@@ -75,8 +75,8 @@ notification).</p>
 as the loss of only financial data or account login details. However, they
 may still be required to report such data breaches to PDPC if it meets
 the PDPA's data breach notification criteria.</p>
-<h2>Outsourcing to HIMS providers and CS/DS providers</h2>
-<p>[To insert examples of vendors e.g., HIMS providers and CS/DS providers]</p>
+<h2>Outsourcing to HIMS providers and CSDS providers</h2>
+<p>[To insert examples of vendors e.g., HIMS providers and CSDS providers]</p>
 <p>When choosing a vendor, the following guidelines should be considered:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,5 +88,5 @@ spells out their respective roles and responsibilities.</p>
 </li>
 </ul>
 <p>[To insert link to the whitelisted HIA NEHR-compatible CMS systems]</p>
-<p>[To insert link to the approved CS/DS providers]</p>
+<p>[To insert link to the approved CSDS providers]</p>
 <p></p>
