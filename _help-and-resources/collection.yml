@@ -2,5 +2,4 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Implementation Support.md
       - Useful Links.md
