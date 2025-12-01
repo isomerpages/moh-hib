@@ -23,6 +23,10 @@ of national health programmes and initiatives.</p>
 <p>To ensure the confidentiality, integrity and availability of health information,
 the HIB will set out cybersecurity and data security standards for healthcare
 providers and Health Information Management Systems (HIMS).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HIB_Isomer_Graphics__1_.jpg">
+</div>
 </li>
 </ol>
 <p></p>
