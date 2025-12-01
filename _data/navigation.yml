@@ -4,3 +4,8 @@ links:
     collection: overview
   - title: Help & Resources
     collection: help-and-resources
+  - title: Consultations
+    url: /permalink
+    sublinks:
+      - title: Ongoing/Past Consultations
+        url: /permalink
