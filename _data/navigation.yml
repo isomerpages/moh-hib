@@ -1,7 +1,7 @@
 logo: /images/Logos/moh_logo.png
 links:
-  - title: For Public
-    collection: for-public
+  - title: Overview
+    collection: overview
   - title: For Organisations
     collection: for-organisations
   - title: Help & Resources
