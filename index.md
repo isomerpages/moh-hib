@@ -27,13 +27,11 @@ sections:
       image: /images/Assets/hia website assets objectives.png
       description: HIB will enable more effective clinical care by ensuring all
         healthcare providers have access to key health information in NEHR
-      subtitle: Why is hib important?
   - infopic:
       title: Adopting Best Practices
       id: infopic
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
-      subtitle: Why is HIB important?
       description: All public and private healthcare providers will be required to
         contribute key health information to NEHR to enable seamless information
         sharing
@@ -42,7 +40,6 @@ sections:
       id: infopic
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
-      subtitle: Why is HIB Important?
       description: Reinforced cyber and data security measures ensure comprehensive
         protections and oversight
 ---
