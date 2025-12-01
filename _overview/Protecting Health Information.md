@@ -4,7 +4,6 @@ permalink: /overview/protecting-health-information/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h2>Cybersecurity and data security standards</h2>
 <p>HIB sets out the cybersecurity and data security standards that will be
 imposed on healthcare providers if they contribute to or access NEHR or

@@ -13,9 +13,11 @@ through the NEHR.</p>
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We will enable patients to select the healthcare providers who can access
-their NEHR information</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
+select the healthcare providers who can access their NEHR information.</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
 (i.e. allergies, vaccination records, together with key demographic information
@@ -52,7 +54,7 @@ emergency situations when there is a need to override the restrictions.</p>
 <p>Today, you can already check the NEHR Access History in HealthHub, to
 see if your NEHR have been accessed.</p>
 <p>If you wish to restrict access, more details on the opt-out process is
-available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe</a></strong>
+available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
 </p>
 <h1>How we prevent improper access and use of NEHR information</h1>
 <p>The HIB also has safeguards in place to govern the safe access, collection
@@ -87,5 +89,6 @@ ensure strict compliance with security standards for government-owned systems.</
 <p>Additionally, systems that are required to connect to NEHR undergo a robust
 onboarding process to ensure that they have met the appropriate connectivity
 and security requirements before they are allowed to connect to NEHR.</p>
+<p></p>
 <p></p>
 <p></p>

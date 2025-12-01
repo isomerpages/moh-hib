@@ -26,22 +26,22 @@ sections:
   - infopic:
       title: What is the Health Information Bill?
       id: infopic
-      button: Learn more
       alt: Image alt text
       image: /images/Assets/hia website assets objectives.png
       url: /overview/introduction/
+      button: Learn more
   - infopic:
       title: Provide Your Feedback
       id: infopic
-      button: Learn More
-      url: /consultations/public-consultations/
       image: /images/Assets/hia website public consults.png
       alt: Image alt text
+      url: /consultations/public-consultations/
+      button: Learn More
   - infopic:
       title: Help & Resources
       id: infopic
-      button: Learn More
-      url: /help-and-resources/faqs-guidelines-others/
       image: /images/Assets/frequently asked questions.png
       alt: Image alt text
+      url: /help-and-resources/faqs-guidelines-others/
+      button: Learn More
 ---

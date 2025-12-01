@@ -21,10 +21,12 @@ Providers are being revised. The revised requirements will align with CSA’s
 Cyber Essentials (15 Apr 2025), with guidance on the handling of physical
 copies of health information, and will be published in the first quarter
 of 2026.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_Cyber_and_Data_Security_Essentials_infographic.png">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/infographic_key_cyber_and_data_security_essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Cyber and Data Security Essentials</a>
+</p>
+</li>
+</ul>
 <h2>Guidelines for CMS vendors</h2>
 <ul data-tight="true" class="tight">
 <li>
