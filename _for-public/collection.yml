@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - Patient Rights Under HIA/Restricting Access to Health Information.md
       - Patient Rights Under HIA/.keep
       - How HIA Affects Patients/.keep
       - How HIA Affects Patients/Access to Health Information.md
