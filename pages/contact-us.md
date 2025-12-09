@@ -7,9 +7,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "If you have a query, feedback or wish to report a problem related to
-          this website, please complete this online form:
-          https://go.gov.sg/hia-enquiries"
-    title: Send us your feedback
+      - other: If you have a general query that is not related to the Health Information
+          Bill (HIB), please visit https://www.moh.gov.sg/feedback/
+    title: For General Enquiries
 feedback: ""
 ---
