@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Questions on HIB?</h2>
-<p>Please feel free to write in to <a href="mailto:HIA_Enquiries@moh.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HIA_Enquiries@moh.gov.sg</a> if you
-have further questions on the Health Information Bill.</p>
+<p>If you have any enquiries or feedback regarding the Health Information
+Bill (HIB), please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form.</a>
+</p>
 <h2>Guidelines for Healthcare Professionals</h2>
 <ul data-tight="true" class="tight">
 <li>
