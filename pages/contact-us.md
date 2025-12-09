@@ -11,9 +11,10 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: HIA_Enquiries@moh.gov.sg
-      - other: If you have a query, feedback or wish to report a problem related to this
-          website, please send us an email.
+      - email: ""
+      - other: "If you have a query, feedback or wish to report a problem related to
+          this website, please complete this online form:
+          https://go.gov.sg/hia-enquiries"
     title: Send us your feedback
 feedback: ""
 ---
