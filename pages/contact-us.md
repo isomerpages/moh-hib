@@ -5,15 +5,10 @@ permalink: /contact-us/
 agency_name: us
 contacts:
   - content:
-      - phone: +65 6325 9220
-      - email: ""
-      - other: ""
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: HIA_Enquiries@moh.gov.sg
-      - other: If you have a query, feedback or wish to report a problem related to this
-          website, please send us an email.
-    title: Send us your feedback
+      - email: ""
+      - other: If you have a general query that is not related to the Health Information
+          Bill (HIB), please visit https://www.moh.gov.sg/feedback/
+    title: For General Enquiries
 feedback: ""
 ---
