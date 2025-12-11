@@ -8,10 +8,10 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>HIB will require all licensed healthcare providers, including private
-clinics, clinical laboratories and radiological services, to contribute
-selected health information to NEHR. These providers will also be granted
-access to NEHR to support better care continuity and safeguard patient
-welfare.</p>
+clinics, clinical laboratories and radiological services, inclusive of
+retail pharmacy licensees to contribute selected health information to
+NEHR. These providers will also be granted access to NEHR to support better
+care continuity and safeguard patient welfare.</p>
 </li>
 <li>
 <p>HIB will also enable and regulate the sharing of non-NEHR individually
