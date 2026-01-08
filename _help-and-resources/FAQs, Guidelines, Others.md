@@ -8,13 +8,6 @@ description: ""
 <p>If you have any enquiries or feedback regarding the Health Information
 Bill (HIB), please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form.</a>
 </p>
-<h2>Guidelines for Healthcare Professionals</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener noreferrer nofollow" target="_blank">Draft Guidelines for Appropriate Use and Access to National Electronic Health Record</a>
-</p>
-</li>
-</ul>
 <h2>Cyber and Data Security Guidelines for Healthcare Providers</h2>
 <p>This infographic provides an overview of the cyber and data security requirements
 while the HIB Cyber and Data Security Guidelines (Dec 2023) for Service
@@ -28,10 +21,10 @@ of 2026.</p>
 </p>
 </li>
 </ul>
-<h2>Guidelines for CMS vendors</h2>
+<h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Clinic Management System Data Portability</a>
+<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Health Information Management System Data Portability</a>
 </p>
 </li>
 </ul>
