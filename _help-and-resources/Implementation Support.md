@@ -48,10 +48,12 @@ Health Information Bill, including the Cyber and Data Security Guidelines.
 For assistance with implementing the necessary security measures, healthcare
 organisations may wish to approach any of the Cyber and Data Security providers
 in the list linked below.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_Vendors_250313.jpg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/List_of_Cyber___Data_Security_Providers.pdf" rel="noopener nofollow" target="_blank">List_of_Cyber_and_Data_Security_Providers</a>
+</p>
+</li>
+</ul>
 <p><em>Note: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
 </p>
 <h2><strong>Circulars</strong></h2>
