@@ -13,26 +13,24 @@ through the NEHR.</p>
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
-select the healthcare providers who can access their NEHR information.</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
-(i.e. allergies, vaccination records, together with key demographic information
-i.e. name, NRIC or FIN, date of birth, race and gender) will remain accessible
-to healthcare providers even if an access restriction is in place. These
-are essential health information for patient safety purposes and will be
-available to the attending medical team to ensure safe care.</p>
+<p>We will enable patients to select the healthcare providers who can access
+their NEHR information.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the event of a medical emergency
-that threatens the life or health of the patient, healthcare providers
-may override access restrictions. This enhances speed and quality of care,
-which is critical during medical emergencies. It is also a feature in jurisdictions
-such as Finland, Australia and Hong Kong which have national health repositories
-similar to NEHR. &nbsp;</p>
+<p>A basic set of health information (i.e. allergies, vaccination records,
+together with key demographic information i.e. name, NRIC or FIN, date
+of birth, race and gender) will remain accessible to healthcare providers
+even if an access restriction is in place. These are essential health information
+for patient safety purposes and will be available to the attending medical
+team to ensure safe care.</p>
+</li>
+<li>
+<p>In the event of a medical emergency that threatens the life or health
+of the patient, healthcare providers may override access restrictions.
+This enhances speed and quality of care, which is critical during medical
+emergencies. It is also a feature in jurisdictions such as Finland, Australia
+and Hong Kong which have national health repositories similar to NEHR.
+&nbsp;</p>
 </li>
 </ul>
 <p>The enhanced access controls will be made available on the HealthHub application
@@ -61,17 +59,16 @@ available in the <strong><a href="https://www.synapxe.sg/healthtech/national-pro
 and use of NEHR information. These safeguards include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Penalties to deter unauthorised
-or improper access of NEHR information</p>
+<p>Penalties to deter unauthorised or improper access of NEHR information</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Healthcare providers and their authorised personnel</strong>&nbsp;may
+<p><strong>Healthcare providers and their authorised personnel</strong>&nbsp;may
 only access the NEHR information of patients registered with them.</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only personnel directly involved
-in patient care are granted NEHR access. Healthcare providers are also
-required to update NEHR when the roles of their authorised personnel change.</p>
+<p>Only personnel directly involved in patient care are granted NEHR access.
+Healthcare providers are also required to update NEHR when the roles of
+their authorised personnel change.</p>
 </li>
 <li>
 <p><strong>Accessing NEHR information for employment or insurance purposes, will be disallowed</strong>.</p>
