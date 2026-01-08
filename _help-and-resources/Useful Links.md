@@ -9,7 +9,7 @@ related to the Health Information Bill.</p>
 <h1>Health Information Bill</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1" rel="noopener noreferrer nofollow" target="_blank">Health Information Bill</a>
+<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Bill</a>
 </p>
 </li>
 </ul>
@@ -39,10 +39,6 @@ related to the Health Information Bill.</p>
 </li>
 <li>
 <p><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.csa.gov.sg/Explore/who-we-are/our-identity/about-singcert/resources" rel="noopener noreferrer nofollow" target="_blank">Singapore Community Emergency Response Team (SingCERT)</a>
 </p>
 </li>
 </ul>
