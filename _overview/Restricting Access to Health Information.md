@@ -6,9 +6,7 @@ description: ""
 ---
 <h1>Can access to or sharing of NEHR be refused/denied?</h1>
 <p>If you do not want any healthcare professional to access your health record,&nbsp;<strong>you can choose to restrict access to your NEHR</strong>.
-Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.
-You can already restrict such access to NEHR today by opting out of sharing
-through the NEHR.</p>
+Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.</p>
 <p>Under the proposed HIB in future, MOH will refine the access restriction
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
@@ -51,8 +49,7 @@ you choose to remove the access restriction in future.</p>
 emergency situations when there is a need to override the restrictions.</p>
 <p>Today, you can already check the NEHR Access History in HealthHub, to
 see if your NEHR have been accessed.</p>
-<p>If you wish to restrict access, more details on the opt-out process is
-available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
+<p>If you wish to restrict access, more details are available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
 </p>
 <h1>How we prevent improper access and use of NEHR information</h1>
 <p>The HIB also has safeguards in place to govern the safe access, collection
