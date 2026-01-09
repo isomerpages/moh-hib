@@ -48,7 +48,7 @@ you choose to remove the access restriction in future.</p>
 <p>Additionally, this ensures that you will receive appropriate care during
 emergency situations when there is a need to override the restrictions.</p>
 <p>Today, you can already check the NEHR Access History in HealthHub, to
-see if your NEHR have been accessed.</p>
+see if your NEHR has been accessed.</p>
 <p>If you wish to restrict access, more details are available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
 </p>
 <h1>How we prevent improper access and use of NEHR information</h1>
