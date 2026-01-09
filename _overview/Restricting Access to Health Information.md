@@ -6,7 +6,8 @@ description: ""
 ---
 <h1>Can access to or sharing of NEHR be refused/denied?</h1>
 <p>If you do not want any healthcare professional to access your health record,&nbsp;<strong>you can choose to restrict access to your NEHR</strong>.
-Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.</p>
+Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.
+You can already restrict such access to NEHR today.</p>
 <p>Under the proposed HIB in future, MOH will refine the access restriction
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
