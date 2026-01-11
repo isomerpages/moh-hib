@@ -24,7 +24,7 @@ of 2026.</p>
 <h2>NEHR Guidelines (Draft)</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener nofollow" target="_blank">[Draft] NEHR Guidelines</a>
+<p><a href="/files/NEHR_Guidelines_for_Public_Consultation_Jan2026.pdf" rel="noopener nofollow" target="_blank">[Draft] NEHR Guidelines</a>
 </p>
 </li>
 </ul>
