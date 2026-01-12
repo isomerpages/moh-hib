@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Questions on HIB?</h2>
 <p>If you have any enquiries or feedback regarding the Health Information
-Bill (HIB), please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form.</a>
+Bill (HIB), please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form</a>
 </p>
 <h2>Cyber and Data Security Guidelines for Healthcare Providers</h2>
 <p>This infographic provides an overview of the cyber and data security requirements
