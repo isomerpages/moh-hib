@@ -21,13 +21,6 @@ of 2026.</p>
 </p>
 </li>
 </ul>
-<h2>NEHR Guidelines (Draft)</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Draft_NEHR_Guidelines_for_Public_Consultation.pdf" rel="noopener nofollow" target="_blank">[Draft] NEHR Guidelines</a>
-</p>
-</li>
-</ul>
 <h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
 <ul data-tight="true" class="tight">
 <li>
