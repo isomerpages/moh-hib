@@ -4,11 +4,28 @@ permalink: /help-and-resources/faqs-guidelines-others/
 variant: tiptap
 description: ""
 ---
-<h2>Questions on HIB?</h2>
-<p>If you have any enquiries or feedback regarding the Health Information
-Bill (HIB), please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form</a>
+<h2><strong>Feedback Form Submission</strong></h2>
+<p>If you have any feedback or enquiries regarding the following topics,
+please select the relevant forms linked below:</p>
+<h3>Health Information Bill (HIB)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">HIB-related feedback or enquiries</a>
 </p>
-<h2>Cyber and Data Security Guidelines for Healthcare Providers</h2>
+</li>
+</ul>
+<h3>General &amp; Non-HIB related</h3>
+<ul>
+<li>
+<p><a href="https://form.gov.sg/682467b0d5480314912145ab" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">MOH-related feedback or enquiries</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/vifapcovid" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Vaccine Injury Financial Assistance Programme for COVID-19 Vaccination Application Form</a>
+</p>
+</li>
+</ul>
+<h2><strong>Cyber and Data Security Guidelines for Healthcare Providers</strong></h2>
 <p>This infographic provides an overview of the cyber and data security requirements
 while the HIB Cyber and Data Security Guidelines (Dec 2023) for Service
 Providers are being revised. The revised requirements will align with CSA’s
@@ -21,7 +38,7 @@ of 2026.</p>
 </p>
 </li>
 </ul>
-<h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
+<h2><strong>Guidelines for Health Information Management System (HIMS) Providers</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Health Information Management System Data Portability</a>
