@@ -38,7 +38,7 @@ related to the Health Information Bill.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
+<p><a href="https://www.csa.gov.sg/resources/infographics-and-posters/how-to-go-safe-online/" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
 </p>
 </li>
 </ul>
