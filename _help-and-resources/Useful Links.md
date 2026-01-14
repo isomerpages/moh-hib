@@ -16,7 +16,7 @@ related to the Health Information Bill.</p>
 <h1>HSA Guidelines</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices -- A Life Cycle Approach (Apr 2020)</a>
+<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices -- A Life Cycle Approach (Apr 2022)</a>
 </p>
 </li>
 </ul>
