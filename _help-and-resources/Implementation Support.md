@@ -36,7 +36,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Digitalisation Support Grant (previously Productivity Solutions Grant)</a>
+<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant</a>
 </p>
 </li>
 </ul>
