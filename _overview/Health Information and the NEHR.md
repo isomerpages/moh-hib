@@ -15,7 +15,7 @@ and care. Examples include your prescriptions, test results, medical procedures,
 and discharge notes when you leave the hospital.</p>
 <h2>Where will health information be stored?</h2>
 <p>When you visit a healthcare service, health information generated during
-that visit will be recorded in their health record systems. Under the HIB,&nbsp;<strong>a subset of these information will be contributed and stored in the National Electronic Health Record system (NEHR)</strong>.</p>
+that visit will be recorded in their health record systems. Under the HIA,&nbsp;<strong>a subset of these information will be contributed and stored in the National Electronic Health Record system (NEHR)</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMR_vs_NEHR_vs_HH.png">
@@ -31,7 +31,7 @@ may be occasions where you may not recall the type of medications you are
 on, or the tests already done, and your doctor can access the information
 in NEHR before determining the course of treatment.</p>
 <h2>What does mandatory contribution to NEHR mean?</h2>
-<p>The HIB will require all licensed healthcare providers and MOH-approved
+<p>The HIA will require all licensed healthcare providers and MOH-approved
 care providers (such as retail pharmacies) to contribute data to NEHR.
 In other words,<strong> selected health information generated from your care episode with your healthcare provider will be contributed and stored in NEHR</strong>.
 This means better care coordination across providers, fewer repeated tests,

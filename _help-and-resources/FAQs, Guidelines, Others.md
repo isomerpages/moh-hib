@@ -7,14 +7,14 @@ description: ""
 <h2><strong>Feedback Form Submission</strong></h2>
 <p>If you have any feedback or enquiries regarding the following topics,
 please select the relevant forms linked below:</p>
-<h3>Health Information Bill (HIB)</h3>
+<h3>Health Information Act (HIA)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">HIB-related feedback or enquiries</a>
+<p><a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">HIA-related feedback or enquiries</a>
 </p>
 </li>
 </ul>
-<h3>General &amp; Non-HIB related</h3>
+<h3>General &amp; Non-HIA related</h3>
 <ul>
 <li>
 <p><a href="https://form.gov.sg/682467b0d5480314912145ab" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">MOH-related feedback or enquiries</a>
@@ -27,7 +27,7 @@ please select the relevant forms linked below:</p>
 </ul>
 <h2><strong>Cyber and Data Security Guidelines for Healthcare Providers</strong></h2>
 <p>This infographic provides an overview of the cyber and data security requirements
-while the HIB Cyber and Data Security Guidelines (Dec 2023) for Service
+while the HIA Cyber and Data Security Guidelines (Dec 2023) for Service
 Providers are being revised. The revised requirements will align with CSA’s
 Cyber Essentials (15 Apr 2025), with guidance on the handling of physical
 copies of health information, and will be published in the first quarter

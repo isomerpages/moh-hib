@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Health Information Bill
-description: A website on the Health Information Bill
+title: Health Information Act
+description: A website on the Health Information Act
 image: /images/moh_logo.png
 permalink: /
 notification: Government officials will never ask you to transfer money or
@@ -10,10 +10,10 @@ notification: Government officials will never ask you to transfer money or
   scamshield.gov.sg for more information.
 sections:
   - hero:
-      title: Health Information Bill
+      title: Health Information Act
       url: /about
       key_highlights:
-        - title: What is HIB?
+        - title: What is HIA?
           description: ""
           url: /overview/introduction/
         - title: Provide Your Feedback
@@ -24,7 +24,7 @@ sections:
           url: /help-and-resources/faqs-guidelines-others/
       background: /images/Assets/hia website banner.jpg
   - infopic:
-      title: What is the Health Information Bill?
+      title: What is the Health Information Act?
       id: infopic
       alt: Image alt text
       image: /images/Assets/hia website assets objectives.png

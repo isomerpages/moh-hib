@@ -8,7 +8,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: If you have a general query that is not related to the Health Information
-          Bill (HIB), please visit https://www.moh.gov.sg/feedback/
+          Act (HIA), please visit https://www.moh.gov.sg/feedback/
     title: For General Enquiries
-feedback: ""
+feedback: https://go.gov.sg/hia-enquiries
 ---
