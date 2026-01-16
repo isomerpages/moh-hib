@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Health Information Bill
-description: A website on the Health Information Bill
+title: Health Information Act
+description: A website on the Health Information Act
 image: /images/moh_logo.png
 permalink: /
 notification: Government officials will never ask you to transfer money or
