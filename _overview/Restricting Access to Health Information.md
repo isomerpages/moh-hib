@@ -8,7 +8,7 @@ description: ""
 <p>If you do not want any healthcare professional to access your health record,&nbsp;<strong>you can choose to restrict access to your NEHR</strong>.
 Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.
 You can already restrict such access to NEHR today.</p>
-<p>Under the proposed HIB in future, MOH will refine the access restriction
+<p>Under the proposed HIA in future, MOH will refine the access restriction
 regime to enable greater autonomy and enhance patient safety:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,7 +37,7 @@ in the second half of 2026.</p>
 <p>MOH will audit cases where your access restriction is overridden&nbsp;by
 the healthcare professional. Healthcare professionals who inappropriately
 override access restrictions to NEHR may be subject to legal penalties
-under the HIB and disciplinary action from the respective professional
+under the HIA and disciplinary action from the respective professional
 bodies, such as the Singapore Medical Council.</p>
 <h1>What happens after an access restriction is placed?</h1>
 <p>If you restrict access to your NEHR, your doctor will not be able to access
@@ -53,7 +53,7 @@ see if your NEHR has been accessed.</p>
 <p>If you wish to restrict access, more details are available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
 </p>
 <h1>How we prevent improper access and use of NEHR information</h1>
-<p>The HIB also has safeguards in place to govern the safe access, collection
+<p>The HIA also has safeguards in place to govern the safe access, collection
 and use of NEHR information. These safeguards include:</p>
 <ul data-tight="true" class="tight">
 <li>
