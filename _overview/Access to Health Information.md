@@ -25,7 +25,7 @@ not be accessing your health records.</p>
 <p>You can view health information such as your medications, drug allergies,
 and laboratory results through HealthHub.</p>
 <p>The NEHR Access History section in HealthHub allows you to see which healthcare
-providers have accessed your health records.</p>
+professionals have accessed your health records.</p>
 <p>If you suspect that your NEHR has been wrongly accessed,&nbsp;<strong><a href="https://support.healthhub.sg/hc/en-us/articles/15823764203161-NEHR-Access-History-shows-that-my-records-in-the-NEHR-were-accessed-on-a-day-when-I-did-not-seek-any-care-or-treatment-What-should-I-do-" rel="noopener noreferrer nofollow" target="_blank">you may notify the NEHR system operator, Synapxe, for further investigation</a></strong>.
 MOH has implemented robust access controls and set up audit mechanisms
 to ensure that appropriate actions are taken against&nbsp;<strong>unauthorised access of your health records</strong>.</p>
