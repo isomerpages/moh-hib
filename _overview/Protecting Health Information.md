@@ -9,7 +9,7 @@ description: ""
 imposed on healthcare providers if they contribute to or access NEHR or
 share data under the HIA.</p>
 <p>This&nbsp;<strong>ensures the safe and secure handling of health information</strong>.
-HIMS vendors that support healthcare providers to access or contribute
+HIMS providers that support healthcare providers to access or contribute
 data to NEHR will also need to meet cybersecurity and data security standards.</p>
 <p>MOH will also&nbsp;<strong>conduct audits</strong>&nbsp;to ensure that
 healthcare providers have fulfilled the security measures.</p>
