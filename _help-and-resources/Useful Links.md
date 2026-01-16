@@ -13,6 +13,13 @@ related to the Health Information Act (HIA).</p>
 </p>
 </li>
 </ul>
+<h1>Key Elements of the HIA</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Infographic_Key_Elements_of_the_HIA.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
+</p>
+</li>
+</ul>
 <h1>HSA Guidelines</h1>
 <ul data-tight="true" class="tight">
 <li>
