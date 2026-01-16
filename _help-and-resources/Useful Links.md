@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p>Visit the external websites listed below for more information on the materials
-related to the Health Information Bill.</p>
-<h1>Health Information Bill</h1>
+related to the Health Information Act (HIA).</p>
+<h1>Health Information Act (HIA)</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Bill</a>
+<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act</a>
 </p>
 </li>
 </ul>
