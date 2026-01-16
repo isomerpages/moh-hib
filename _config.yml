@@ -1,4 +1,4 @@
-title: Health Information Bill
+title: Health Information Act
 url: https://healthinfo.gov.sg
 favicon: /images/Logos/moh_logo2.png
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#0b87d4"
     - title: media-color-five
       color: "#0b87d4"
-description: A website on the Health Information Bill
+description: A website on the Health Information Act
 permalink: none
 baseurl: ""
 exclude:
