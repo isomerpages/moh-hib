@@ -16,7 +16,7 @@ related to the Health Information Act (HIA).</p>
 <h1>HSA Guidelines</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices including Machine Learning-Enabled Medical Devices -- A Life Cycle Approach (Dec 2025)</a>
+<p><a href="/files/gl_04_r4_regulatory_guidelines_for_software_medical_devices___a_life_cycle_approach__2025_dec__pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices including Machine Learning-Enabled Medical Devices -- A Life Cycle Approach (Dec 2025)</a>
 </p>
 </li>
 </ul>
