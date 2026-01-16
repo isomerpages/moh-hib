@@ -44,10 +44,10 @@ description: ""
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
-Health Information Bill, including the Cyber and Data Security Guidelines.
-For assistance with implementing the necessary security measures, healthcare
-organisations may wish to approach any of the Cyber and Data Security providers
-in the list linked below.</p>
+HIA, including the Cyber and Data Security Guidelines. For assistance with
+implementing the necessary security measures, healthcare organisations
+may wish to approach any of the Cyber and Data Security providers in the
+list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/List_of_Cyber___Data_Security_Providers.pdf" rel="noopener nofollow" target="_blank">List_of_Cyber_and_Data_Security_Providers</a>
@@ -59,7 +59,7 @@ in the list linked below.</p>
 <h2><strong>Circulars</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIB</a>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIA</a>
 </p>
 </li>
 </ul>
