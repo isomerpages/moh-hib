@@ -5,13 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Funding Support</strong></h2>
-<h3>Grants for GP clinics</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://form.gov.sg/6181f42ac1f5e30013dca118" rel="noopener noreferrer nofollow" target="_blank">Early Contribution Incentive (ECI)</a>
-</p>
-</li>
-</ul>
 <h3>Grants for Community Care Organisations and Social Services Agencies</h3>
 <ul data-tight="true" class="tight">
 <li>
