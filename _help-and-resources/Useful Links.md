@@ -14,7 +14,7 @@ description: ""
 <h1>Key Elements of the HIA</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Infographic_Key_Elements_of_the_HIA.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
+<p><a href="/files/Infographic_Key_Elements_of_the_HIA_2_0.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
 </p>
 </li>
 </ul>
