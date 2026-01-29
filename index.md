@@ -24,12 +24,13 @@ sections:
           url: /help-and-resources/faqs-guidelines-others/
       background: /images/Assets/hia website banner.jpg
   - infopic:
-      title: What is the Health Information Act?
+      title: What is the Health Information Act* (HIA)?
       id: infopic
       alt: Image alt text
       image: /images/Assets/hia website assets objectives.png
       url: /overview/introduction/
       button: Learn more
+      description: "*Please note that HIA is expected to be enacted in February 2026."
   - infopic:
       title: Provide Your Feedback
       id: infopic
