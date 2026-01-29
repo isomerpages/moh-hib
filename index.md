@@ -30,7 +30,7 @@ sections:
       image: /images/Assets/hia website assets objectives.png
       url: /overview/introduction/
       button: Learn more
-      description: "*Please note that HIA is expected to be enacted in February 2026."
+      description: "*The HIA is expected to be enacted in February 2026."
   - infopic:
       title: Provide Your Feedback
       id: infopic
