@@ -41,9 +41,11 @@ HIA, including the Cyber and Data Security Guidelines. For assistance with
 implementing the necessary security measures, healthcare organisations
 may wish to approach any of the Cyber and Data Security providers in the
 list linked below.</p>
+<p><em>Note: Updated on November 2025</em>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/List_of_Cyber___Data_Security_Providers.pdf" rel="noopener nofollow" target="_blank">List_of_Cyber_and_Data_Security_Providers</a>
+<p><a href="/files/list_of_cyber_and_data_security_providers_1_3.pdf" rel="noopener nofollow" target="_blank">List_of_Cyber_and_Data_Security_Providers</a>
 </p>
 </li>
 </ul>
