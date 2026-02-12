@@ -37,19 +37,19 @@ description: ""
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
-HIA, including the Cyber and Data Security Guidelines. For assistance with
+HIA, including the Cyber and Data Security Essentials. For assistance with
 implementing the necessary security measures, healthcare organisations
 may wish to approach any of the Cyber and Data Security providers in the
 list linked below.</p>
-<p><em>Note: Updated on November 2025</em>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/list_of_cyber_and_data_security_providers_1_3.pdf" rel="noopener nofollow" target="_blank">List_of_Cyber_and_Data_Security_Providers</a>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a>
 </p>
 </li>
 </ul>
-<p><em>Note: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
+<p><em>Note 1: Updated in February 2026</em>
+<br>
+<br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
 </p>
 <h2><strong>Circulars</strong></h2>
 <ul data-tight="true" class="tight">
