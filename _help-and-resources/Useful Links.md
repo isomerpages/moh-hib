@@ -7,7 +7,7 @@ description: ""
 <h1>Health Information Act (HIA)</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act</a>
+<p><a href="https://sso.agc.gov.sg/Acts-Supp/1-2026/Published/20260212?DocDate=20260212" rel="noopener noreferrer nofollow" target="_blank">Health Information Act</a>
 </p>
 </li>
 </ul>
