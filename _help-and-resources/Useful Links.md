@@ -28,7 +28,7 @@ description: ""
 <h1>Synapxe Resources</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">National Electronic Health Records</a>
+<p><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">National Electronic Health Record</a>
 </p>
 </li>
 <li>
