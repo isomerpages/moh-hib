@@ -20,7 +20,7 @@ of 2026.</p>
 <h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Health Information Management System Data Portability</a>
+<p><a href="/files/Code_of_Practice_for_Data_Portability__Feb2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Practice for Data Portability (Feb 2026)</a>
 </p>
 </li>
 </ul>
