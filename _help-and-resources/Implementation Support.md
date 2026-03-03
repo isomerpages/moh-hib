@@ -285,6 +285,120 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 </tbody>
 </table>
 <hr>
+<p><strong><u>Implementation Resources</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Resource</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>What It's For</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>When It's Available</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overview of HIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key information for healthcare providers and professionals</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Available now on this website</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CS/DS Essentials</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guidance on security measures for proper storage, access, use and sharing
+of health information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HIA Starter Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key HIA preparation steps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guidelines on NEHR contribution, use and access</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Practical guidance and examples on ethical principles and professional
+standards for contributing to, accessing or using NEHR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">March 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CS/DS Checklist and Infographics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bite-sized, manageable content explaining cybersecurity and data security
+requirements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CS/DS Self-Assessment Tool</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assess your current cybersecurity and data security position, identify
+gaps, get recommended actions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Course</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Healthcare-tailored cybersecurity training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber and Data Security Guidebook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Practical guidance and examples to understand cybersecurity and data security
+requirements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming soon</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h2><strong>Cyber and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
