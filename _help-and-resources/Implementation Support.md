@@ -5,34 +5,169 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Funding Support</strong></h2>
-<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
+<h3><strong>Financial Support</strong></h3>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>NEHR Connect Grant (NCG)</strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Transformation Sustainability Scheme</a>
+<p>o&nbsp;&nbsp; Applications open in the second half of 2026.</p>
+<p>o&nbsp;&nbsp; Available to all healthcare providers mandated to contribute
+to NEHR under the HIA, including GP clinics, laboratories, dental clinics,
+and retail pharmacies, except those who previously received Early Contribution
+Incentive or GP IT Enablement grants.</p>
+<p><em>(Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.)</em>
 </p>
-<p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Funding Options for Cybersecurity and Data Security</strong>
 </p>
-</li>
-</ul>
-<h3>Grants for SMEs</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank">Chief Technology Officer-as-a-Service (CTO-as-a-Service)</a>
+<p>o&nbsp;&nbsp; If you need help meeting cybersecurity and data security
+requirements, several funding options are available depending on your practice
+type and needs.</p>
+<p><strong><u>Table 3: Available Funding Support Schemes</u></strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan" rel="noopener noreferrer nofollow" target="_blank">Chief Information Security Officers as-a-Service (CiSO as-a-Service)</a>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NCG</strong>
 </p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CISO-as-a-Service<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> for HIA (Cybersecurity and Data Security Essentials)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Productivity Solutions Grant (PSG)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ministry/Agency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health (MOH)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyber Security Agency of Singapore (CSA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enterprise Singapore (EnterpriseSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>What it is for</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To help licensees enhance their existing Health Information Management
+System<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a> (HIMS)
+or adopt a HIMS that is able to securely contribute to the NEHR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For those who need additional help to meet cybersecurity and data security
+(CS/DS) requirements by subsidising the cost of hiring qualified CS/DS
+consultants.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
+(E.g. firewall, antivirus software)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Who is eligible</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All licensees required to contribute to NEHR</p>
+<p>except those who have previously received grants for NEHR connectivity
+(e.g. Early Contribution Incentive, GP IT Enablement Grant)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Small and Medium Enterprises (SMEs)<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Small and Medium Enterprises (SMEs)</p>
+<p>For more info: <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Amount Provided</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approximately 2 years of subscription to a HIMS or 40% of the cost of
+enhancing an existing HIMS.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 70% of the cost of CS/DS Consultancy packages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50% of cost of package capped at $30k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Availability</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>H2 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Now</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Now</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>How to apply</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details will be made available in H2 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank">https://services2.imda.gov.sg/ctoaas/tag/hia</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.apply.gov.sg/</a><a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank"><br>grants/business</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><sup>1 </sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
+<p><sup>2 </sup>Health Information Management System (HIMS) is the digital
+system that allows healthcare providers to store and manage patient records</p>
+<p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
+turnover <strong>OR</strong> &lt;200 employees</p>
+<p><strong>Getting Professional Help</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity service providers
+are available to help implement security measures. A list of qualified
+providers is available through relevant agencies. These services are <strong><em>optional</em></strong> if
+you're confident in implementing the measures yourself<strong>.</strong>
+</p>
 <h2><strong>Cyber and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
