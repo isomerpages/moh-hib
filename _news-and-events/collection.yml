@@ -2,8 +2,8 @@ collections:
   news-and-events:
     output: true
     order:
-      - Upcoming & Past Events.md
       - MOH Circulars.md
       - News & Feature Articles.md
       - Press Releases & Speeches.md
       - Public Consultations.md
+      - Upcoming & Past Events.md
