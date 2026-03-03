@@ -24,25 +24,26 @@ sections:
           url: /help-and-resources/faqs-guidelines-others/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
-      title: What is the Health Information Act* (HIA)?
+      title: Contributing Data to NEHR for Better Care
       id: infopic
       alt: Image alt text
-      image: /images/Assets/hia website assets objectives.png
-      url: /overview/introduction/
-      button: Learn more
-      description: "*The HIA is expected to be enacted in February 2026."
+      image: /images/Homepage___Contributing_Data_to_NEHR_for_Better_Care.png
+      description: Healthcare providers will contribute key patient health data to
+        NEHR, which will be accessible across healthcare settings. This improves
+        care and reduces costs.
   - infopic:
-      title: Provide Your Feedback
+      title: Enabling Outreach & Care Continuity
       id: infopic
-      image: /images/Assets/hia website public consults.png
+      image: /images/Homepage___Enabling_Outreach___Care_Continuity.png
       alt: Image alt text
-      url: /consultations/public-consultations/
-      button: Learn More
+      description: HIA enables the scoped sharing of non-NEHR health information among
+        public healthcare stakeholders to support national programmes like
+        Healthier SG.
   - infopic:
-      title: Help & Resources
+      title: Ensure Robust Safeguards for Information Protection
       id: infopic
-      image: /images/Assets/frequently asked questions.png
+      image: /images/Homepage___Ensure_Robust_Safeguards_for_Information_Protection.png
       alt: Image alt text
-      url: /help-and-resources/faqs-guidelines-others/
-      button: Learn More
+      description: Healthcare professionals only access NEHR for patient care.
+        Healthcare providers will put in measures to protect health information.
 ---
