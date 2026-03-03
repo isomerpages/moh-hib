@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - Press Releases & Speeches.md
       - News & Feature Articles.md
       - MOH Circulars.md
