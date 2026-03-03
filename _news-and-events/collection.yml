@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Public Consultations.md
       - MOH Circulars.md
       - News & Feature Articles.md
       - Press Releases & Speeches.md
