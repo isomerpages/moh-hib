@@ -285,8 +285,7 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 </tbody>
 </table>
 <hr>
-<p><strong><u>Implementation Resources</u></strong>
-</p>
+<h2><strong>Implementation Resources</strong></h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
