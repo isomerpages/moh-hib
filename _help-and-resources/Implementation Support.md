@@ -24,10 +24,11 @@ or GP IT Enablement grants.</p>
 <li>
 <p>If you need help meeting cybersecurity and data security requirements,
 several funding options are available depending on your practice type and
-needs.</p>
+needs. Refer to the table below for more information on available funding
+support schemes.</p>
 </li>
 </ul>
-<p><strong><u>Table: Available Funding Support Schemes</u></strong>
+<p><strong><u>Available Funding Support Schemes</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
