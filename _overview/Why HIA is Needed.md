@@ -1,5 +1,5 @@
 ---
-title: Why HIA Is Needed
+title: Why HIA is Needed
 permalink: /overview/why-hia-is-needed/
 variant: tiptap
 description: ""
