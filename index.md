@@ -22,7 +22,7 @@ sections:
         - title: Help & Resources
           description: ""
           url: /help-and-resources/faqs-guidelines-others/
-      background: /images/Assets/hia website banner.jpg
+      background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: What is the Health Information Act* (HIA)?
       id: infopic
