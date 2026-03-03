@@ -4,7 +4,7 @@ permalink: /help-and-resources/faqs-guidelines-others/
 variant: tiptap
 description: ""
 ---
-<h2>Implementation Timeline</h2>
+<h2>Implementation Timeline for Healthcare Providers</h2>
 <p>Please refer to the following table on the batched implementation timelines
 for different healthcare service types.</p>
 <p><strong><u>Table of Batched Implementation Timeline</u></strong>
