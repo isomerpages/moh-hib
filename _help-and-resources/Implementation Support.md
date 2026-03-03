@@ -54,7 +54,7 @@ list linked below.</p>
 <h2><strong>Circulars</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Cir No 13_2025_Clarifications on the Implementation Support Measures for the Proposed HIA</a>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank">MOH Cir No 13 2025 Clarifications on the Implementation Support Measures for the Proposed HIB</a>
 </p>
 </li>
 </ul>

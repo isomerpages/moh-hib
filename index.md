@@ -21,7 +21,7 @@ sections:
           url: /help-and-resources/faqs-guidelines-others/
         - title: News & Events
           description: ""
-          url: /news-and-events/moh-circulars/
+          url: /news-and-events/news-and-feature-articles/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: Contributing Data to NEHR for Better Care
