@@ -16,9 +16,6 @@ sections:
         - title: What is HIA?
           description: ""
           url: /overview/introduction/
-        - title: Provide Your Feedback
-          description: ""
-          url: /consultations/public-consultations/
         - title: Help & Resources
           description: ""
           url: /help-and-resources/faqs-guidelines-others/
