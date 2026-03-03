@@ -4,3 +4,8 @@ links:
     collection: overview
   - title: Help & Resources
     collection: help-and-resources
+  - title: New menu group
+    url: /permalink
+    sublinks: []
+  - title: News & Events
+    collection: news-and-events
