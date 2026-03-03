@@ -32,11 +32,12 @@ in NEHR before determining the course of treatment.</p>
 <h2>What does mandatory contribution to NEHR mean?</h2>
 <p>The HIA will require all licensed healthcare providers and MOH-approved
 care providers (such as retail pharmacies) to contribute data to NEHR.
-In other words,<strong> selected health information generated from your care episode with your healthcare provider will be contributed and stored in NEHR</strong>.
+In other words,<strong> selected health information* generated from your care episode with your healthcare provider will be contributed and stored in NEHR</strong>.
 This means better care coordination across providers, fewer repeated tests,
 and more well-informed medical decisions. Over time, your NEHR will become
 an increasingly useful tool for healthcare professionals in delivering
 care to you.</p>
-<p>Read on to find out more about NEHR or&nbsp;<a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">visit Synapxe’s website</a>&nbsp;for
+<p>The types of health information required for contribution will depend
+on the licence type(s). Click <a href="https://www.healthinfo.gov.sg/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 <p></p>
