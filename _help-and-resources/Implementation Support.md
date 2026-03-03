@@ -5,22 +5,29 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Funding Support</strong></h2>
-<h3><strong>Financial Support</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>NEHR Connect Grant (NCG)</strong>
-</p>
-<p>o&nbsp;&nbsp; Applications open in the second half of 2026.</p>
-<p>o&nbsp;&nbsp; Available to all healthcare providers mandated to contribute
-to NEHR under the HIA, including GP clinics, laboratories, dental clinics,
-and retail pharmacies, except those who previously received Early Contribution
-Incentive or GP IT Enablement grants.</p>
+<h4>NEHR Connect Grant (NCG)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications open in the second half of 2026.</p>
+</li>
+<li>
+<p>Available to all healthcare providers mandated to contribute to NEHR under
+the HIA, including GP clinics, laboratories, dental clinics, and retail
+pharmacies, except those who previously received Early Contribution Incentive
+or GP IT Enablement grants.</p>
+</li>
+</ul>
 <p><em>(Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.)</em>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Funding Options for Cybersecurity and Data Security</strong>
-</p>
-<p>o&nbsp;&nbsp; If you need help meeting cybersecurity and data security
-requirements, several funding options are available depending on your practice
-type and needs.</p>
-<p><strong><u>Table 3: Available Funding Support Schemes</u></strong>
+<h4>Funding Options for Cybersecurity and Data Security</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you need help meeting cybersecurity and data security requirements,
+several funding options are available depending on your practice type and
+needs.</p>
+</li>
+</ul>
+<p><strong><u>Table: Available Funding Support Schemes</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -40,7 +47,7 @@ type and needs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CISO-as-a-Service<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> for HIA (Cybersecurity and Data Security Essentials)</strong>
+<p><strong>CISO-as-a-Service<sup>1</sup> for HIA (Cybersecurity and Data Security Essentials)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,8 +77,8 @@ type and needs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To help licensees enhance their existing Health Information Management
-System<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank"><sup>[2]</sup></a> (HIMS)
-or adopt a HIMS that is able to securely contribute to the NEHR</p>
+System<sup>2 </sup>(HIMS) or adopt a HIMS that is able to securely contribute
+to the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
@@ -94,7 +101,7 @@ consultants.</p>
 (e.g. Early Contribution Incentive, GP IT Enablement Grant)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Small and Medium Enterprises (SMEs)<a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank">[3]</a>
+<p>Small and Medium Enterprises (SMEs)<sup>3</sup>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -161,8 +168,7 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
-<p><strong>Getting Professional Help</strong>
-</p>
+<h4>Getting Professional Help</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity service providers
 are available to help implement security measures. A list of qualified
 providers is available through relevant agencies. These services are <strong><em>optional</em></strong> if
