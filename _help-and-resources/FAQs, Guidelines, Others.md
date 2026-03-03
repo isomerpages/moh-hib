@@ -7,7 +7,7 @@ description: ""
 <h2>Implementation Timeline</h2>
 <p>Please refer to the following table on the batched implementation timelines
 for different healthcare service types.</p>
-<p><strong><u>&nbsp;Table of Batched Implementation Timeline</u></strong>
+<p><strong><u>Table of Batched Implementation Timeline</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
