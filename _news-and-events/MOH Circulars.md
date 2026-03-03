@@ -27,7 +27,8 @@ description: ""
 <p>25 Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Providers Will Be Supported Through Cybersecurity Transition</p>
+<p>Health Providers Will Be Supported Through Cybersecurity Transition (via
+email)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/25022026_Forum_Replies___Health_Providers_Will_Be_Supported_Through_Cybersecurity_Transition.pdf" rel="noopener nofollow" target="_blank">Health Providers Will Be Supported Through Cybersecurity Transition</a>
