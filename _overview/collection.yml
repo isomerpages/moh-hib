@@ -2,7 +2,8 @@ collections:
   overview:
     output: true
     order:
-      - Introduction.md
+      - Why HIA Is Needed.md
+      - Objectives of HIA.md
       - Health Information and the NEHR.md
       - Access to Health Information.md
       - Restricting Access to Health Information.md

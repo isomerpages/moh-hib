@@ -16,9 +16,8 @@ and discharge notes when you leave the hospital.</p>
 <h2>Where will health information be stored?</h2>
 <p>When you visit a healthcare service, health information generated during
 that visit will be recorded in their health record systems. Under the HIA,&nbsp;<strong>a subset of these information will be contributed and stored in the National Electronic Health Record system (NEHR)</strong>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMR_vs_NEHR_vs_HH.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_HIMS_to_NEHR_to_HH.png">
 </div>
 <h2>National Electronic Health Record System (NEHR)</h2>
 <p>The NEHR is the national repository that <strong>collects and stores a copy of your selected health information</strong> across

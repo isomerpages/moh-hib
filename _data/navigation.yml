@@ -2,10 +2,5 @@ logo: /images/Logos/moh_logo.png
 links:
   - title: Overview
     collection: overview
-  - title: Consultations
-    url: /consultations/public-consultations/
-    sublinks:
-      - title: Ongoing/Past Consultations
-        url: /consultations/public-consultations/
   - title: Help & Resources
     collection: help-and-resources

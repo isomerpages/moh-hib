@@ -1,6 +1,6 @@
 ---
-title: Introduction
-permalink: /overview/introduction/
+title: Objectives of HIA
+permalink: /overview/objectives-of-hia/
 variant: tiptap
 description: ""
 ---
@@ -23,9 +23,6 @@ of national health programmes and initiatives.</p>
 the HIA will set out cybersecurity and data security standards for healthcare
 providers and Health Information Management Systems (HIMS).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/overview.png">
-</div>
 </li>
 </ol>
 <p></p>
