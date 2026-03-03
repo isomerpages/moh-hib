@@ -168,12 +168,122 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
-<h4>Getting Professional Help</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cybersecurity service providers
-are available to help implement security measures. A list of qualified
-providers is available through relevant agencies. These services are <strong><em>optional</em></strong> if
-you're confident in implementing the measures yourself<strong>.</strong>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Healthcare Service</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Grant Quantum per Licensee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acute Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $200k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinical Laboratory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $140k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radiological</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$12k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuclear Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Renal Dialysis Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $29.3k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contingency Care Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nursing Home</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$14.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assisted Reproduction Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambulatory Surgical Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Dental</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Retail Pharmacy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $16.9k</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2><strong>Cyber and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
