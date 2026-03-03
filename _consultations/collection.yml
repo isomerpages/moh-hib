@@ -1,5 +1,0 @@
-collections:
-  consultations:
-    output: true
-    order:
-      - Public Consultations.md
