@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: What is HIA?
           description: ""
-          url: /overview/introduction/
+          url: /overview/why-hia-is-needed/
         - title: Help & Resources
           description: ""
           url: /help-and-resources/faqs-guidelines-others/
