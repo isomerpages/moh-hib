@@ -28,6 +28,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Prof Teo Yik Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>StraitsTimes (14 Jan 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How You Gain If Doctors Can Call Up All Your Health Records</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adj A/Prof Raymond Chua</p>
 </td>
 <td rowspan="1" colspan="1">
