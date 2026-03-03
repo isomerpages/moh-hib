@@ -28,7 +28,7 @@ needs. Refer to the table below for more information on available funding
 support schemes.</p>
 </li>
 </ul>
-<p><strong><u>Available Funding Support Schemes</u></strong>
+<p><strong><u>Table of Available Funding Support Schemes</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
