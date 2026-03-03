@@ -30,7 +30,8 @@ description: ""
 <p>Ministry of Health (MOH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/MOH_Connected__MOH_Press_Release___Health_Information_Bill_to_Support_Coordinated_Care_Across_Singapore_s_Healthcare_Ecosystem_.pdf" rel="noopener nofollow" target="_blank">[MOH Connected] MOH Press Release - Health Information Bill to Support Coordinated Care Across Singapore's Healthcare Ecosystem</a>
+</p>
 </td>
 </tr>
 <tr>
