@@ -4,7 +4,7 @@ permalink: /overview/why-hia-is-needed/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Enabling Seamless Care Across Healthcare Settings</strong></h2>
+<h2>Enabling Seamless Care Across Healthcare Settings</h2>
 <p>Singapore is transforming healthcare delivery – from being hospital-centric
 to community-based care. Patients will receive care from a wider range
 of healthcare providers, not just at public hospitals and polyclinics,
