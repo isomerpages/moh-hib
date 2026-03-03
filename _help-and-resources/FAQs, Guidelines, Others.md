@@ -4,10 +4,10 @@ permalink: /help-and-resources/faqs-guidelines-others/
 variant: tiptap
 description: ""
 ---
-<h2>Implementation Timelines</h2>
+<h2>Implementation Timeline</h2>
 <p>Please refer to the following table on the batched implementation timelines
 for different healthcare service types.</p>
-<p><strong><u>&nbsp;Batched Implementation Timeline</u></strong>
+<p><strong><u>&nbsp;Table of Batched Implementation Timeline</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -156,6 +156,12 @@ for its use.</p>
 </tbody>
 </table>
 <hr>
+<p><strong>For Other HCSA Licensees</strong>: HCSA licensees not listed in
+the above <u>Table of Batched Implementation Timeline</u>, such as cord
+blood banking, human tissue banking, emergency ambulance, and medical transport
+services, are not required to contribute to NEHR, but <u>must</u> implement
+reasonable safeguards and controls to protect health information and systems
+no later than September 2027.</p>
 <h2>Cyber and Data Security Guidelines for Healthcare Providers</h2>
 <p>This infographic provides an overview of the cyber and data security requirements
 while the HIA Cyber and Data Security Guidelines (Dec 2023) for Service
