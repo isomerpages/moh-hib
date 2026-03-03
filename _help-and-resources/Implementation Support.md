@@ -51,4 +51,11 @@ list linked below.</p>
 <br>
 <br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
 </p>
+<h2><strong>Circulars</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank">MOH Cir No 13 2025 Clarifications on the Implementation Support Measures for the Proposed HIB</a>
+</p>
+</li>
+</ul>
 <p></p>
