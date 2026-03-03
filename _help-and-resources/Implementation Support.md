@@ -344,8 +344,7 @@ of health information</p>
 standards for contributing to, accessing or using NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">March 2026</a>
-</p>
+<p>March 2026</p>
 </td>
 </tr>
 <tr>
