@@ -4,7 +4,10 @@ permalink: /overview/key-frameworks-of-hia/
 variant: tiptap
 description: ""
 ---
-<h3>Three Key Frameworks under HIA</h3>
+<h4>Three Key Frameworks under HIA</h4>
+<p>The HIA establishes a comprehensive framework for managing, securing,
+and sharing key health information to improve healthcare delivery and patient
+outcomes. The Act governs:</p>
 <p>a) <strong>NEHR Contribution and Access</strong>: All licensed healthcare
 providers and retail pharmacies must contribute key health information
 about patients to the National Electronic Health Record (NEHR) system.
