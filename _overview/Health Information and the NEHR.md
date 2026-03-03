@@ -37,7 +37,7 @@ This means better care coordination across providers, fewer repeated tests,
 and more well-informed medical decisions. Over time, your NEHR will become
 an increasingly useful tool for healthcare professionals in delivering
 care to you.</p>
-<p>The types of health information required for contribution will depend
-on the licence type(s). Click <a href="https://www.healthinfo.gov.sg/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">here</a> for
-more information.</p>
+<p>(Note: The types of health information required for contribution will
+depend on the licence type(s). Click <a href="https://www.healthinfo.gov.sg/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">here</a> for
+more information.)</p>
 <p></p>
