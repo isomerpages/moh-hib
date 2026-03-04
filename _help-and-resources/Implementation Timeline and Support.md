@@ -579,7 +579,6 @@ receive recommended actions</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h2><strong>Cyber and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
