@@ -297,7 +297,6 @@ quantum for NCR.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h4>Funding Options for Cybersecurity and Data Security</h4>
 <ul data-tight="true" class="tight">
 <li>
