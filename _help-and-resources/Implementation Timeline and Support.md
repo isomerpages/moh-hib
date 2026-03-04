@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Implementation Timeline for Healthcare Providers</strong></h2>
-<p>Please refer to the following table on the batched implementation timelines
+<p>Please refer to the following table on the batched implementation timeline
 for different healthcare service types.</p>
 <p><strong><u>Table of Batched Implementation Timeline</u></strong>
 </p>
