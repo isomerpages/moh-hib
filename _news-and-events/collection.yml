@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - News and Feature Articles.md
-      - Press Releases & Speeches.md
+      - Press Releases and Speeches.md
       - Public Consultations.md
       - Upcoming & Past Events.md
