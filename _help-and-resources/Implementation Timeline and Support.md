@@ -529,25 +529,14 @@ bite-sized and manageable content</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CS/DS Self-Assessment Tool</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assess your current cybersecurity and data security position, identify
-gaps, get recommended actions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coming soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Training Course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Healthcare-tailored cybersecurity training</p>
+<p>Training course on cybersecurity and data security tailored for healthcare
+settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming soon</p>
+<p>Stay Tuned. Details will be available on this website from March 2026</p>
 </td>
 </tr>
 <tr>
