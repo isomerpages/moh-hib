@@ -549,7 +549,7 @@ settings</p>
 <p>HIA Implementation Guide – Part 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provides practical guidance on how to implement CSDS measures, including
+<p>Provides practical guidance on how to implement CS/DS measures, including
 template corporate policies</p>
 </td>
 </tr>
