@@ -484,7 +484,8 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 <p>Key information for healthcare providers and professionals</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Available now on this website</p>
+<p>Available now at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -506,7 +507,8 @@ professional standards to adopt when contributing to, accessing or using
 NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available on this website from March 2026</p>
+<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
+2026</p>
 </td>
 </tr>
 <tr>
@@ -518,7 +520,8 @@ NEHR</p>
 bite-sized and manageable content</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available on this website from March 2026</p>
+<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
+2026</p>
 </td>
 </tr>
 <tr>
@@ -530,7 +533,8 @@ bite-sized and manageable content</p>
 settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Details will be available on this website from March 2026</p>
+<p>Stay tuned. Details will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
+2026</p>
 </td>
 </tr>
 <tr>
@@ -541,7 +545,8 @@ settings</p>
 <p>Provides guidance for healthcare providers on preparing for HIA implementation</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Stay tuned. Resources will be available on this website from April 2026</p>
+<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from April
+2026</p>
 </td>
 </tr>
 <tr>
