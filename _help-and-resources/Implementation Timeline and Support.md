@@ -483,7 +483,7 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 <td rowspan="1" colspan="1">
 <p>Key information for healthcare providers and professionals</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Available now on this website</p>
 </td>
 </tr>
@@ -494,14 +494,6 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 <td rowspan="1" colspan="1">
 <p>Provide guidance on security measures to put in place for the proper storage,
 access, use and sharing of health information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Starter Kit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key HIA preparation steps</p>
 </td>
 </tr>
 <tr>
