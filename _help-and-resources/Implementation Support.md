@@ -17,23 +17,11 @@ pharmacies, except those who previously received Early Contribution Incentive
 or GP IT Enablement grants.</p>
 </li>
 </ul>
-<p><em>(Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.)</em>
+<p>Please refer to the following table for more information on NCG.</p>
+<p><strong><u>Table of details on NCG</u></strong>
 </p>
-<h4>Funding Options for Cybersecurity and Data Security</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you need help meeting cybersecurity and data security requirements,
-several funding options are available depending on your practice type and
-needs. Refer to the table below for more information on available funding
-support schemes.</p>
-</li>
-</ul>
-<p><strong><u>Table of Available Funding Support Schemes</u></strong>
-</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -47,8 +35,102 @@ support schemes.</p>
 <p><strong>NCG</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>CISO-as-a-Service<sup>1</sup> for HIA (Cybersecurity and Data Security Essentials)</strong>
+<p><strong>Ministry/Agency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health (MOH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>What it is for</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To help licensees enhance their existing Health Information Management
+System (HIMS)<sup>1</sup> or adopt a HIMS that is able to securely contribute
+to the NEHR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Who is eligible</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All licensees required to contribute to NEHR</p>
+<p>except those who have previously received grants for NEHR connectivity
+(e.g. Early Contribution Incentive, GP IT Enablement Grant)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Amount Provided</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approximately 2 years of subscription to a HIMS or 40% of the cost of
+enhancing an existing HIMS.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Availability</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>How to apply</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details will be made available in July 2026</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>(Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.)</em>
+<br>
+</p>
+<hr>
+<p><sup>1 </sup>Health Information Management System (HIMS) is the digital
+system that allows healthcare providers to store and manage patient records</p>
+<h4>Funding Options for Cybersecurity and Data Security</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you need help meeting cybersecurity and data security requirements,
+several funding options are available depending on your practice type and
+needs. Refer to the table below for more information on available funding
+support schemes.</p>
+</li>
+</ul>
+<p>Please refer to the following table for more information on available
+funding support schemes.</p>
+<p><strong><u>Table of Available Funding Support Schemes</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CISO-as-a-Service<sup>2</sup> for HIA (Cybersecurity and Data Security Essentials)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,9 +144,6 @@ support schemes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Health (MOH)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Cyber Security Agency of Singapore (CSA)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,11 +154,6 @@ support schemes.</p>
 <td rowspan="1" colspan="1">
 <p><strong>What it is for</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To help licensees enhance their existing Health Information Management
-System<sup>2 </sup>(HIMS) or adopt a HIMS that is able to securely contribute
-to the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
@@ -95,11 +169,6 @@ consultants.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Who is eligible</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR</p>
-<p>except those who have previously received grants for NEHR connectivity
-(e.g. Early Contribution Incentive, GP IT Enablement Grant)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
@@ -118,10 +187,6 @@ consultants.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approximately 2 years of subscription to a HIMS or 40% of the cost of
-enhancing an existing HIMS.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Up to 70% of the cost of CS/DS Consultancy packages</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,9 +197,6 @@ enhancing an existing HIMS.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Availability</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>H2 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Now</p>
@@ -149,10 +211,6 @@ enhancing an existing HIMS.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Details will be made available in H2 2026</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank">https://services2.imda.gov.sg/ctoaas/tag/hia</a></strong>
 </p>
 </td>
@@ -164,9 +222,7 @@ enhancing an existing HIMS.&nbsp;</p>
 </tbody>
 </table>
 <hr>
-<p><sup>1 </sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
-<p><sup>2 </sup>Health Information Management System (HIMS) is the digital
-system that allows healthcare providers to store and manage patient records</p>
+<p><sup>2 </sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
 <p></p>
