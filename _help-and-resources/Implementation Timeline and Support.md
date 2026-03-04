@@ -567,8 +567,8 @@ measures are in place</p>
 <p>HIA Implementation Guide – Part 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A self-assessment tool to assess your current CSDS posture, identify gaps,
-receive recommended actions</p>
+<p>A self-assessment tool to assess your current CS/DS posture, identify
+gaps, receive recommended actions</p>
 </td>
 </tr>
 </tbody>
