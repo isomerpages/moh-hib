@@ -536,19 +536,42 @@ bite-sized and manageable content</p>
 settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay Tuned. Details will be available on this website from March 2026</p>
+<p>Stay tuned. Details will be available on this website from March 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cyber and Data Security Guidebook</p>
+<p>HIA Implementation Guide – Part 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Practical guidance and examples to understand cybersecurity and data security
-requirements</p>
+<p>Provides guidance for healthcare providers on preparing for HIA implementation</p>
+</td>
+<td rowspan="4" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming soon</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
