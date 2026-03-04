@@ -133,7 +133,7 @@ for its use.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>When healthcare providers need to&nbsp;comply&nbsp;with&nbsp;cyber and data security (CS/DS)&nbsp;obligations&nbsp;</strong>
+<p><strong>When healthcare providers need to&nbsp;comply&nbsp;with&nbsp;cyber and data security (CSDS)&nbsp;obligations&nbsp;</strong>
 </p>
 <p></p>
 </td>
@@ -363,11 +363,10 @@ to the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
-(CS/DS) requirements by subsidising the cost of hiring qualified CS/DS
-consultants.</p>
+(CSDS) requirements by subsidising the cost of hiring qualified CSDS consultants.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
+<p>To help defray the cost of purchasing solutions to meet CSDS requirements.
 (E.g. firewall, antivirus software)</p>
 </td>
 </tr>
@@ -489,7 +488,7 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CS/DS Essentials</p>
+<p>CSDS Essentials</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provide guidance on security measures to put in place for the proper storage,
@@ -512,7 +511,7 @@ NEHR</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CS/DS Infographics</p>
+<p>CSDS Infographics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thematic infographics explaining cybersecurity and data security measures&nbsp;in
@@ -553,7 +552,7 @@ settings</p>
 <p>HIA Implementation Guide – Part 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provides practical guidance on how to implement CS/DS measures, including
+<p>Provides practical guidance on how to implement CSDS measures, including
 template corporate policies</p>
 </td>
 </tr>
@@ -571,8 +570,8 @@ measures are in place</p>
 <p>HIA Implementation Guide – Part 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A self-assessment tool to assess your current CS/DS posture, identify
-gaps, receive recommended actions</p>
+<p>A self-assessment tool to assess your current CSDS posture, identify gaps,
+receive recommended actions</p>
 </td>
 </tr>
 </tbody>
