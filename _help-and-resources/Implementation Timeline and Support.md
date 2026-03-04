@@ -547,31 +547,34 @@ settings</p>
 <p>Provides guidance for healthcare providers on preparing for HIA implementation</p>
 </td>
 <td rowspan="4" colspan="1">
-<p></p>
+<p>Stay tuned. Resources will be available on this website from April 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HIA Implementation Guide – Part 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Provides practical guidance on how to implement CSDS measures, including
+template corporate policies</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HIA Implementation Guide – Part 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>A simple self-check to make sure the basic cybersecurity and data protection
+measures are in place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HIA Implementation Guide – Part 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A self-assessment tool to assess your current CSDS posture, identify gaps,
+receive recommended actions</p>
 </td>
 </tr>
 </tbody>
