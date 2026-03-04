@@ -517,14 +517,14 @@ NEHR</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CS/DS Checklist and Infographics</p>
+<p>CS/DS Infographics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bite-sized, manageable content explaining cybersecurity and data security
-requirements</p>
+<p>Thematic infographics explaining cybersecurity and data security measures&nbsp;in
+bite-sized and manageable content</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming soon</p>
+<p>Stay tuned. Resources will be available on this website from March 2026</p>
 </td>
 </tr>
 <tr>
