@@ -20,8 +20,8 @@ to public healthcare institutions, cluster HQs, AIC and public agencies.</p>
 <p>c) <strong>Protection of Health Information</strong>: Healthcare providers
 and Health Information Management Systems (HIMS) must put in place reasonable
 safeguards to ensure confidentiality, integrity, and availability of health
-information., and meet incident notification obligations. The detailed
-cybersecurity and data security measures are set out under a set of guidelines,
-namely, the CS/DS Essentials.</p>
+information, and meet incident notification obligations. The detailed cybersecurity
+and data security measures are set out under a set of guidelines, namely,
+the CSDS Essentials.</p>
 <p></p>
 <p></p>
