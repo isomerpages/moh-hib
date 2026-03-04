@@ -490,8 +490,8 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 <p>CS/DS Essentials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guidance on security measures for proper storage, access, use and sharing
-of health information</p>
+<p>Provide guidance on security measures to put in place for the proper storage,
+access, use and sharing of health information</p>
 </td>
 </tr>
 <tr>
@@ -504,14 +504,15 @@ of health information</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guidelines on NEHR contribution, use and access</p>
+<p>Guidelines on appropriate contribution, use and access to NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Practical guidance and examples on ethical principles and professional
-standards for contributing to, accessing or using NEHR</p>
+<p>Practical guidance and examples on core ethical principles and reasonable
+professional standards to adopt when contributing to, accessing or using
+NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March 2026</p>
+<p>Stay tuned. Resources will be available on this website from March 2026</p>
 </td>
 </tr>
 <tr>
