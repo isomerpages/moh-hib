@@ -376,9 +376,9 @@ consultants.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR</p>
-<p>except those who have previously received grants for NEHR connectivity
-(e.g. Early Contribution Incentive, GP IT Enablement Grant)</p>
+<p>All licensees required to contribute to NEHR except those who have previously
+received grants for NEHR connectivity (e.g. Early Contribution Incentive,
+GP IT Enablement Grant)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
