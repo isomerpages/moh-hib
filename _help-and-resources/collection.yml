@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - FAQs, Guidelines, Others.md
-      - Implementation Support.md
+      - Implementation Timeline & Support.md
       - Contact Us.md
       - Useful Links.md
