@@ -26,7 +26,7 @@ Singapore Health Services Pte Ltd), Agency for Integrated Care Pte Ltd
 and public agencies.</p>
 </li>
 <li>
-<p><strong>Cybersecurity and Data Security (CSDS) Measures</strong>: Licensed
+<p><strong>Cybersecurity and Data Security (CS/DS) Measures</strong>: Licensed
 healthcare providers, retail pharmacies, approved users of the NEHR and
 Health Information Management System (HIMS) providers must implement reasonable
 security measures to protect health information and systems and meet cybersecurity
