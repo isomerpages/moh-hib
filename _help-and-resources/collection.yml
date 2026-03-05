@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Implementation Timeline.md
-      - Implementation Timeline and Support.md
+      - Implementation Support.md
       - Funding Support.md
       - FAQs, Guidelines, Others.md
       - Contact Us.md
