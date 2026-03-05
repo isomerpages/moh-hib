@@ -43,7 +43,7 @@ are in the table below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CISO-as-a-Service<sup>1</sup> for HIA Cybersecurity and Data Security Essentials</strong>
+<p><strong>CISO-as-a-Service<sup>1</sup> for Health Information Act Cybersecurity and Data Security Essentials</strong>
 </p>
 </td>
 </tr>
