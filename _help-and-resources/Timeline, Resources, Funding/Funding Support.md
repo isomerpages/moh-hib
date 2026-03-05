@@ -87,9 +87,8 @@ to the NEHR</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR except those who have previously
-received grants for NEHR connectivity (e.g. Early Contribution Incentive,
-GP IT Enablement Grant)</p>
+<p>All licensees required to contribute to NEHR who had not previously received
+similar grants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)</p>
@@ -107,8 +106,8 @@ GP IT Enablement Grant)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approximately 2 years of subscription to a HIMS or 40% of the cost of
-enhancing an existing HIMS.&nbsp;</p>
+<p>About 2 years of subscription to a HIMS; or 40% of the cost of enhancing
+the licensee's own HIMS.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
