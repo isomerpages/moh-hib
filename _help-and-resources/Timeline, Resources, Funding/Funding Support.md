@@ -143,8 +143,7 @@ quantum for NCG.</p>
 <li>
 <p>If you need help meeting cybersecurity and data security requirements,
 several funding options are available depending on your practice type and
-needs. Refer to the table below for more information on available funding
-support schemes.</p>
+needs.</p>
 </li>
 </ul>
 <p>Please refer to the following table for more information on available
