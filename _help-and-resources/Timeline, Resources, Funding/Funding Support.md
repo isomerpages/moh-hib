@@ -162,7 +162,7 @@ turnover <strong>OR</strong> &lt;200 employees</p>
 <h4>NCG Grant Quantum</h4>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
-<p><strong><u>Table of NCG Grant Quantum by Service Types</u></strong>
+<p><strong><u>NCG Grant Quantum by Service Types</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
