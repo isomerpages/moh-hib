@@ -18,7 +18,7 @@ pharmacies, except those who previously received Early Contribution Incentive
 or GP IT Enablement grants.</p>
 </li>
 </ul>
-<p><em>(Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.)</em>
+<p><em>Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.</em>
 </p>
 <p>Please refer to the following table for more information on the grant
 quantum for NCR.</p>
