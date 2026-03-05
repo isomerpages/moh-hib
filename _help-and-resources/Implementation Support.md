@@ -37,10 +37,10 @@ description: ""
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
-HIA, including the Cybersecurity and Data Security Essentials. For assistance
-with implementing the necessary security measures, healthcare organisations
-may wish to approach any of the Cybersecurity and Data Security providers
-in the list linked below.</p>
+HIA, including the Cybersecurity and Data Security (CS/DS) Essentials.
+For assistance with implementing the necessary security measures, healthcare
+organisations may wish to approach any of the CS/DS providers in the list
+linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a>
@@ -49,7 +49,7 @@ in the list linked below.</p>
 </ul>
 <p><em>Note 1: Updated in February 2026</em>
 <br>
-<br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
+<br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CS/DS provider. For avoidance of doubt, organisations are also free to approach any other CS/DS providers which are not included in the list, which has only been provided for reference.</em>
 </p>
 <h2><strong>Circulars</strong></h2>
 <ul data-tight="true" class="tight">
