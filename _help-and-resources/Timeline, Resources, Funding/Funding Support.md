@@ -9,7 +9,7 @@ third_nav_title: Timeline, Resources, Funding
 <h4>NEHR Connect Grant (NCG)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applications open in the second half of 2026.</p>
+<p>Applications open from July 2026.</p>
 </li>
 <li>
 <p>Available to all healthcare providers mandated to contribute to NEHR under
