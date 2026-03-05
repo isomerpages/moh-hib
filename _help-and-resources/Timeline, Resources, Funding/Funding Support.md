@@ -278,7 +278,23 @@ quantum for NCG.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To illustrate the funding that a solo GP practice would likely receive
+in government grants to onboard NEHR and help meet the HIA cybersecurity
+and data security measures:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NCG funding: fixed quantum of $8,400</p>
+</li>
+<li>
+<p>EnterpriseSG: estimated quantum of $7,500 based on up to 50% co-funding</p>
+</li>
+<li>
+<p>CSA: estimated quantum of $5,800 based on up to 70% co-funding</p>
+</li>
+<li>
+<p>Total: approximately $20,000</p>
+</li>
+</ul>
 <h4>Grants for Community Care Organisations and Social Services Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>
