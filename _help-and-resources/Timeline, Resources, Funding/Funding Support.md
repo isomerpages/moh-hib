@@ -21,8 +21,8 @@ or GP IT Enablement grants.</p>
 <p><em>Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.</em>
 </p>
 <p>Please refer to the following table for more information on the grant
-quantum for NCR.</p>
-<p><strong><u>Table of NCR Grant Quantum</u></strong>
+quantum for NCG.</p>
+<p><strong><u>Table of NCG Grant Quantum by Service Types</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
