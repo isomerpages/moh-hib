@@ -290,7 +290,7 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
-<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
+<h4>Grants for Community Care Organisations and Social Services Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Community Care Digital Transformation Plan (CCDTP)</u></a>
