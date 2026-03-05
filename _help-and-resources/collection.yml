@@ -2,9 +2,9 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Funding Support.md
       - Implementation Timeline.md
-      - FAQs, Guidelines, Others.md
       - Implementation Timeline and Support.md
+      - Funding Support.md
+      - FAQs, Guidelines, Others.md
       - Contact Us.md
       - Useful Links.md
