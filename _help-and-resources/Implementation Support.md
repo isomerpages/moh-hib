@@ -4,130 +4,35 @@ permalink: /help-and-resources/implementation-support/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Implementation Resources</strong></h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource</strong>
+<h2><strong>Funding Support</strong></h2>
+<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Community Care Digital Transformation Plan (CCDTP)</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>What it is for</strong>
+</li>
+<li>
+<p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank"><u>Transformation Sustainability Scheme</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>When it is available</strong>
+<p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Overview of HIA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key information for healthcare providers and professionals</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Available now at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a>
+</li>
+</ul>
+<h3>Grants for SMEs</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank"><u>Chief Technology Officer-as-a-Service (CTO-as-a-Service)</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CSDS Essentials</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provide guidance on security measures to put in place for the proper storage,
-access, use and sharing of health information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guidelines on appropriate contribution, use and access to NEHR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Practical guidance and examples on core ethical principles and reasonable
-professional standards to adopt when contributing to, accessing or using
-NEHR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CSDS Infographics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thematic infographics explaining cybersecurity and data security measures&nbsp;in
-bite-sized and manageable content</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training Course</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training course on cybersecurity and data security tailored for healthcare
-settings</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned. Details will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provides guidance for healthcare providers on preparing for HIA implementation</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from April
-2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provides practical guidance on how to implement CSDS measures, including
-template corporate policies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A simple self-check to make sure the basic cybersecurity and data protection
-measures are in place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A self-assessment tool to assess your current CSDS posture, identify gaps,
-receive recommended actions</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+<li>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Chief Information Security Officers as-a-Service (CiSO as-a-Service)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank"><u>Productivity Solutions Grant</u></a>
+</p>
+</li>
+</ul>
 <h2><strong>Cybersecurity and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
