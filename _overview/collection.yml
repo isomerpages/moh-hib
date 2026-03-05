@@ -2,7 +2,7 @@ collections:
   overview:
     output: true
     order:
-      - Why the HIA is Needed.md
+      - Why HIA is Needed.md
       - Overview of HIA.md
       - Health Information and the NEHR.md
       - Access to Health Information.md
