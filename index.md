@@ -13,9 +13,9 @@ sections:
       title: Health Information Act
       url: /about
       key_highlights:
-        - title: What is HIA?
+        - title: What is the HIA?
           description: ""
-          url: /overview/why-hia-is-needed/
+          url: /overview/why-the-hia-is-needed/
         - title: Help & Resources
           description: ""
           url: /help-and-resources/guidelines-and-others/
