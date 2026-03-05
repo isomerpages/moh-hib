@@ -19,7 +19,7 @@ for the NEHR Connect Grant.</p>
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp; Details
 are in the table below.</p>
-<p><strong><u>Table of Available Funding Support Schemes</u></strong>
+<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cyber/Data Security from Other Agencies</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -159,6 +159,7 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
+<h4>NCG Grant Quantum</h4>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
 <p><strong><u>Table of NCG Grant Quantum by Service Types</u></strong>
