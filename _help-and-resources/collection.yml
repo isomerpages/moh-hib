@@ -2,10 +2,10 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Implementation & Support/.keep
-      - Implementation & Support/Implementation Timeline.md
-      - Implementation & Support/Implementation Resources.md
-      - Implementation & Support/Funding Support.md
+      - Timeline, Resources, Funding/.keep
+      - Timeline, Resources, Funding/Implementation Timeline.md
+      - Timeline, Resources, Funding/Implementation Resources.md
+      - Timeline, Resources, Funding/Funding Support.md
       - Guidelines & Others.md
       - Contact Us.md
       - Useful Links.md
