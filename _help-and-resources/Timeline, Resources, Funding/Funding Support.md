@@ -6,20 +6,19 @@ description: ""
 third_nav_title: Timeline, Resources, Funding
 ---
 <h2><strong>Funding Support for Healthcare Providers</strong></h2>
-<h4>NEHR Connect Grant (NCG)</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Applications open from July 2026.</p>
-</li>
-<li>
-<p>Available to all healthcare providers mandated to contribute to NEHR under
-the HIA, including GP clinics, laboratories, dental clinics, and retail
-pharmacies, except those who previously received Early Contribution Incentive
-or GP IT Enablement grants.</p>
-</li>
-</ul>
-<p><em>Note: Even if your clinic is already contributing to NEHR but didn't receive previous government funding, you'll be eligible for this new grant.</em>
-</p>
+<h4>National Electronic Health Record (NEHR) Connect Grant</h4>
+<p>The NEHR Connect Grant will cover all licensees required to contribute
+to NEHR under the Healthcare Information Act, including General Practitioner
+(GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
+<p>It succeeds previous digitalisation grants such as the GP IT Enablement
+Grant and Early Contribution Incentive Grant, both of which have closed
+applications and were limited to select licensable health sectors. Licensees
+that previously received funding under those grants will not be eligible
+for the NEHR Connect Grant.</p>
+<p>Other than the NEHR Connect Grant, licensees will also be able to tap
+other government grants to support the purchase of cybersecurity solutions,
+and engagement of CISO-as-a-Service consultancy services.&nbsp; Details
+are in the table below.</p>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
 <p><strong><u>Table of NCG Grant Quantum by Service Types</u></strong>
@@ -288,6 +287,124 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
+<p>Please refer to the following table for more information on the grant
+quantum for NCG.</p>
+<p><strong><u>Table of NCG Grant Quantum by Service Types</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Healthcare Service</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Grant Quantum per Licensee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acute Hospital</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $200k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinical Laboratory</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $140k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radiological</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$12k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuclear Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Renal Dialysis Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $29.3k</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contingency Care Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nursing Home</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$14.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assisted Reproduction Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ambulatory Surgical Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Dental</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$8.4k (fixed amount)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Retail Pharmacy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40% of cost capped at $16.9k</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Grants for Community Care Organisations and Social Services Agencies</h4>
 <ul data-tight="true" class="tight">
