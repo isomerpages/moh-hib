@@ -17,9 +17,8 @@ these cyber and data security requirements.</p>
 </p>
 </li>
 </ul>
-<p>Note: The CSDS Essentials replace the Cyber and Data Security Guidelines
-for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity
-Essentials (HCSE) (issued in August 2021)</p>
+<p><em>Note: The CSDS Essentials replace the Cyber and Data Security Guidelines for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity Essentials (HCSE) (issued in August 2021)</em>
+</p>
 <h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
 <ul data-tight="true" class="tight">
 <li>
