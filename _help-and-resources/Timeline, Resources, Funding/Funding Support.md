@@ -165,7 +165,7 @@ funding support schemes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NCG</strong>
+<p><strong>NEHR Connect Grant (NCG)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
