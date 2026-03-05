@@ -92,7 +92,7 @@ similar grants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)</p>
-<p>For more info: <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
+<p>More details: <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
