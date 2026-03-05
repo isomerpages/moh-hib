@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Cybersecurity and data security standards</h2>
-<p>HIA sets out the cybersecurity and data security standards that will be
-imposed on healthcare providers if they contribute to or access NEHR or
-share data under the HIA.</p>
+<p>The HIA sets out the cybersecurity and data security standards that will
+be imposed on healthcare providers if they contribute to or access NEHR
+or share data under the HIA.</p>
 <p>This&nbsp;<strong>ensures the safe and secure handling of health information</strong>.
 HIMS providers that support healthcare providers to access or contribute
 data to NEHR will also need to meet cybersecurity and data security standards.</p>
