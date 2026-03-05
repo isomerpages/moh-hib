@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Timeline, Resources, Funding/.keep
-      - Timeline, Resources, Funding/Implementation Timeline.md
+      - Timeline, Resources, Funding/Implementation Timelines.md
       - Timeline, Resources, Funding/Implementation Resources.md
       - Timeline, Resources, Funding/Funding Support.md
       - Guidelines & Others.md
