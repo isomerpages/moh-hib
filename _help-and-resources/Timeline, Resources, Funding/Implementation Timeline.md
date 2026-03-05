@@ -6,8 +6,16 @@ description: ""
 third_nav_title: Timeline, Resources, Funding
 ---
 <h2><strong>Implementation Timeline for Healthcare Providers</strong></h2>
-<p>Please refer to the following table on the batched implementation timeline
-for different healthcare service types.</p>
+<p>Under the Health Information Act, licensed healthcare service providers
+will need to contribute patient medical information to the National Electric
+Health Record (NEHR) and comply with cybersecurity and data security requirements.&nbsp;
+The implementation timelines will be phased as shown below, to enable patients
+to benefit from the data sharing and security measures as soon as possible,
+while taking into consideration the time required by licensees to put in
+place the necessary measures.&nbsp; The timelines factor in the different
+sectors’ readiness. For example, more than half of GPs and laboratories
+are already connected to NEHR due to Healthier SG and COVID-19 testing
+previously.</p>
 <p><strong><u>Table of Batched Implementation Timeline</u></strong>
 </p>
 <table style="minWidth: 100px">
@@ -138,52 +146,7 @@ for its use.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>For Other HCSA Licensees</strong>: HCSA licensees not listed in
-the above <u>Table of Batched Implementation Timeline</u>, such as cord
-blood banking, human tissue banking, emergency ambulance, and medical transport
-services, are not required to contribute to NEHR, but <u>must</u> implement
-reasonable safeguards and controls to protect health information and systems
-no later than September 2027.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Other entities who are approved to access the NEHR but not required to
+contribute will have to comply with cyber and data security obligations
+by Sep 2028.</p>
 <p></p>
