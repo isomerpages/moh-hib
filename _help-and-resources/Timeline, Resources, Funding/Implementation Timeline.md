@@ -122,39 +122,17 @@ for its use.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Latest by which&nbsp;healthcare providers need to start contribution&nbsp;</strong>
+<p><strong>Timeline to start contribution to NEHR and implement cybersecurity and data security measures&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By September 2027&nbsp;</p>
+<p>By Sep 2027&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By September 2028&nbsp;</p>
+<p>By Sep 2028&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By March 2030&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>When healthcare providers need to&nbsp;comply&nbsp;with&nbsp;cyber and data security (CSDS)&nbsp;obligations&nbsp;</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>When they start accessing/ contributing to the NEHR,&nbsp;</p>
-<p></p>
-<p>Latest by September 2027&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>When they start accessing/ contributing to the NEHR,&nbsp;</p>
-<p></p>
-<p>Latest by September 2028&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>When they start accessing/ contributing to the NEHR,&nbsp;</p>
-<p></p>
-<p>Latest by March 2030&nbsp;</p>
+<p>By Mar 2030&nbsp;</p>
 </td>
 </tr>
 </tbody>
