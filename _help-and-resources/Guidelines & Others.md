@@ -13,7 +13,7 @@ guide, infographics, checklists) to help healthcare providers in understanding
 these cyber and data security requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/infographic_key_cyber_and_data_security_essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Cyber and Data Security Essentials</a>
+<p><a href="/files/CYBERSECURITY_AND_DATA_SECURITY_ESSENTIALS.pdf" rel="noopener nofollow" target="_blank">Cybersecurity and Data Security Essentials</a>
 </p>
 </li>
 </ul>
