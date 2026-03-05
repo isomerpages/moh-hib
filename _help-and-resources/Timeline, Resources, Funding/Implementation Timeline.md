@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Timeline, Resources, Funding
 ---
-<h2><strong>Implementation Timeline for Healthcare Providers</strong></h2>
+<h2><strong>Implementation Timelines for Healthcare Providers</strong></h2>
 <p>Under the Health Information Act, licensed healthcare service providers
 will need to contribute patient medical information to the National Electric
 Health Record (NEHR) and comply with cybersecurity and data security requirements.&nbsp;
@@ -16,7 +16,7 @@ place the necessary measures.&nbsp; The timelines factor in the different
 sectors’ readiness. For example, more than half of GPs and laboratories
 are already connected to NEHR due to Healthier SG and COVID-19 testing
 previously.</p>
-<p><strong><u>Batched Implementation Timeline</u></strong>
+<p><strong><u>Batched Implementation Timelines</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
