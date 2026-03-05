@@ -52,13 +52,13 @@ sections:
       announcement_items:
         - title: Health Information Bill (HIB) – Second Reading
           date: 12 January 2026
-          announcement: Health Information Bill (HIB) was read a second time and passed in
-            Parliament on 12 January 2026.
+          announcement: The Health Information Bill (HIB) was read a second time and
+            passed in Parliament on 12 January 2026.
           link_text: Health Information Act (HIA)
           link_url: https://sso.agc.gov.sg/Acts-Supp/1-2026/Published/20260212?DocDate=20260212
         - title: Health Information Bill (HIB) – First Reading
           date: 05 November 2025
-          announcement: Health Information Bill (HIB) was introduced and read for the
+          announcement: The Health Information Bill (HIB) was introduced and read for the
             first time in Parliament on 5 November 2025.
           link_text: Health Information Bill (HIB)
           link_url: https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105
