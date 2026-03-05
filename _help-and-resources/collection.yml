@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - FAQs, Guidelines, Others.md
       - Timelines, Resources, Funding/.keep
       - Timelines, Resources, Funding/Implementation Timelines.md
       - Timelines, Resources, Funding/Implementation Resources.md
