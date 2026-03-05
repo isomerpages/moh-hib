@@ -19,11 +19,11 @@ third_nav_title: Timelines, Resources, Funding
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>What It's For</strong>
+<p><strong>What it is for</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>When It's Available</strong>
+<p><strong>When it is available</strong>
 </p>
 </td>
 </tr>
