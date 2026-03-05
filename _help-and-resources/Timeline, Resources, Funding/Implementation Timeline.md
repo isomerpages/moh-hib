@@ -16,7 +16,7 @@ place the necessary measures.&nbsp; The timelines factor in the different
 sectors’ readiness. For example, more than half of GPs and laboratories
 are already connected to NEHR due to Healthier SG and COVID-19 testing
 previously.</p>
-<p><strong><u>Table of Batched Implementation Timeline</u></strong>
+<p><strong><u>Batched Implementation Timeline</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
