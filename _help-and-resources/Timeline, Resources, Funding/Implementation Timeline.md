@@ -36,85 +36,88 @@ for different healthcare service types.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Service Type</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Outpatient Medical Service (GP)&nbsp;</p>
-</li>
-<li>
-<p>Acute Hospital&nbsp;</p>
-</li>
-<li>
-<p>Community Hospital&nbsp;</p>
-</li>
-<li>
-<p>Clinical Laboratory&nbsp;</p>
-</li>
-<li>
-<p>Radiology&nbsp;Laboratory</p>
-</li>
-<li>
-<p>Nuclear Medicine&nbsp;</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Outpatient Medical Service (Specialist)&nbsp;</p>
-</li>
-<li>
-<p>Nursing Home&nbsp;</p>
-</li>
-<li>
-<p>Contingency Care&nbsp;</p>
-</li>
-<li>
-<p>Outpatient Renal Dialysis&nbsp;</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Outpatient Dental&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Ambulatory Surgical Centre&nbsp;</p>
-</li>
-<li>
-<p>Assisted Reproduction&nbsp;</p>
-</li>
-<li>
-<p>Retail Pharmacy&nbsp;&nbsp;</p>
-</li>
-</ul>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Acute Hospital&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Home&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ambulatory Surgical Centre&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Hospital&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contingency Care&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assisted Reproduction&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinical Laboratory&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outpatient Renal Dialysis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail Pharmacy&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radiology&nbsp;Laboratory</p>
+</td>
+<td rowspan="2" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuclear Medicine&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>When healthcare providers can start accessing NEHR</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<ul data-tight="true" class="tight">
-<li>
 <p>Healthcare providers with existing access can continue&nbsp;using NEHR.&nbsp;</p>
-</li>
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Healthcare providers&nbsp;who&nbsp;wish to access&nbsp;can start applying
-for access now.&nbsp;&nbsp;</p>
-</li>
-<li>
+for access now.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Any user accessing NEHR must comply with the restrictions and conditions
 for its use.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -163,3 +166,46 @@ blood banking, human tissue banking, emergency ambulance, and medical transport
 services, are not required to contribute to NEHR, but <u>must</u> implement
 reasonable safeguards and controls to protect health information and systems
 no later than September 2027.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
