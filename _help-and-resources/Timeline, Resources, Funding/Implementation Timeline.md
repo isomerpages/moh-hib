@@ -37,7 +37,7 @@ for different healthcare service types.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p><strong>Service Type</strong>
+<p><strong>Types of Licensees</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
