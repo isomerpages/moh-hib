@@ -4,7 +4,7 @@ permalink: /help-and-resources/funding-support/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Funding Support</strong></h2>
+<h2><strong>Funding Support for Healthcare Providers</strong></h2>
 <h4>NEHR Connect Grant (NCG)</h4>
 <ul data-tight="true" class="tight">
 <li>
