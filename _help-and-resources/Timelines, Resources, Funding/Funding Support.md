@@ -137,15 +137,14 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Details will be made available closer to July 2026</strong>
+<p>Details will be made available closer to July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank">https://services2.imda.gov.sg/ctoaas/tag/hia</a></strong>
+<p>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank">https://services2.imda.gov.sg/ctoaas/tag/hia</a>
 </p>
 </td>
 </tr>
