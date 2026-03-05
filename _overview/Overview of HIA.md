@@ -4,7 +4,7 @@ permalink: /overview/overview-of-hia/
 variant: tiptap
 description: ""
 ---
-<h2>Overview of HIA</h2>
+<h2>Three Key Frameworks of HIA</h2>
 <p>The HIA establishes a comprehensive framework for managing, securing,
 and sharing key health information to improve healthcare delivery and patient
 outcomes. The Act governs:</p>
