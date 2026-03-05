@@ -11,15 +11,15 @@ health information pursuant to the Health Information Act (HIA).</p>
 <p>MOH will also be issuing further guidance and resources (such as self-help
 guide, infographics, checklists) to help healthcare providers in understanding
 these cyber and data security requirements.</p>
-<p>Note: The CSDS Essentials replace the Cyber and Data Security Guidelines
-for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity
-Essentials (HCSE) (issued in August 2021)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/infographic_key_cyber_and_data_security_essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Cyber and Data Security Essentials</a>
 </p>
 </li>
 </ul>
+<p>Note: The CSDS Essentials replace the Cyber and Data Security Guidelines
+for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity
+Essentials (HCSE) (issued in August 2021)</p>
 <h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
 <ul data-tight="true" class="tight">
 <li>
