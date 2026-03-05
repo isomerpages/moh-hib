@@ -4,13 +4,16 @@ permalink: /help-and-resources/guidelines-and-others/
 variant: tiptap
 description: ""
 ---
-<h2>Cyber and Data Security Guidelines for Healthcare Providers</h2>
-<p>This infographic provides an overview of the cyber and data security requirements
-while the HIA Cyber and Data Security Guidelines (Dec 2023) for Service
-Providers are being revised. The revised requirements will align with CSA’s
-Cyber Essentials (15 Apr 2025), with guidance on the handling of physical
-copies of health information, and will be published in the first quarter
-of 2026.</p>
+<h2>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
+<p>The Cybersecurity and Data Security Essentials set out cyber and data
+security requirements for healthcare providers managing and processing
+health information pursuant to the Health Information Act (HIA).</p>
+<p>MOH will also be issuing further guidance and resources (such as self-help
+guide, infographics, checklists) to help healthcare providers in understanding
+these cyber and data security requirements.</p>
+<p>Note: The CSDS Essentials replace the Cyber and Data Security Guidelines
+for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity
+Essentials (HCSE) (issued in August 2021)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/infographic_key_cyber_and_data_security_essentials.pdf" rel="noopener noreferrer nofollow" target="_blank">Key Cyber and Data Security Essentials</a>
