@@ -145,7 +145,6 @@ for its use.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <p>Other entities who are approved to access the NEHR but not required to
 contribute will have to comply with cyber and data security obligations
 by Sep 2028.</p>
