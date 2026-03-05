@@ -102,12 +102,12 @@ similar grants</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Amount Provided</strong>
+<p><strong>Amount of Support</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>About 2 years of subscription to a HIMS; or 40% of the cost of enhancing
-the licensee's own HIMS.&nbsp;</p>
+the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
@@ -122,7 +122,7 @@ the licensee's own HIMS.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>July 2026</p>
+<p>Open from July 2026, in batches</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Now</p>
@@ -137,7 +137,7 @@ the licensee's own HIMS.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Details will be made available in July 2026</strong>
+<p><strong>Details will be made available closer to July 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
