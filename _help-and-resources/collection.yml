@@ -2,6 +2,7 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Implementation Timeline.md
       - FAQs, Guidelines, Others.md
       - Implementation Timeline and Support.md
       - Contact Us.md
