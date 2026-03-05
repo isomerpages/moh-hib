@@ -288,4 +288,17 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
+<h3>Grants for Community Care Organisations and Social Services Agencies</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Community Care Digital Transformation Plan (CCDTP)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank"><u>Transformation Sustainability Scheme</u></a>
+</p>
+<p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
+</p>
+</li>
+</ul>
 <p></p>
