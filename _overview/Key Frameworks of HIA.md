@@ -4,24 +4,33 @@ permalink: /overview/key-frameworks-of-hia/
 variant: tiptap
 description: ""
 ---
-<h4>Three Key Frameworks under the HIA</h4>
+<h2>Three Key Frameworks of HIA</h2>
 <p>The HIA establishes a comprehensive framework for managing, securing,
 and sharing key health information to improve healthcare delivery and patient
 outcomes. The Act governs:</p>
-<p>a) <strong>NEHR Contribution and Access</strong>: All licensed healthcare
-providers and retail pharmacies must contribute key health information
-about patients to the National Electronic Health Record (NEHR) system.
-They will also be granted access to support care continuity and patient
-safety.</p>
-<p>b) <strong>Sharing of Non-NEHR Health Information</strong>: The HIA will
-enable the sharing of non-NEHR health information within the healthcare
-ecosystem to facilitate community-based care. This is currently only applicable
-to public healthcare institutions, cluster HQs, AIC and public agencies.</p>
-<p>c) <strong>Protection of Health Information</strong>: Healthcare providers
-and Health Information Management Systems (HIMS) must put in place reasonable
-safeguards to ensure confidentiality, integrity, and availability of health
-information., and meet incident notification obligations. The detailed
-cybersecurity and data security measures are set out under a set of guidelines,
-namely, the CS/DS Essentials.</p>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>National Electronic Health Record (NEHR) Contribution and Access</strong>:
+The HIA will require all licensed healthcare providers and retail pharmacies
+to contribute key health information of Singaporeans, Permanent Residents
+and patients with long-term immigration passes to the NEHR system and provides
+for their NEHR access.</p>
+</li>
+<li>
+<p><strong>Sharing of Non-NEHR Health Information</strong>: The HIA will
+enable the sharing of prescribed non-NEHR health information within the
+healthcare ecosystem to facilitate community-based care. This is currently
+only applicable to public healthcare institutions, cluster HQs (i.e.&nbsp;National
+Healthcare Group Pte Ltd, National University Health System Pte. Ltd. and
+Singapore Health Services Pte Ltd), Agency for Integrated Care Pte Ltd
+and public agencies.</p>
+</li>
+<li>
+<p><strong>Cybersecurity and Data Security (CSDS) Measures</strong>: Licensed
+healthcare providers, retail pharmacies, approved users of the NEHR and
+Health Information Management System (HIMS) providers must implement reasonable
+security measures to protect health information and systems and meet cybersecurity
+incidents / data breach notification obligations.&nbsp;</p>
+</li>
+</ol>
 <p></p>

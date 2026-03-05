@@ -8,11 +8,11 @@ description: ""
 <h3>Grants for Community Care Organisations and Social Services Agencies</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
+<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Community Care Digital Transformation Plan (CCDTP)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Transformation Sustainability Scheme</a>
+<p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank"><u>Transformation Sustainability Scheme</u></a>
 </p>
 <p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
 </p>
@@ -21,26 +21,26 @@ description: ""
 <h3>Grants for SMEs</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank">Chief Technology Officer-as-a-Service (CTO-as-a-Service)</a>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/ctoaas" rel="noopener noreferrer nofollow" target="_blank"><u>Chief Technology Officer-as-a-Service (CTO-as-a-Service)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan" rel="noopener noreferrer nofollow" target="_blank">Chief Information Security Officers as-a-Service (CiSO as-a-Service)</a>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cybersecurity-health-plan" rel="noopener noreferrer nofollow" target="_blank"><u>Chief Information Security Officers as-a-Service (CiSO as-a-Service)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant</a>
+<p><a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank"><u>Productivity Solutions Grant</u></a>
 </p>
 </li>
 </ul>
-<h2><strong>Cyber and Data Security Providers</strong></h2>
+<h2><strong>Cybersecurity and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cyber and data security requirements under the
-HIA, including the Cyber and Data Security Essentials. For assistance with
-implementing the necessary security measures, healthcare organisations
-may wish to approach any of the Cyber and Data Security providers in the
-list linked below.</p>
+HIA, including the Cybersecurity and Data Security Essentials. For assistance
+with implementing the necessary security measures, healthcare organisations
+may wish to approach any of the Cybersecurity and Data Security providers
+in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a>
