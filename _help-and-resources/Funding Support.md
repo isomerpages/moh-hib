@@ -240,7 +240,7 @@ GP IT Enablement Grant)</p>
 enhancing an existing HIMS.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 70% of the cost of CS/DS Consultancy packages</p>
+<p>Up to 70% of the cost of CSDS Consultancy packages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
