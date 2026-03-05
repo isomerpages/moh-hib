@@ -289,6 +289,7 @@ enhancing an existing HIMS.&nbsp;</p>
 system that allows healthcare providers to store and manage patient records</p>
 <p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
+<p></p>
 <h4>Grants for Community Care Organisations and Social Services Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>
