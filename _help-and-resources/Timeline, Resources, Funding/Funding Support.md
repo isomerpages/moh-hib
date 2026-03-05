@@ -276,7 +276,7 @@ enhancing an existing HIMS.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business </a></strong>
+<p><strong>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a></strong>
 </p>
 </td>
 </tr>
