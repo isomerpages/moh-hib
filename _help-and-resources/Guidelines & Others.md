@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
-<p>The Cybersecurity and Data Security Essentials set out cyber and data
-security requirements for healthcare providers managing and processing
+<p>The Cybersecurity and Data Security (CS/DS) Essentials set out cyber and
+data security requirements for healthcare providers managing and processing
 health information pursuant to the Health Information Act (HIA).</p>
 <p>MOH will also be issuing further guidance and resources (such as self-help
 guide, infographics, checklists) to help healthcare providers in understanding
