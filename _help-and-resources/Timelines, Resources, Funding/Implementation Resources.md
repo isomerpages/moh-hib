@@ -39,8 +39,7 @@ third_nav_title: Timelines, Resources, Funding
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Available now at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a>
-</p>
+<p>Available now</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +69,8 @@ professional standards to adopt when contributing to, accessing or using
 NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from Mid -
-March 2026</p>
+<p>Stay tuned. Resources will be available from</p>
+<p>Mid - March 2026</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +86,7 @@ March 2026</p>
 bite-sized and manageable content</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
+<p>Stay tuned. Resources will be available from 2H March 2026</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +102,7 @@ bite-sized and manageable content</p>
 settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Details will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
+<p>Stay tuned. Details will be available by 2H March 2026</p>
 </td>
 </tr>
 <tr>
@@ -122,8 +119,7 @@ issued in parts to provide guidance on NEHR onboarding and access, and
 CS/DS implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from April
-2026</p>
+<p>Stay tuned. Resources will be available from Early April 2026</p>
 </td>
 </tr>
 </tbody>
