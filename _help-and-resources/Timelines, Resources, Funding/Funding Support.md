@@ -15,7 +15,7 @@ Grant and Early Contribution Incentive Grant, both of which have closed
 applications and were limited to select licensable health sectors. Licensees
 that previously received funding under those grants will not be eligible
 for the NEHR Connect Grant.</p>
-<p><strong><u>Details on the NEHR Connect Grant </u></strong>
+<p><strong><u>Details on the NEHR Connect Grant</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
