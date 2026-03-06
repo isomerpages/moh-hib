@@ -130,8 +130,8 @@ CS/DS implementation</p>
 </table>
 <h2><strong>Cybersecurity and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
-for organisations of all sizes. Healthcare organisations will accordingly
-be required to comply with cyber and data security requirements under the
+for organisations of all sizes. Healthcare providers will accordingly be
+required to comply with cyber and data security requirements under the
 HIA, including the Cybersecurity and Data Security (CS/DS) Essentials.
 For assistance with implementing the necessary security measures, healthcare
 organisations may wish to approach any of the CS/DS providers in the list
