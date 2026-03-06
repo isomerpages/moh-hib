@@ -43,7 +43,7 @@ may wish to approach any of the Cybersecurity and Data Security providers
 in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank"><u>CISO as-a-Service to develop Cybersecurity Health Plan</u></a>
 </p>
 </li>
 </ul>
@@ -54,7 +54,7 @@ in the list linked below.</p>
 <h2><strong>Circulars</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank">MOH Cir No 13 2025 Clarifications on the Implementation Support Measures for the Proposed HIB</a>
+<p><a href="https://www.healthinfo.gov.sg/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank"><u>MOH Cir No 13 2025 Clarifications on the Implementation Support Measures for the Proposed HIB</u></a>
 </p>
 </li>
 </ul>

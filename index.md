@@ -13,9 +13,9 @@ sections:
       title: Health Information Act
       url: /about
       key_highlights:
-        - title: What is HIA?
+        - title: What is the HIA?
           description: ""
-          url: /overview/why-hia-is-needed/
+          url: /overview/why-the-hia-is-needed/
         - title: Help & Resources
           description: ""
           url: /help-and-resources/guidelines-and-others/
@@ -36,8 +36,8 @@ sections:
       id: infopic
       image: /images/Homepage___Enabling_Outreach___Care_Continuity.png
       alt: Image alt text
-      description: HIA enables the scoped sharing of non-NEHR health information among
-        public healthcare stakeholders to support national programmes like
+      description: The HIA enables the scoped sharing of non-NEHR health information
+        among public healthcare stakeholders to support national programmes like
         Healthier SG.
   - infopic:
       title: Ensure Robust Safeguards for Information Protection
@@ -52,13 +52,13 @@ sections:
       announcement_items:
         - title: Health Information Bill (HIB) – Second Reading
           date: 12 January 2026
-          announcement: Health Information Bill (HIB) was read a second time and passed in
-            Parliament on 12 January 2026.
+          announcement: The Health Information Bill (HIB) was read a second time and
+            passed in Parliament on 12 January 2026.
           link_text: Health Information Act (HIA)
           link_url: https://sso.agc.gov.sg/Acts-Supp/1-2026/Published/20260212?DocDate=20260212
         - title: Health Information Bill (HIB) – First Reading
           date: 05 November 2025
-          announcement: Health Information Bill (HIB) was introduced and read for the
+          announcement: The Health Information Bill (HIB) was introduced and read for the
             first time in Parliament on 5 November 2025.
           link_text: Health Information Bill (HIB)
           link_url: https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105
