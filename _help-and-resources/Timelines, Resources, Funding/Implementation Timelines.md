@@ -45,7 +45,7 @@ previously.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p><strong>Types of Licensees</strong>
+<p><strong>Service Type</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ previously.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nuclear Medicine&nbsp;</p>
+<p>Nuclear Medicine Service&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ for its use.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Timeline to start contribution to NEHR and implement cybersecurity and data security measures&nbsp;</strong>
+<p><strong>Timeline to start contribution to NEHR, and implement cybersecurity and data security (CS/DS) measures&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,6 +145,10 @@ for its use.</p>
 </tr>
 </tbody>
 </table>
-<p>Other entities who are approved to access the NEHR but not required to
-contribute will have to comply with cyber and data security obligations
-by Sep 2028.</p>
+<p><em>[Note: For licensees providing multiple service types, NEHR contribution requirements apply according to each service's respective implementation timeline.]</em>
+</p>
+<p>&nbsp;<strong>For Other HCSA Licensees and Approved Users of NEHR</strong>:
+HCSA licensees not listed in&nbsp;the above table, which include cord blood
+banking, human tissue banking, emergency ambulance, and medical transport
+services, are not required to contribute to NEHR, but need to implement
+the cyber and data security measures by September 2028.</p>
