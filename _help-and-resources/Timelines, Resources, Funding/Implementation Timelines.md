@@ -7,15 +7,12 @@ third_nav_title: Timelines, Resources, Funding
 ---
 <h2><strong>Implementation Timelines for Healthcare Providers</strong></h2>
 <p>Under the Health Information Act, licensed healthcare service providers
-will need to contribute patient medical information to the National Electronic
-Health Record (NEHR) and comply with cybersecurity and data security requirements.&nbsp;
+will need to contribute key health information to the National Electronic
+Health Record (NEHR) and comply with cybersecurity and data security requirements.
 The implementation timelines will be phased as shown below, to enable patients
 to benefit from the data sharing and security measures as soon as possible,
-while taking into consideration the time required by licensees to put in
-place the necessary measures.&nbsp; The timelines factor in the different
-sectors’ readiness. For example, more than half of GPs and laboratories
-are already connected to NEHR due to Healthier SG and COVID-19 testing
-previously.</p>
+while taking into consideration the varying levels of readiness of the
+different sectors and complexity of the data types to be contributed.</p>
 <p><strong><u>Batched Implementation Timelines</u></strong>
 </p>
 <table style="minWidth: 100px">
