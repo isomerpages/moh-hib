@@ -29,7 +29,11 @@ third_nav_title: Timelines, Resources, Funding
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overview of the HIA</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Overview of HIA</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
@@ -41,16 +45,24 @@ third_nav_title: Timelines, Resources, Funding
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>CS/DS Essentials</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provide guidance on security measures to put in place for the proper storage,
+<p>Guidance on security measures to put in place for the proper storage,
 access, use and sharing of health information</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p>Guidelines on appropriate contribution, use and access to NEHR</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Practical guidance and examples on core ethical principles and reasonable
@@ -64,7 +76,11 @@ NEHR</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>CS/DS Infographics</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thematic infographics explaining cybersecurity and data security measures&nbsp;in
@@ -77,7 +93,11 @@ bite-sized and manageable content</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
 <p>Training Course</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Training course on cybersecurity and data security tailored for healthcare
@@ -90,41 +110,20 @@ settings</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 1</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>HIA Implementation Guide</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provides guidance for healthcare providers on preparing for HIA implementation</p>
+<p>A compendium guide for healthcare providers preparing for HIA implementation,
+issued in parts to provide guidance on NEHR onboarding and access, and
+CS/DS implementation</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from April
 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provides practical guidance on how to implement CS/DS measures, including
-template corporate policies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A simple self-check to make sure the basic cybersecurity and data protection
-measures are in place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HIA Implementation Guide – Part 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A self-assessment tool to assess your current CS/DS posture, identify
-gaps, receive recommended actions</p>
 </td>
 </tr>
 </tbody>
