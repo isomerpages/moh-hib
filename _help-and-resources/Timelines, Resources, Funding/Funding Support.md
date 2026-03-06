@@ -67,7 +67,7 @@ similar grants</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>About 2 years of subscription to a HIMS; or&nbsp;&nbsp;</p>
+<p>About 2 years of subscription to a HIMS; <em><u>or</u></em>&nbsp;&nbsp;</p>
 <p>40% of the cost of enhancing the licensee’s own HIMS.&nbsp; (Refer to
 Grant Quantum table below for details)&nbsp;</p>
 </td>
