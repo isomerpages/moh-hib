@@ -70,8 +70,8 @@ professional standards to adopt when contributing to, accessing or using
 NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from March
-2026</p>
+<p>Stay tuned. Resources will be available at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a> from Mid -
+March 2026</p>
 </td>
 </tr>
 <tr>
