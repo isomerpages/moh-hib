@@ -154,10 +154,10 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </table>
 <p></p>
 <hr>
-<p><sup>1 </sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
-<p><sup>2 </sup>Health Information Management System (HIMS) is the digital
+<p><sup>1</sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
+<p><sup>2</sup>Health Information Management System (HIMS) is the digital
 system that allows healthcare providers to store and manage patient records</p>
-<p><sup>3 </sup>SMEs refer to business registered in Singapore with &lt;$100m
+<p><sup>3</sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
 <h4>NCG Grant Quantum</h4>
 <p>Please refer to the following table for more information on the grant
