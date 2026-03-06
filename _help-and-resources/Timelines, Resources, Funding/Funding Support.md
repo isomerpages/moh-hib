@@ -219,9 +219,8 @@ and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
 <p><strong><u>Details on Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -230,10 +229,6 @@ are in the table below.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NEHR Connect Grant (NCG)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,9 +246,6 @@ are in the table below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Health (MOH)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Enterprise Singapore (EnterpriseSG)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,11 +256,6 @@ are in the table below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>What it is for</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To help licensees enhance their existing Health Information Management
-System<sup>2 </sup>(HIMS) or adopt a HIMS that is able to securely contribute
-to the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
@@ -284,10 +271,6 @@ consultants.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Who is eligible</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR who had not previously received
-similar grants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
@@ -306,10 +289,6 @@ similar grants</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>About 2 years of subscription to a HIMS; or 40% of the cost of enhancing
-the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,9 +301,6 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open from July 2026, in batches</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Now</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,9 +311,6 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>How to apply</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Details will be made available closer to July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a>
