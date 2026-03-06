@@ -18,6 +18,11 @@ description: ""
 <p><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">Second Schedule of the HIA</a>
 </p>
 </li>
+<li>
+<p>Third Schedule* of the HIA (<em>Coming Soon</em>)
+<br><em><sub>*More details on statutory medical examinations allowable for NEHR access will be provided soon. In the meantime, visit the Third Schedule (linked in HIA above) for information.</sub></em>
+</p>
+</li>
 </ul>
 <h1>Key Elements of the HIA</h1>
 <ul data-tight="true" class="tight">
