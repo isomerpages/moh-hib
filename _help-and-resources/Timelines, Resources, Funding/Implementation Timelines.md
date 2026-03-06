@@ -134,13 +134,13 @@ for its use.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Sep 2027&nbsp;</p>
+<p>By September 2027&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Sep 2028&nbsp;</p>
+<p>By September 2028&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By Mar 2030&nbsp;</p>
+<p>By March 2030&nbsp;</p>
 </td>
 </tr>
 </tbody>
