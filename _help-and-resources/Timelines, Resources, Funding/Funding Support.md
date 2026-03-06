@@ -15,6 +15,83 @@ Grant and Early Contribution Incentive Grant, both of which have closed
 applications and were limited to select licensable health sectors. Licensees
 that previously received funding under those grants will not be eligible
 for the NEHR Connect Grant.</p>
+<p><strong><u>Details on the NEHR Connect Grant </u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>NEHR Connect Grant (NCG)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ministry/Agency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health (MOH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>What it is for</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To help licensees enhance their existing Health Information Management
+System<sup>1</sup> (HIMS) or adopt a HIMS that is able to securely contribute
+to the NEHR&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Who is eligible</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All licensees required to contribute to NEHR who had not previously received
+similar grants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Amount of support&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>About 2 years of subscription to a HIMS; or&nbsp;&nbsp;</p>
+<p>40% of the cost of enhancing the licensee’s own HIMS.&nbsp; (Refer to
+Grant Quantum table below for details)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Availability&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open from July 2026, in batches&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>How to apply&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Details will be made available closer to July 2026&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>NCG Grant Quantum</h4>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
@@ -134,29 +211,13 @@ quantum for NCG.</p>
 </tr>
 </tbody>
 </table>
-<p>To illustrate the funding that a solo GP practice would likely receive
-in government grants to onboard NEHR and help meet the HIA cybersecurity
-and data security measures:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NCG funding: fixed quantum of $8,400</p>
-</li>
-<li>
-<p>EnterpriseSG: estimated quantum of $7,500 based on up to 50% co-funding</p>
-</li>
-<li>
-<p>CSA: estimated quantum of $5,800 based on up to 70% co-funding</p>
-</li>
-<li>
-<p>Total: approximately $20,000</p>
-</li>
-</ul>
+<p></p>
 <h4>Other Government Grants</h4>
 <p>Other than the NEHR Connect Grant, licensees will also be able to tap
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
-<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
+<p><strong><u>Details on Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -289,13 +350,36 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
-<p><sup>1</sup>Chief Information Security Officers as-a-Service (CISOaaS)</p>
-<p><sup>2</sup>Health Information Management System (HIMS) is the digital
-system that allows healthcare providers to store and manage patient records</p>
-<p><sup>3</sup>SMEs refer to business registered in Singapore with &lt;$100m
+<p><sup>1</sup>Chief Information Security Officers as-a-Service (CISOaaS)
+<br><sup>2</sup>Health Information Management System (HIMS) is the digital
+system that allows healthcare providers to store and manage patient records
+<br><sup>3</sup>SMEs refer to business registered in Singapore with &lt;$100m
 turnover <strong>OR</strong> &lt;200 employees</p>
+<p>To illustrate the funding that a solo GP practice would likely receive
+in government grants to onboard NEHR and help meet the HIA cybersecurity
+and data security measures:&nbsp;</p>
+<ul>
+<li>
+<p>NCG funding: fixed quantum of $8,400&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>EnterpriseSG: estimated quantum of $7,500 based on up to 50% co-funding&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>CSA: estimated quantum of $5,800 based on up to 70% co-funding&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Total: approximately $20,000&nbsp;</p>
+</li>
+</ul>
+<p></p>
 <h4>Grants for Community Care Organisations and Social Services Agencies</h4>
 <ul data-tight="true" class="tight">
 <li>
