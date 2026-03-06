@@ -30,7 +30,8 @@ these cyber and data security requirements.</p>
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Overview_of_HIA.pdf" rel="noopener nofollow" target="_blank">Overview of HIA</a>
+</p>
 </li>
 </ul>
 <p></p>
