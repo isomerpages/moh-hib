@@ -18,7 +18,7 @@ sections:
           url: /overview/why-the-hia-is-needed/
         - title: Help & Resources
           description: ""
-          url: /implementation-timelines/
+          url: /help-and-resources/guidelines-and-others/
         - title: News & Events
           description: ""
           url: /news-and-events/news-and-feature-articles/
