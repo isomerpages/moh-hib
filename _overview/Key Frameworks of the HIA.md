@@ -20,8 +20,8 @@ for their NEHR access.</p>
 the sharing of prescribed non-NEHR health information within the healthcare
 ecosystem to facilitate community-based care and outreach programmes. This
 is currently only applicable to public healthcare institutions, cluster
-HQs (i.e.&nbsp;National Healthcare Group Pte Ltd, National University Health
-System Pte. Ltd. and Singapore Health Services Pte Ltd), Agency for Integrated
+HQs (i.e. National Healthcare Group Pte Ltd, National University Health
+System Pte Ltd and Singapore Health Services Pte Ltd), Agency for Integrated
 Care Pte Ltd and public agencies.&nbsp;</p>
 <p></p>
 </li>
