@@ -39,8 +39,7 @@ third_nav_title: Timelines, Resources, Funding
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Available now at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a>
-</p>
+<p>Available now</p>
 </td>
 </tr>
 <tr>
