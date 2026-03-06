@@ -108,7 +108,7 @@ previously.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>When healthcare providers can start accessing NEHR</strong>
 </p>
 </td>
@@ -120,12 +120,6 @@ previously.</p>
 <td rowspan="1" colspan="3">
 <p>Healthcare providers&nbsp;who&nbsp;wish to access&nbsp;can start applying
 for access now.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Any user accessing NEHR must comply with the restrictions and conditions
-for its use.</p>
 </td>
 </tr>
 <tr>
