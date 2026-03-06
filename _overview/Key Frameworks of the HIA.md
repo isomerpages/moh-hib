@@ -11,23 +11,22 @@ outcomes. The Act governs:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>National Electronic Health Record (NEHR) Contribution and Access</strong>:
-The HIA requires all licensed healthcare providers under the Healthcare
-Services Act (HCSA) and retail pharmacies under the Health Products Act
+The HIA will require all licensed healthcare providers and retail pharmacies
 to contribute key health information of Singaporeans, Permanent Residents
 and patients with long-term immigration passes to the NEHR system and provides
 for their NEHR access.</p>
 </li>
 <li>
-<p><strong>Sharing of Non-NEHR Health Information</strong>: The HIA enables
-the sharing of prescribed non-NEHR health information within the healthcare
-ecosystem to facilitate community-based care and outreach programmes. This
-is currently only applicable to public healthcare institutions, cluster
-HQs (i.e.&nbsp;National Healthcare Group Pte Ltd, National University Health
-System Pte. Ltd. and Singapore Health Services Pte Ltd), Agency for Integrated
-Care Pte Ltd and public agencies.</p>
+<p><strong>Sharing of Non-NEHR Health Information</strong>: The HIA will
+enable the sharing of prescribed non-NEHR health information within the
+healthcare ecosystem to facilitate community-based care. This is currently
+only applicable to public healthcare institutions, cluster HQs (i.e.&nbsp;National
+Healthcare Group Pte Ltd, National University Health System Pte. Ltd. and
+Singapore Health Services Pte Ltd), Agency for Integrated Care Pte Ltd
+and public agencies.</p>
 </li>
 <li>
-<p><strong>Cybersecurity and Data Security (CS/DS) Measures</strong>: Licensed
+<p><strong>Cybersecurity and Data Security (CSDS) Measures</strong>: Licensed
 healthcare providers, retail pharmacies, approved users of the NEHR and
 Health Information Management System (HIMS) providers must implement reasonable
 security measures to protect health information and systems and meet cybersecurity
