@@ -38,7 +38,7 @@ third_nav_title: Timelines, Resources, Funding
 <td rowspan="1" colspan="1">
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Available now <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
@@ -54,10 +54,6 @@ third_nav_title: Timelines, Resources, Funding
 <td rowspan="1" colspan="1">
 <p>Guidance on security measures to put in place for the proper storage,
 access, use and sharing of health information</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available now <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here</a>
-</p>
 </td>
 </tr>
 <tr>
