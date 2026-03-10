@@ -11,11 +11,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">First Schedule of the HIA</a>
+<p><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">First Schedule of the HIA </a>- <em>Specified Contributors &amp; Types of Health Information to be Contributed</em>
 </p>
 </li>
 <li>
-<p><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">Second Schedule of the HIA</a>
+<p><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">Second Schedule of the HIA </a>- <em>Access and Collection of Accessible Health Information</em>
 </p>
 </li>
 <li>
