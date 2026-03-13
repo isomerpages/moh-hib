@@ -38,7 +38,7 @@ third_nav_title: Timelines, Resources, Funding
 <td rowspan="1" colspan="1">
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Available <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here </a>now</p>
 </td>
 </tr>
@@ -67,9 +67,6 @@ access, use and sharing of health information</p>
 <p>Practical guidance and examples on core ethical principles and reasonable
 professional standards to adopt when contributing to, accessing or using
 NEHR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available from Mid - March 2026</p>
 </td>
 </tr>
 <tr>
