@@ -46,8 +46,6 @@ third_nav_title: Timelines, Resources, Funding
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <p>Available <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here </a>now</p>
 </td>
 </tr>
