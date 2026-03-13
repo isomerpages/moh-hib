@@ -27,7 +27,7 @@ Health Record (NEHR)" provide healthcare professionals and other authorised
 users with guidance on using NEHR to support healthcare service delivery.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/NEHR_Guidelines_March_2026.pdf" rel="noopener nofollow" target="_blank">NEHR Guidelines (March 2026)</a>
+<p><a href="/files/NEHR_Guidelines_March_2026.pdf" rel="noopener nofollow" target="_blank">Guidelines on Appropriate Contribution, Use and Access to National Electronic Health Record (NEHR)</a>
 </p>
 </li>
 </ul>
