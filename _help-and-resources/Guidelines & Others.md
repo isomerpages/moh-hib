@@ -20,11 +20,11 @@ these cyber and data security requirements.</p>
 <p><em>Note: The CS/DS Essentials replace the Cyber and Data Security Guidelines for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity Essentials (HCSE) (issued in August 2021)</em>
 </p>
 <h2>Guidelines on Appropriate Contribution, Use and Access to NEHR</h2>
-<p>The Health Information Act (HIA) regulates the access and collection of
-health information from the National Electronic Health Record (NEHR).&nbsp;
-The NEHR Guidelines on Appropriate Contribution, Use and Access provide
-healthcare professionals and other authorised users with guidance on using
-NEHR to support healthcare service delivery.</p>
+<p>The Health Information Act regulates the access and collection of health
+information from the National Electronic Health Record (NEHR).&nbsp; The
+"Guidelines on Appropriate Contribution, Use and Access to National Electronic
+Health Record (NEHR)" provide healthcare professionals and other authorised
+users with guidance on using NEHR to support healthcare service delivery.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/NEHR_Guidelines_March_2026.pdf" rel="noopener nofollow" target="_blank">NEHR Guidelines (March 2026)</a>
