@@ -21,7 +21,7 @@ sections:
           url: /implementation-timelines/
         - title: News & Events
           description: ""
-          url: /news-and-events/news-and-feature-articles/
+          url: /news-and-events/circulars/
       background: /images/shutterstock_15283585__4_.jpg
   - infopic:
       title: Contributing Data to NEHR for Better Care
