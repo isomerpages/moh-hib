@@ -50,6 +50,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Guidelines on Appropriate Contribution, Use and Access to National
+            Electronic Health Record (NEHR)
+          date: 16 March 2026
+          announcement: MOH has updated the Guidelines on Appropriate Contribution, Use
+            and Access to National Electronic Health Record (NEHR) to provide
+            clearer guidance to HCSA licensses and healthcare professionals.
+          link_text: Guidelines on Appropriate Contribution, Use and Access to National
+            Electronic Health Record (NEHR) (March 2026)
+          link_url: https://www.healthinfo.gov.sg/files/Guidelines_on_Appropriate_Contribution__Use_and_Access_to_National_Electronic_Health_Record__NEHR__March_2026.pdf
         - title: Health Information Bill (HIB) – Second Reading
           date: 12 January 2026
           announcement: The Health Information Bill (HIB) was read a second time and
