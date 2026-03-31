@@ -39,7 +39,7 @@ third_nav_title: Timelines, Resources, Funding
 <p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Available <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here </a>now</p>
+<p>Available <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here</a> now</p>
 </td>
 </tr>
 <tr>
