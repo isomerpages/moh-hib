@@ -24,7 +24,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Mar 2026</p>
+<p>6 Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overview and Implementation of the Health Information Act (HIA)</p>
