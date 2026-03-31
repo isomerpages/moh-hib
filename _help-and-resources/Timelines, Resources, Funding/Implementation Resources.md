@@ -82,7 +82,7 @@ NEHR</p>
 bite-sized and manageable content</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available from 2H March 2026</p>
+<p>Stay tuned.</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ bite-sized and manageable content</p>
 settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Details will be available by 2H March 2026</p>
+<p>Stay tuned.</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ issued in parts to provide guidance on NEHR onboarding and access, and
 CS/DS implementation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned. Resources will be available from Early April 2026</p>
+<p>Stay tuned.</p>
 </td>
 </tr>
 </tbody>
