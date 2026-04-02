@@ -145,7 +145,7 @@ accordance with established guidelines. Additional training options from
 other providers will be made available progressively.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>&nbsp;</em></strong><a href="https://www.ntuclearninghub.com/en-gb/-/course/health-information-act-cyber-and-data-security-essentials-for-healthcare-professionals-sf" rel="noopener nofollow" target="_blank">Cyber &amp; Data Security Training Course for Healthcare Providers</a>
+<p><strong><em>&nbsp;</em></strong><a href="https://www.ntuclearninghub.com/en-gb/-/course/health-information-act-cyber-and-data-security-essentials-for-healthcare-professionals-sf" rel="noopener nofollow" target="_blank">Cyber &amp; Data Security Training Course</a>
 </p>
 </li>
 </ul>
