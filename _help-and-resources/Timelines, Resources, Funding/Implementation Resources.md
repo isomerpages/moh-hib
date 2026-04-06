@@ -98,7 +98,8 @@ bite-sized and manageable content</p>
 settings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stay tuned.</p>
+<p>Refer to the section "Cybersecurity and Data Security Training Course
+for Healthcare Settings" below.</p>
 </td>
 </tr>
 <tr>
