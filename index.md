@@ -50,6 +50,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Upcoming Health Information Act (HIA) Townhall for Outpatient Medical
+            Service (OMS) Licensees
+          date: 06 April 2026
+          announcement: MOH and Agency for Integrated Care (AIC) invite Outpatient Medical
+            Service (OMS) Licensees to join the Health Information Act (HIA)
+            Webinars that will take place on 14 April and 12 May 2026 via Zoom.
+          link_text: Upcoming & Past Events
+          link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: Guidelines on Appropriate Contribution, Use and Access to National
             Electronic Health Record (NEHR)
           date: 16 March 2026
