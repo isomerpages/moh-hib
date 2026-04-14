@@ -154,13 +154,7 @@ other providers will be made available progressively.</p>
 </p>
 <p><em>This course is developed by NTUC LearningHub independently. Ministry of Health (MOH) was consulted but is not responsible for the content of the training.</em>  <em>MOH does not endorse or recommend any training organisation, individual, product, process, or service, including those referenced in the training course or related materials. MOH makes no representations or warranties as to the accuracy, completeness or quality of the work or training services of any training organisation or individual. Healthcare providers are advised conduct their own due diligence and exercise independent judgment in selecting training providers that best meet their needs.</em>
 </p>
-<h2><strong>Circulars</strong></h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/MOH_Cir_No_13_2025_Clarifications_on_the_Implementation_Support_Measures_for_the_Proposed_Health_Information_Bill.pdf" rel="noopener nofollow" target="_blank">MOH Cir No 13 2025 Clarifications on the Implementation Support Measures for the Proposed HIB</a>
-</p>
-</li>
-</ul>
+<h2></h2>
 <p></p>
 <p></p>
 <p></p>
