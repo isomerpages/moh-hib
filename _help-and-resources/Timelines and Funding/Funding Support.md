@@ -3,10 +3,10 @@ title: Funding Support
 permalink: /funding-support/
 variant: tiptap
 description: ""
-third_nav_title: Timelines, Resources, Funding
+third_nav_title: Timelines and Funding
 ---
-<h2><strong>Funding Support for Healthcare Providers</strong></h2>
-<h4>National Electronic Health Record (NEHR) Connect Grant</h4>
+<h1><strong>Funding Support for Healthcare Providers</strong></h1>
+<h4><strong>National Electronic Health Record (NEHR) Connect Grant</strong></h4>
 <p>The NEHR Connect Grant will cover all licensees required to contribute
 to NEHR under the Health Information Act (HIA), including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
@@ -19,8 +19,7 @@ for the NEHR Connect Grant.</p>
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
-<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
-</p>
+<h4><strong>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -75,11 +74,17 @@ contribute to the NEHR</p>
 <td rowspan="1" colspan="1">
 <p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
 (E.g. firewall, antivirus software)</p>
+<p></p>
+<p></p>
+<p>*For more info:&nbsp;<a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
 (CS/DS) requirements by subsidising the cost of hiring qualified CS/DS
-consultants.</p>
+consultants.
+<br>*For more info: <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">CISOaaS for HIA CS/DS</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,12 +99,14 @@ similar grants</p>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
 </p>
-<p>More details:&nbsp;<a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
-</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -158,7 +165,7 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 system that allows healthcare providers to store and manage patient records
 <br><sup>3</sup>SMEs refer to business registered in Singapore with <strong>≤S$100m turnover OR ≤200 employees</strong>
 </p>
-<h4>NCG Grant Quantum</h4>
+<h4><strong>NCG Grant Quantum</strong></h4>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
 <p><strong><u>NCG Grant Quantum by Service Types</u></strong>
@@ -294,7 +301,7 @@ and data security measures:</p>
 <p>Total: approximately $20,000</p>
 </li>
 </ul>
-<h4>Grants for Community Care Organisations and Social Services Agencies</h4>
+<h4><strong>Grants for Community Care Organisations and Social Services Agencies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>

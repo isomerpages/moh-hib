@@ -3,9 +3,9 @@ title: Implementation Timelines
 permalink: /implementation-timelines/
 variant: tiptap
 description: ""
-third_nav_title: Timelines, Resources, Funding
+third_nav_title: Timelines and Funding
 ---
-<h2><strong>Implementation Timelines for Healthcare Providers</strong></h2>
+<h1><strong>Implementation Timelines for Healthcare Providers</strong></h1>
 <p>Under the Health Information Act, licensed healthcare service providers
 will need to contribute key health information to the National Electronic
 Health Record (NEHR) and comply with cybersecurity and data security requirements.
@@ -13,8 +13,7 @@ The implementation timelines will be phased as shown below, to enable patients
 to benefit from the data sharing and security measures as soon as possible,
 while taking into consideration the varying levels of readiness of the
 different sectors and complexity of the data types to be contributed.</p>
-<p><strong><u>Batched Implementation Timelines</u></strong>
-</p>
+<h4><strong><u>Batched Implementation Timelines</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -136,11 +135,14 @@ for access now.</p>
 </tr>
 </tbody>
 </table>
-<p><em>[Note: For licensees providing multiple service types, NEHR contribution requirements apply according to each service's respective implementation timeline.]</em>
+<p><em>[Note: For healthcare providers providing multiple service types, NEHR contribution and CS/DS requirements apply according to each service's respective implementation timeline.]</em>
 </p>
-<p>&nbsp;<strong>For Other HCSA Licensees and Approved Users of NEHR</strong>:
-HCSA licensees not listed in&nbsp;the above table, which include cord blood
-banking, human tissue banking, emergency ambulance, and medical transport
+<h4><strong>For Other HCSA Licensees and Approved Users of NEHR</strong>:</h4>
+<p>HCSA licensees not listed in&nbsp;the above table, which include cord
+blood banking, human tissue banking, emergency ambulance, and medical transport
 services, are not required to contribute to NEHR, but need to implement
-the cyber and data security measures by September 2028.</p>
+the cyber and data security measures by September 2028.
+<br>
+<br>
+</p>
 <p></p>
