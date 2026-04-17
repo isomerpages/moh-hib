@@ -36,6 +36,15 @@ third_nav_title: Implementation Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HIA Implementation Guide (April 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Click here</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Cybersecurity and Data Security Essentials for Healthcare Providers</p>
 <ul data-tight="true" class="tight">
 <li>
