@@ -10,13 +10,13 @@ third_nav_title: Implementation Resources
 the Health Information Act (HIA) requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Current Release:</strong> Click <a href="/files/HIA_Starter_Kit_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<p><strong>Current Release:</strong> Click <a href="/files/HIA_Starter_Kit_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
 <p><strong>Upcoming Release:</strong> Chapters 3B onwards will include practical
 implementation guidance, corporate policy templates, and sample clauses
-(May 2026)</p>
+(<em>Coming soon in May 2026</em>)</p>
 </li>
 </ul>
 <h2><strong>Cybersecurity and Data Security Essentials for Healthcare Providers</strong></h2>
