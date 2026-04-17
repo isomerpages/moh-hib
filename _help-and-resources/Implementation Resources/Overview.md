@@ -22,7 +22,7 @@ third_nav_title: Implementation Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 March 2026 MOH Circular on the</p>
+<p>6 March 2026 MOH Circular</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Overview and Implementation of the Health Information Act (HIA)</p>
