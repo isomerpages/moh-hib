@@ -10,7 +10,7 @@ third_nav_title: Implementation Resources
 the Health Information Act (HIA) requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Current Release:</strong> Click <a href="/files/HIA_Starter_Kit_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>
+<p><strong>Current Release:</strong> Click <a href="/files/HIA_Starter_Kit_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
