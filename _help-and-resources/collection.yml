@@ -2,9 +2,9 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Guidelines & Others/Guidelines & Resources.md
-      - Guidelines & Others/Implementation Resources.md
       - Guidelines & Others/.keep
+      - Guidelines & Others/Implementation Resources.md
+      - Guidelines & Others/Guidelines & Resources.md
       - Timelines & Funding/.keep
       - Timelines & Funding/Implementation Timelines.md
       - Timelines & Funding/Funding Support.md
