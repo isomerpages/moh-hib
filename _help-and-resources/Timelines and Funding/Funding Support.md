@@ -75,11 +75,17 @@ contribute to the NEHR</p>
 <td rowspan="1" colspan="1">
 <p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
 (E.g. firewall, antivirus software)</p>
+<p></p>
+<p></p>
+<p>*For more info:&nbsp;<a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
 (CS/DS) requirements by subsidising the cost of hiring qualified CS/DS
-consultants.</p>
+consultants.
+<br>*For more info: <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">CISOaaS for HIA CS/DS</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,12 +100,14 @@ similar grants</p>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
 </p>
-<p>More details:&nbsp;<a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
-</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
