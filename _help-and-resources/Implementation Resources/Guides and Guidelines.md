@@ -1,6 +1,6 @@
 ---
 title: Guides and Guidelines
-permalink: /guidelines-others/
+permalink: /guides-guidelines/
 variant: tiptap
 description: ""
 third_nav_title: Implementation Resources
@@ -10,7 +10,7 @@ third_nav_title: Implementation Resources
 the Health Information Act (HIA) requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Current Release:</strong> Click <a href="/files/HIA_Imple_Guide_Release_1.pdf" rel="noopener nofollow" target="_blank">he</a><a href="/files/HIA_Imple_Guide_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">re</a>
+<p><strong>Current Release:</strong> Click <a href="/files/HIA_Imple_Guide_Release_1.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
