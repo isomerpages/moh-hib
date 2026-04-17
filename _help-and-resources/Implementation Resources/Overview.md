@@ -75,6 +75,16 @@ with the NEHR</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>List of all organisations and institutions that participate in the National
+Electronic Health Record System (NEHR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moh.gov.sg/institutions-participating-in-the-national-electronic-health-record-system-nehr/" rel="noopener nofollow" target="_blank">Institutions Participating in the National Electronic Health Record System (NEHR) | Ministry of Health</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Synapxe - connect NEHR website</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -90,16 +100,6 @@ with the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Index.aspx" rel="noopener nofollow" target="_blank">Home | Connect to NEHR</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>List of all organisations and institutions that participate in the National
-Electronic Health Record System (NEHR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moh.gov.sg/institutions-participating-in-the-national-electronic-health-record-system-nehr/" rel="noopener nofollow" target="_blank">Institutions Participating in the National Electronic Health Record System (NEHR) | Ministry of Health</a>
 </p>
 </td>
 </tr>
