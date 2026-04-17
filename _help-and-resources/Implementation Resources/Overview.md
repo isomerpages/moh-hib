@@ -39,7 +39,7 @@ third_nav_title: Implementation Resources
 <p>HIA Implementation Guide (April 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Click </em><a href="/guidelines-others/" rel="noopener nofollow" target="_blank">here</a>
+<p>Click<em> </em><a href="/files/HIA_Imple_Guide_Release_1.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
