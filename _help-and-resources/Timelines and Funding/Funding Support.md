@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Timelines and Funding
 ---
-<h2><strong>Funding Support for Healthcare Providers</strong></h2>
-<h3>National Electronic Health Record (NEHR) Connect Grant</h3>
+<h1><strong>Funding Support for Healthcare Providers</strong></h1>
+<h4><strong>National Electronic Health Record (NEHR) Connect Grant</strong></h4>
 <p>The NEHR Connect Grant will cover all licensees required to contribute
 to NEHR under the Health Information Act (HIA), including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
@@ -19,7 +19,7 @@ for the NEHR Connect Grant.</p>
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
-<h4><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong></h4>
+<h4><strong>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -165,7 +165,7 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 system that allows healthcare providers to store and manage patient records
 <br><sup>3</sup>SMEs refer to business registered in Singapore with <strong>≤S$100m turnover OR ≤200 employees</strong>
 </p>
-<h4>NCG Grant Quantum</h4>
+<h4><strong>NCG Grant Quantum</strong></h4>
 <p>Please refer to the following table for more information on the grant
 quantum for NCG.</p>
 <p><strong><u>NCG Grant Quantum by Service Types</u></strong>
@@ -301,7 +301,7 @@ and data security measures:</p>
 <p>Total: approximately $20,000</p>
 </li>
 </ul>
-<h4>Grants for Community Care Organisations and Social Services Agencies</h4>
+<h4><strong>Grants for Community Care Organisations and Social Services Agencies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
