@@ -5,13 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Implementation Resources
 ---
-<h2>HIA Implementation Guide (April 2026)</h2>
+<h2><strong>HIA Implementation Guide (April 2026)</strong></h2>
+<p>This Implementation Guide supports healthcare providers in preparing for
+the Health Information Act (HIA) requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coming Soon</p>
+<p><strong>Current Release:</strong> Click <a href="/files/HIA_Starter_Kit_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+</p>
+</li>
+<li>
+<p><strong>Upcoming Release:</strong> Chapters 3B onwards will include practical
+implementation guidance, corporate policy templates, and sample clauses
+(May 2026)</p>
 </li>
 </ul>
-<h2>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
+<h2><strong>Cybersecurity and Data Security Essentials for Healthcare Providers</strong></h2>
 <p>The Cybersecurity and Data Security (CS/DS) Essentials set out cyber and
 data security requirements for healthcare providers managing and processing
 health information pursuant to the Health Information Act (HIA).</p>
@@ -26,7 +34,7 @@ these cyber and data security requirements.</p>
 </ul>
 <p><em>Note: The CS/DS Essentials replace the Cyber and Data Security Guidelines for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity Essentials (HCSE) (issued in August 2021)</em>
 </p>
-<h2>Guidelines on Appropriate Contribution, Use and Access to NEHR</h2>
+<h2><strong>Guidelines on Appropriate Contribution, Use and Access to NEHR</strong></h2>
 <p>The Health Information Act regulates the access and collection of health
 information from the National Electronic Health Record (NEHR).&nbsp; The
 "Guidelines on Appropriate Contribution, Use and Access to National Electronic
@@ -38,7 +46,7 @@ users with guidance on using NEHR to support healthcare service delivery.</p>
 </p>
 </li>
 </ul>
-<h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
+<h2><strong>Guidelines for Health Information Management System (HIMS) Providers</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.healthinfo.gov.sg/files/Code_of_Practice_for_Data_Portability__Feb2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Code of Practice for Data Portability (Feb 2026)</u></a>
