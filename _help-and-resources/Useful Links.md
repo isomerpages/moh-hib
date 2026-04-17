@@ -4,33 +4,6 @@ permalink: /help-and-resources/useful-links/
 variant: tiptap
 description: ""
 ---
-<h1>Health Information Act (HIA)</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/Acts-Supp/1-2026/Published/20260212?DocDate=20260212" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">First Schedule of the HIA </a>- <em>Specified Contributors &amp; Types of Health Information to be Contributed</em>
-</p>
-</li>
-<li>
-<p><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener nofollow" target="_blank">Second Schedule of the HIA </a>- <em>Access and Collection of Accessible Health Information</em>
-</p>
-</li>
-<li>
-<p>Third Schedule* of the HIA (<em>Coming Soon</em>)
-<br><em><sub>*More details on statutory medical examinations allowable for NEHR access will be provided soon. In the meantime, visit the Third Schedule (linked in HIA above) for information.</sub></em>
-</p>
-</li>
-</ul>
-<h1>Key Elements of the HIA</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Infographic_Key_Elements_of_the_HIA_2_0.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
-</p>
-</li>
-</ul>
 <h1>HSA Guidelines</h1>
 <ul data-tight="true" class="tight">
 <li>
