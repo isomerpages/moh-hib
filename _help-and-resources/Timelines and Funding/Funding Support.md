@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Timelines and Funding
 ---
 <h2><strong>Funding Support for Healthcare Providers</strong></h2>
-<h4>National Electronic Health Record (NEHR) Connect Grant</h4>
+<h3>National Electronic Health Record (NEHR) Connect Grant</h3>
 <p>The NEHR Connect Grant will cover all licensees required to contribute
 to NEHR under the Health Information Act (HIA), including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
@@ -19,8 +19,7 @@ for the NEHR Connect Grant.</p>
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
-<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
-</p>
+<h4><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
