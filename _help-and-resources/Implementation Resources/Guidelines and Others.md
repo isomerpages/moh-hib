@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Implementation Resources
 ---
-<h2>HIA Implementation Guide (April 2026)<br><br>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
+<h2>HIA Implementation Guide (April 2026)</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>Coming Soon</p>
+</li>
+</ul>
+<h2>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
 <p>The Cybersecurity and Data Security (CS/DS) Essentials set out cyber and
 data security requirements for healthcare providers managing and processing
 health information pursuant to the Health Information Act (HIA).</p>
