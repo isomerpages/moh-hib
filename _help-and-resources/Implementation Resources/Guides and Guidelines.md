@@ -15,7 +15,7 @@ the Health Information Act (HIA) requirements.</p>
 </li>
 <li>
 <p><strong>Upcoming Release:</strong> Chapters 3B will include practical implementation
-guidance, corporate policy templates, and sample clauses to support CS/DS
+guidance, corporate policy templates and sample clauses to support CS/DS
 implementation (<em>Coming soon in May 2026</em>)</p>
 </li>
 </ul>
