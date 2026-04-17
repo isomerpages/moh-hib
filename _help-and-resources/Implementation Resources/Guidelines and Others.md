@@ -5,155 +5,47 @@ variant: tiptap
 description: ""
 third_nav_title: Implementation Resources
 ---
-<h2><strong>Overview of Implementation Resources</strong></h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Resource</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Purpose</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Availability</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Overview of HIA</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key Information for Healthcare Providers and Healthcare Professionals</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Available <a href="https://www.healthinfo.gov.sg/help-and-resources/guidelines-and-others/" rel="noopener nofollow" target="_blank">here</a> now</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>CS/DS Essentials</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Guidance on security measures to put in place for the proper storage,
-access, use and sharing of health information</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Guidelines on appropriate contribution, use and access to NEHR</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Practical guidance and examples on core ethical principles and reasonable
-professional standards to adopt when contributing to, accessing or using
-NEHR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>CS/DS Infographics</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thematic infographics explaining cybersecurity and data security measures&nbsp;in
-bite-sized and manageable content</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>Training Course</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Training course on cybersecurity and data security tailored for healthcare
-settings</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Refer to the section "Cybersecurity and Data Security Training Course
-for Healthcare Settings" below.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p>HIA Implementation Guide</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>A compendium guide for healthcare providers preparing for HIA implementation,
-issued in parts to provide guidance on NEHR onboarding and access, and
-CS/DS implementation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stay tuned.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2><strong>Cybersecurity and Data Security Providers</strong></h2>
-<p>In today’s digital landscape, cybersecurity and data security are paramount
-for organisations of all sizes. Healthcare providers will accordingly be
-required to comply with cyber and data security requirements under the
-HIA, including the Cybersecurity and Data Security (CS/DS) Essentials.
-For assistance with implementing the necessary security measures, healthcare
-organisations may wish to approach any of the CS/DS providers in the list
-linked below.</p>
+<h2>Cybersecurity and Data Security Essentials for Healthcare Providers</h2>
+<p>The Cybersecurity and Data Security (CS/DS) Essentials set out cyber and
+data security requirements for healthcare providers managing and processing
+health information pursuant to the Health Information Act (HIA).</p>
+<p>MOH will also be issuing further guidance and resources (such as self-help
+guide, infographics, checklists) to help healthcare providers in understanding
+these cyber and data security requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a>
+<p><a href="https://www.healthinfo.gov.sg/files/CYBERSECURITY_AND_DATA_SECURITY_ESSENTIALS.pdf" rel="noopener nofollow" target="_blank"><u>Cybersecurity and Data Security Essentials</u></a>
 </p>
 </li>
 </ul>
-<p><em>Note 1: Updated in February 2026</em>
-<br>
-<br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CS/DS provider. For avoidance of doubt, organisations are also free to approach any other CS/DS providers which are not included in the list, which has only been provided for reference.</em>
+<p><em>Note: The CS/DS Essentials replace the Cyber and Data Security Guidelines for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity Essentials (HCSE) (issued in August 2021)</em>
 </p>
-<h2><strong>Cybersecurity and Data Security Training Course for Healthcare Settings</strong></h2>
-<p>This course serves as a supportive resource for healthcare providers seeking
-to understand and implement cybersecurity and data security practices in
-accordance with established guidelines. Additional training options from
-other providers will be made available progressively.</p>
+<h2>Guidelines on Appropriate Contribution, Use and Access to NEHR</h2>
+<p>The Health Information Act regulates the access and collection of health
+information from the National Electronic Health Record (NEHR).&nbsp; The
+"Guidelines on Appropriate Contribution, Use and Access to National Electronic
+Health Record (NEHR)" provide healthcare professionals and other authorised
+users with guidance on using NEHR to support healthcare service delivery.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>&nbsp;</em></strong><a href="https://www.ntuclearninghub.com/en-gb/-/course/health-information-act-cyber-and-data-security-essentials-for-healthcare-professionals-sf" rel="noopener nofollow" target="_blank">Cyber &amp; Data Security Training Course</a>
+<p><a href="https://www.healthinfo.gov.sg/files/Guidelines_on_Appropriate_Contribution__Use_and_Access_to_National_Electronic_Health_Record__NEHR__March_2026.pdf" rel="noopener nofollow" target="_blank"><u>Guidelines on Appropriate Contribution, Use and Access to National Electronic Health Record (NEHR) (March 2026)</u></a>
 </p>
 </li>
 </ul>
-<p><em>Note: This course is provided as an optional educational resource to support healthcare providers in their understanding of cybersecurity and data security requirements. Participation is entirely voluntary.</em>
+<h2>Guidelines for Health Information Management System (HIMS) Providers</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.healthinfo.gov.sg/files/Code_of_Practice_for_Data_Portability__Feb2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Code of Practice for Data Portability (Feb 2026)</u></a>
 </p>
-<p><em>This course is developed by NTUC LearningHub independently. Ministry of Health (MOH) was consulted but is not responsible for the content of the training.</em>  <em>MOH does not endorse or recommend any training organisation, individual, product, process, or service, including those referenced in the training course or related materials. MOH makes no representations or warranties as to the accuracy, completeness or quality of the work or training services of any training organisation or individual. Healthcare providers are advised conduct their own due diligence and exercise independent judgment in selecting training providers that best meet their needs.</em>
+</li>
+</ul>
+<h2>Key Information for Healthcare Providers and Healthcare Professionals</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.healthinfo.gov.sg/files/March_2026___Key_Information_for_Healthcare_Providers_and_Healthcare_Professionals.pdf" rel="noopener nofollow" target="_blank"><u>Key Information for Healthcare Providers and Healthcare Professionals</u></a>
 </p>
+</li>
+</ul>
 <h2></h2>
 <p></p>
 <p></p>
