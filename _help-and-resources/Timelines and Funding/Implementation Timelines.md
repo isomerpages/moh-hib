@@ -136,9 +136,9 @@ for access now.</p>
 </tr>
 </tbody>
 </table>
-<p><em>[Note: For licensees providing multiple service types, NEHR contribution requirements apply according to each service's respective implementation timeline.]</em>
+<p><em>[Note: For healthcare providers providing multiple service types, NEHR contribution and CS/DS requirements apply according to each service's respective implementation timeline.]</em>
 </p>
-<p>&nbsp;<strong>For Other HCSA Licensees and Approved Users of NEHR</strong>:
+<p><strong>For Other HCSA Licensees and Approved Users of NEHR</strong>:
 HCSA licensees not listed in&nbsp;the above table, which include cord blood
 banking, human tissue banking, emergency ambulance, and medical transport
 services, are not required to contribute to NEHR, but need to implement
