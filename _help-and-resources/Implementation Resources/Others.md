@@ -26,9 +26,8 @@ linked below.</p>
 </p>
 </li>
 </ul>
-<p><em>Note 1: Updated in February 2026</em>
-<br>
-<br><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CS/DS provider. For avoidance of doubt, organisations are also free to approach any other CS/DS providers which are not included in the list, which has only been provided for reference.</em>
+<p><u>Note 1</u><em>: Updated in February 2026</em>
+<br><u>Note 2</u><em>: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CS/DS provider. For avoidance of doubt, organisations are also free to approach any other CS/DS providers which are not included in the list, which has only been provided for reference.</em>
 </p>
 <h2><strong>Cybersecurity and Data Security Training Course for Healthcare Settings</strong></h2>
 <p>This course serves as a supportive resource for healthcare providers seeking
