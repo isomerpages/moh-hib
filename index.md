@@ -50,6 +50,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: HIA Implementation Guide (Part 1)
+          date: 17 April 2026
+          announcement: This Implementation Guide supports healthcare providers in
+            preparing for the Health Information Act (HIA) requirements.
+          link_text: Guides and Guidelines
+          link_url: https://www.healthinfo.gov.sg/files/HIA_Imple_Guide_Release_1.pdf
         - title: Upcoming Health Information Act (HIA) Townhall for Outpatient Medical
             Service (OMS) Licensees
           date: 06 April 2026
