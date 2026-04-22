@@ -85,7 +85,7 @@ Electronic Health Record System (NEHR)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Synapxe - connect NEHR website</p>
+<p>Synapxe - ConnectNEHR website</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National Electronic Health Record (NEHR) - Frequently Asked Questions</p>
