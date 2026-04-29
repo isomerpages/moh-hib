@@ -304,10 +304,6 @@ and data security measures:</p>
 <h4><strong>Grants for Community Care Organisations and Social Services Agencies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.aic.sg/partners/digital-transformation-plan" rel="noopener noreferrer nofollow" target="_blank">Community Care Digital Transformation Plan (CCDTP)</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.ncss.gov.sg/grants/organisation-development/transformation-sustainability-scheme/?gad_source=1&amp;gad_campaignid=23079007175&amp;gbraid=0AAAAA9i01ozgcjj6_CZldxltL87Hrtgr2&amp;gclid=EAIaIQobChMI-tHSt5SAkwMVQBCiAx1C9C3hEAAYASAAEgJSUvD_BwE" rel="noopener noreferrer nofollow" target="_blank">Transformation Sustainability Scheme</a>
 </p>
 </li>
