@@ -50,8 +50,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Upcoming HIA Townhall for Clinical Laboratory, Nuclear Medicine Services
-            and Radiological Services
+        - title: Upcoming HIA Townhall for Clinical Laboratory, Nuclear Medicine and
+            Radiological Services
           date: 14 May 2026
           announcement: MOH invites Clinical Laboratory, Nuclear Medicine and Radiological
             Service licensees to join the Health Information Act (HIA) Webinar
