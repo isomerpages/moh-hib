@@ -51,6 +51,10 @@ to 4:30pm</p>
 </th>
 <th rowspan="2" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p><a href="/files/20260430_HIA_Presentation_Deck.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -77,4 +81,5 @@ to 4:30pm</p>
 </tbody>
 </table>
 <p>For more information or clarifications, please write in to <a href="https://form.gov.sg/67fe04f959e288023c668e58" rel="noopener noreferrer nofollow" target="_blank"><u>HIA Enquiries / Feedback Form | FormSG</u></a><u>.</u>
+<a href="/files/20260430_HIA_Presentation_Deck.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
