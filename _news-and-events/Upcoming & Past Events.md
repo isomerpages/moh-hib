@@ -42,8 +42,7 @@ to 4:30pm</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>SMA Health Information Act (HIA) Webinar</strong>
-</p>
+<p>SMA Health Information Act (HIA) Webinar</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>28 March 2026</strong>
@@ -59,8 +58,7 @@ to 4:30pm</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>MOH - AIC HIA Webinar for OMS Licensees</strong>
-</p>
+<p>MOH - AIC HIA Webinar for OMS Licensees</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>14 April 2026</strong>
