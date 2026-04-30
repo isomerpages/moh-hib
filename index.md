@@ -50,6 +50,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Upcoming HIA Townhall for Clinical Laboratory, Nuclear Medicine Services
+            and Radiological Services
+          date: 14 May 2026
+          announcement: MOH invites Clinical Laboratory, Nuclear Medicine and Radiological
+            Service licensees to join the Health Information Act (HIA) Webinar
+            that will take place on 14 May 2026, 2:30pm to 4:30pm via Zoom
+          link_text: Upcoming & Past Events
+          link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
@@ -61,7 +69,7 @@ sections:
           date: 06 April 2026
           announcement: MOH and Agency for Integrated Care (AIC) invite Outpatient Medical
             Service (OMS) Licensees to join the Health Information Act (HIA)
-            Webinars that will take place on 12 May 2026 via Zoom.
+            Webinar that will take place on 12 May 2026 via Zoom.
           link_text: Upcoming & Past Events
           link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: Guidelines on Appropriate Contribution, Use and Access to National
