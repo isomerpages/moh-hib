@@ -87,19 +87,6 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>For more information or clarifications, please write in to <a href="https://form.gov.sg/67fe04f959e288023c668e58" rel="noopener noreferrer nofollow" target="_blank"><u>HIA Enquiries / Feedback Form | FormSG</u></a><u>.</u>
-<a href="/files/20260430_HIA_Presentation_Deck.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
-</p>
+<p></p>
