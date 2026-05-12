@@ -83,7 +83,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>14 April 2026</strong>
+<p><strong>14 April 2026 &amp; 12 May 2026</strong>
 </p>
 </td>
 </tr>
