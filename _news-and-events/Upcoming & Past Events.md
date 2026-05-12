@@ -9,15 +9,35 @@ description: ""
 Act (HIA) townhalls covering (1) HIA obligations and the implementation
 timelines; (2) NEHR contribution and Cybersecurity and Data Security requirements;
 and (3) Implementation support that is available.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outpatient Medical Services
-(OMS) licensees on 12 May 2026, 1pm to 2:30pm&nbsp;[Session will have same
-content as 28 March 2026 Singapore Medical Association (SMA) Health Information
-Act (HIA) Webinar and 14 April 2026 MOH/AIC Webinar]</p>
-<p>OMS licensees may register for the upcoming webinar <a href="https://ddei5-0-ctp.trendmicro.com/wis/clicktime/v1/query?url=https%3a%2f%2fsynapxe.zoom.us%2fwebinar%2fregister%2fWN%5fUpgde7%2dLTheXsDaCF19sjw%23%2fregistration&amp;umid=320ABA2D-4E03-4906-9AE0-393E81F86F96&amp;auth=ce6a3f6d14c1e3e3f878a8a607dd7ee2cb794b08-ab742c67885e02c7012de2cb40ab3035d1427abd" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clinical Laboratory, Nuclear
-Medicine and Radiological Services on 14 May 2026, 2:30pm to 4:30pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Clinical Laboratory, Nuclear Medicine and Radiological Services on <strong>14 May 2026, 2:30pm to 4:30pm</strong>
+</p>
+<p></p>
 <p>The relevant licensees may register for the upcoming webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_3wK3yr2PTAitrxsNLXnP6g#/registration" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<p></p>
+</li>
+<li>
+<p>Nursing Home licensees and Community Care Organisation on <strong>15 May 2026, 1pm to 3pm</strong>
+</p>
+<p><a href="https://form.gov.sg/69df586be126fb6b1db67281" rel="noopener noreferrer nofollow" target="_blank">Registration for MOH Briefing on Health Information Act (HIA) | FormSG</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Outpatient Dental Service (ODS) licensees on <strong>20 May 2026, 1pm to 2:30pm</strong>
+</p>
+<p>ODS licensees may register for the upcoming webinar <a href="https://synapxe.zoom.us/webinar/register/WN_fq7McTV7QVG7d1L_YShD8A#/registration" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</li>
+<li>
+<p>Outpatient Renal Dialysis Service licensees on <strong>5 June 2026, 2.30pm – 4pm</strong>
+</p>
+<p>Outpatient Renal Dialysis Service licensees may register for the upcoming
+webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMTHA#/registration" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 <h2>Past Events</h2>
 <table style="minWidth: 75px">
 <colgroup>
