@@ -72,7 +72,6 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <th rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p></p>
 <p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
 </th>
@@ -83,7 +82,8 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>14 April 2026 &amp; 12 May 2026</strong>
+<p><strong>14 April 2026 &amp; </strong>
+<br><strong>12 May 2026</strong>
 </p>
 </td>
 </tr>
