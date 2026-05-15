@@ -81,8 +81,6 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p>MOH HIA Webinar for Clinical Lab + Radiological + Nuclear Medicine Services</p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p><strong>14 May 2026</strong>
 </p>
 </td>
@@ -92,8 +90,6 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p>MOH - AIC Townhall for Nursing Home Licensees and Community Care Organisations</p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p><strong>15 May 2026</strong>
 </p>
 </td>
