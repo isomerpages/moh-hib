@@ -78,8 +78,8 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Clinical Lab Service + Radiological Service + Nuclear Medicine
-<br>Webinar</p>
+<p>MOH HIA Webinar for Clinical Lab Service + Radiological Service + Nuclear
+Medicine</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,8 +90,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Nursing Home Licensees and Community Care Organisation
-<br>Townhall</p>
+<p>MOH - AIC Townhall for Nursing Home Licensees and Community Care Organisation</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
