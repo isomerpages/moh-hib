@@ -61,6 +61,8 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <br>
 <br>
 <br>
+</p>
+<p>
 <br><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
 </th>
