@@ -78,8 +78,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH HIA Webinar for Clinical Lab Service + Radiological Service + Nuclear
-Medicine</p>
+<p>MOH HIA Webinar for Clinical Lab + Radiological + Nuclear Medicine Services</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
