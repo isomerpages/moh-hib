@@ -15,6 +15,7 @@ and (3) Implementation support that is available.</p>
 </p>
 <p>ODS licensees may register for the upcoming webinar <a href="https://synapxe.zoom.us/webinar/register/WN_fq7McTV7QVG7d1L_YShD8A#/registration" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Outpatient Renal Dialysis Service licensees on <strong>5 June 2026, 2.30pm – 4pm</strong>
