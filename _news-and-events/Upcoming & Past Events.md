@@ -90,7 +90,7 @@ Medicine</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH - AIC Townhall for Nursing Home Licensees and Community Care Organisation</p>
+<p>MOH - AIC Townhall for Nursing Home Licensees and Community Care Organisations</p>
 </th>
 <td rowspan="1" colspan="1">
 <p></p>
