@@ -55,12 +55,13 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p><strong>28 March 2026</strong>
 </p>
 </th>
-<th rowspan="3" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
+<th rowspan="4" colspan="1">
+<p>
+<br>
+<br>
+<br>
+<br>
+<br><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
 </th>
 </tr>
@@ -77,7 +78,19 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Nursing Home licensees and Community Care Organisation
+<p>Clinical Lab Service + Radiological Service + Nuclear Medicine
+<br>Webinar</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p><strong>14 May 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nursing Home Licensees and Community Care Organisation
 <br>Townhall</p>
 </th>
 <td rowspan="1" colspan="1">
