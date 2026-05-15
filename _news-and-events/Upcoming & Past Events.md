@@ -11,12 +11,6 @@ timelines; (2) NEHR contribution and Cybersecurity and Data Security requirement
 and (3) Implementation support that is available.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nursing Home licensees and Community Care Organisation on <strong>15 May 2026, 1pm to 3pm</strong>
-</p>
-<p><a href="https://form.gov.sg/69df586be126fb6b1db67281" rel="noopener noreferrer nofollow" target="_blank">Registration for MOH Briefing on Health Information Act (HIA) | FormSG</a>
-</p>
-</li>
-<li>
 <p>Outpatient Dental Service (ODS) licensees on <strong>20 May 2026, 1pm to 2:30pm</strong>
 </p>
 <p>ODS licensees may register for the upcoming webinar <a href="https://synapxe.zoom.us/webinar/register/WN_fq7McTV7QVG7d1L_YShD8A#/registration" rel="noopener noreferrer nofollow" target="_blank">here</a>
@@ -64,6 +58,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
 </th>
@@ -81,11 +76,13 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH HIA Webinar for Clinical Laboratory, Nuclear Medicine and Radiological
-Services</p>
+<p>Nursing Home licensees and Community Care Organisation
+<br>Townhall</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>14 May 2026</strong>
+<p></p>
+<p></p>
+<p><strong>15 May 2026</strong>
 </p>
 </td>
 </tr>
