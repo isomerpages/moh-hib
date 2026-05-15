@@ -50,6 +50,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: New Announcement
+          date: 15 May 2026
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
