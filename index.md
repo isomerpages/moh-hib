@@ -50,11 +50,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: New Announcement
+        - title: Upcoming HIA Townhall for Outpatient Dental Service (ODS)
           date: 15 May 2026
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: MOH invites Outpatient Dental Service (ODS) Licensees to join the
+            Health Information Act (HIA) Webinar that will take place on 20 May
+            2026, 1pm to 2:30pm via Zoom.
+          link_text: Upcoming & Past Events
+          link_url: Upcoming & Past Events
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
