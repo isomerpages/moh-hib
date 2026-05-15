@@ -89,7 +89,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH - AIC Townhall for Nursing Home Licensees and Community Care Organisations</p>
+<p>MOH - AIC HIA Townhall for Nursing Home Licensees and Community Care Organisations</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>15 May 2026</strong>
