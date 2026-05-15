@@ -56,14 +56,6 @@ sections:
             preparing for the Health Information Act (HIA) requirements.
           link_text: Guides and Guidelines
           link_url: https://www.healthinfo.gov.sg/files/HIA_Imple_Guide_Release_1.pdf
-        - title: Upcoming Health Information Act (HIA) Townhall for Outpatient Medical
-            Service (OMS) Licensees
-          date: 06 April 2026
-          announcement: MOH and Agency for Integrated Care (AIC) invite Outpatient Medical
-            Service (OMS) Licensees to join the Health Information Act (HIA)
-            Webinar that will take place on 12 May 2026 via Zoom.
-          link_text: Upcoming & Past Events
-          link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: Guidelines on Appropriate Contribution, Use and Access to National
             Electronic Health Record (NEHR)
           date: 16 March 2026
