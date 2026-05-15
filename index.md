@@ -50,20 +50,19 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Upcoming HIA Townhall for Outpatient Dental Service (ODS)
+          date: 15 May 2026
+          announcement: MOH invites Outpatient Dental Service (ODS) Licensees to join the
+            Health Information Act (HIA) Webinar that will take place on 20 May
+            2026, 1pm to 2:30pm via Zoom.
+          link_text: Upcoming & Past Events
+          link_url: Upcoming & Past Events
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
             preparing for the Health Information Act (HIA) requirements.
           link_text: Guides and Guidelines
           link_url: https://www.healthinfo.gov.sg/files/HIA_Imple_Guide_Release_1.pdf
-        - title: Upcoming Health Information Act (HIA) Townhall for Outpatient Medical
-            Service (OMS) Licensees
-          date: 06 April 2026
-          announcement: MOH and Agency for Integrated Care (AIC) invite Outpatient Medical
-            Service (OMS) Licensees to join the Health Information Act (HIA)
-            Webinar that will take place on 12 May 2026 via Zoom.
-          link_text: Upcoming & Past Events
-          link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: Guidelines on Appropriate Contribution, Use and Access to National
             Electronic Health Record (NEHR)
           date: 16 March 2026
