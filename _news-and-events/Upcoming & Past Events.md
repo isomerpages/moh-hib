@@ -62,6 +62,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <br>
 <br>
 </p>
+<p></p>
 <p>
 <br><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
@@ -95,6 +96,18 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p><strong>15 May 2026</strong>
 </p>
 </td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>MOH HIA Webinar for Outpatient Dental Service (ODS) licensees</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>20 May 2006</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
