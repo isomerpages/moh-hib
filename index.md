@@ -50,8 +50,8 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Upcoming HIA Townhall for Outpatient Dental Service (ODS)
-          date: 15 May 2026
+        - title: Upcoming HIA Townhall for Outpatient Renal Dialysis Service
+          date: 05 June 2026
           announcement: MOH invites Outpatient Dental Service (ODS) Licensees to join the
             Health Information Act (HIA) Webinar that will take place on 20 May
             2026, 1pm to 2:30pm via Zoom.
