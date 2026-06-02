@@ -95,7 +95,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p>MOH HIA Webinar for Outpatient Dental Service (ODS) licensees</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>20 May 2006</strong>
+<p><strong>20 May 2026</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
