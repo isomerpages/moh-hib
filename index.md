@@ -50,13 +50,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Upcoming HIA Townhall for Outpatient Renal Dialysis Service
-          date: 05 June 2026
-          announcement: MOH invites Outpatient Renal Dialysis Service Licensees to join
-            the Health Information Act (HIA) Webinar that will take place on 5
-            June 2026, 2.30pm – 4pm via Zoom.
-          link_text: Upcoming & Past Events
-          link_url: Upcoming & Past Events
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
