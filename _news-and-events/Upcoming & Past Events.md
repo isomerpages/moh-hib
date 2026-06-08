@@ -11,10 +11,7 @@ timelines; (2) NEHR contribution and Cybersecurity and Data Security requirement
 and (3) Implementation support that is available.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Outpatient Renal Dialysis Service licensees on <strong>5 June 2026, 2.30pm – 4pm</strong>
-</p>
-<p>Outpatient Renal Dialysis Service licensees may register for the upcoming
-webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMTHA#/registration" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Stay Tuned</p>
 </li>
 </ul>
 <h2>Past Events</h2>
@@ -48,7 +45,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <p><strong>28 March 2026</strong>
 </p>
 </th>
-<th rowspan="4" colspan="1">
+<th rowspan="6" colspan="1">
 <p>
 <br>
 <br>
@@ -56,9 +53,17 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 <br>
 </p>
 <p></p>
-<p>
-<br><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
+<p>
+<br>
+<br>
+<br>
+</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -74,7 +79,7 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH HIA Webinar for Clinical Lab + Radiological + Nuclear Medicine Services</p>
+<p>MOH HIA Webinar for Clinical Lab + Radiological + Nuclear Medicine Licensees</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>14 May 2026</strong>
@@ -92,15 +97,21 @@ webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_m_uXfMxXRdOQo-dbEEMT
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH HIA Webinar for Outpatient Dental Service (ODS) licensees</p>
+<p>MOH HIA Webinar for Outpatient Dental Service (ODS) Licensees</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>20 May 2026</strong>
 </p>
 </td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>MOH HIA Webinar for Outpatient Renal Dialysis Licensees</p>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>5 June 2026</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
