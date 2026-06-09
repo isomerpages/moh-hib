@@ -16,7 +16,7 @@ the Health Information Act (HIA) requirements.</p>
 <li>
 <p><strong>Upcoming Release:</strong> Chapters 3B will include practical implementation
 guidance, corporate policy templates and sample clauses to support CS/DS
-implementation (<em>Coming soon in May 2026</em>)</p>
+implementation (<em>Coming soon in mid 2026</em>)</p>
 </li>
 </ul>
 <h2><strong>Cybersecurity and Data Security Essentials for Healthcare Providers</strong></h2>
