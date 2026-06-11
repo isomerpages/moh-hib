@@ -6,12 +6,15 @@ description: ""
 ---
 <h2>Upcoming Events</h2>
 <p>Ministry of Health (MOH) will be conducting the following Health Information
-Act (HIA) townhalls covering (1) HIA obligations and the implementation
+Act (HIA) townhall covering (1) HIA obligations and the implementation
 timelines; (2) NEHR contribution and Cybersecurity and Data Security requirements;
 and (3) Implementation support that is available.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Stay Tuned</p>
+<p>For Retail Pharmacy licensees on 8 July 2026, 9.30 – 11am</p>
+<p></p>
+<p>Retail Pharmacy licensees may register for the upcoming webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_3kfPXWiVT7uAXFzD1Erx6w#/registration" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 </li>
 </ul>
 <h2>Past Events</h2>
