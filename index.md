@@ -50,6 +50,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Health Information Act (HIA) Townhall - Retail Pharmacies
+          date: 08 July 2026
+          announcement: Health Information Act (HIA) Townhall for Retail Pharmacies is
+            planned to take place on 8 July 2026, 9.30 – 11am.
+          link_text: ""
+          link_url: ""
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
