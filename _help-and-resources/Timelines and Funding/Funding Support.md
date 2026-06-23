@@ -204,7 +204,7 @@ quantum for NCG.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Radiological</p>
+<p>Radiological Laboratory</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$12k (fixed amount)</p>
@@ -228,7 +228,7 @@ quantum for NCG.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Renal Dialysis Centre</p>
+<p>Outpatient Renal Dialysis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40% of cost capped at $29.3k</p>
