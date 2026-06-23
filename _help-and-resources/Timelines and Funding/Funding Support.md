@@ -188,7 +188,7 @@ quantum for NCG.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acute Hospital</p>
+<p>Acute and Community Hospital</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40% of cost capped at $200k</p>
