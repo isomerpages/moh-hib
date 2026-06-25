@@ -352,7 +352,11 @@ and data security measures:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Outpatient Medical (GP)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>01 July 2026</p>
@@ -366,10 +370,20 @@ and data security measures:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Acute and Community Hospital</p>
+</li>
+<li>
 <p>Clinical Laboratory</p>
+</li>
+<li>
 <p>Radiology Laboratory</p>
+</li>
+<li>
 <p>Nuclear Medicine</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>01 November 2026</p>
@@ -383,10 +397,20 @@ and data security measures:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Outpatient Medical (Specialist)</p>
+</li>
+<li>
 <p>Nursing Home</p>
+</li>
+<li>
 <p>Outpatient Renal Dialysis</p>
+</li>
+<li>
 <p>Contingency Care</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>01 August 2027</p>
@@ -400,10 +424,20 @@ and data security measures:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Outpatient Dental</p>
+</li>
+<li>
 <p>Ambulatory Surgical Centre</p>
+</li>
+<li>
 <p>Assisted Reproduction</p>
+</li>
+<li>
 <p>Retail Pharmacy</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>01 May 2029</p>
@@ -417,6 +451,7 @@ and data security measures:</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <blockquote>
 <p>Need Help with Your Application?</p>
 <ul data-tight="true" class="tight">
