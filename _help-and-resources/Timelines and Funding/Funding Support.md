@@ -451,6 +451,8 @@ and data security measures:</p>
 </tr>
 </tbody>
 </table>
+<p>*<em>Note: Dates are subject to change.</em>
+</p>
 <hr>
 <blockquote>
 <p>Need Help with Your Application?</p>
