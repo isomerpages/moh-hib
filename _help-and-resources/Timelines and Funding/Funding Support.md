@@ -321,6 +321,119 @@ and data security measures:</p>
 <p>Total: approximately $20,000</p>
 </li>
 </ul>
+<h4><strong>NCG Application Timeline</strong></h4>
+<p><strong><u>NCG Application and Implementation Schedule</u></strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Healthcare Service</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Grant Application Opens*</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Grant Application Deadline*</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Must Start Contributing By*</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical (GP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acute and Community Hospital</p>
+<p>Clinical Laboratory</p>
+<p>Radiology Laboratory</p>
+<p>Nuclear Medicine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 November 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical (Specialist)</p>
+<p>Nursing Home</p>
+<p>Outpatient Renal Dialysis</p>
+<p>Contingency Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2028</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Outpatient Dental</p>
+<p>Ambulatory Surgical Centre</p>
+<p>Assisted Reproduction</p>
+<p>Retail Pharmacy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 May 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 February 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 March 2030</p>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Need Help with Your Application?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Grants Application Related Enquiries: </strong><a href="mailto:nehr.grants@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.grants@synapxe.sg</a>
+</p>
+</li>
+<li>
+<p><strong>Technical HIMS Questions: </strong>Contact your selected HIMS
+provider</p>
+</li>
+<li>
+<p><strong>Grant Status Updates: </strong>Check <a href="https://www.healthinfo.gov.sg/funding-support" rel="noopener noreferrer nofollow" target="_blank">https://www.healthinfo.gov.sg/funding-support</a> for
+the latest information</p>
+</li>
+</ul>
+</blockquote>
 <h4><strong>Grants for Community Care Organisations and Social Services Agencies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -334,21 +447,3 @@ and data security measures:</p>
 </ul>
 <p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
 </p>
-<blockquote>
-<p>Placeholder text</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Grants Application Related Enquiries: </strong><a href="mailto:nehr.grants@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.grants@synapxe.sg</a> 
-</p>
-</li>
-<li>
-<p><strong>Technical HIMS Questions: </strong>Contact your selected HIMS
-provider</p>
-</li>
-<li>
-<p><strong>Grant Status Updates: </strong>Check <a href="https://www.healthinfo.gov.sg/funding-support" rel="noopener noreferrer nofollow" target="_blank">https://www.healthinfo.gov.sg/funding-support</a> for
-the latest information</p>
-</li>
-</ul>
-</blockquote>
-<p></p>
