@@ -165,7 +165,7 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apply via OurSG Grants Portal: <a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a> 
+<p>Apply via OurSG Grants Portal: <a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,4 +334,21 @@ and data security measures:</p>
 </ul>
 <p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
 </p>
+<blockquote>
+<p>Placeholder text</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Grants Application Related Enquiries: </strong><a href="mailto:nehr.grants@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.grants@synapxe.sg</a> 
+</p>
+</li>
+<li>
+<p><strong>Technical HIMS Questions: </strong>Contact your selected HIMS
+provider</p>
+</li>
+<li>
+<p><strong>Grant Status Updates: </strong>Check <a href="https://www.healthinfo.gov.sg/funding-support" rel="noopener noreferrer nofollow" target="_blank">https://www.healthinfo.gov.sg/funding-support</a> for
+the latest information</p>
+</li>
+</ul>
+</blockquote>
 <p></p>
