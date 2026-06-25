@@ -93,8 +93,27 @@ consultants.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR who had not previously received
-similar grants</p>
+<p>Healthcare providers must meet all of the following criteria to be eligible:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have a valid MOH-HCSA or HSA-Retail Pharmacy licence mandated for NEHR
+contribution under HIA</p>
+</li>
+<li>
+<p>Select a HIA-compliant HIMS certified by Synapxe at the point of application</p>
+</li>
+<li>
+<p>Have not received previous MOH IT grants such as GP IT Enablement Grant,
+Nursing Home IT Grant [<em>Note: Except recipinents of the Early Contribution Incentive Grant, who are eligible to apply for NCG</em>]</p>
+</li>
+<li>
+<p>Not owned by government agencies or MOH Holdings entities [<em>Note: Vanguard nursing homes will be eligible to apply for NCG</em>]</p>
+</li>
+<li>
+<p>Each healthcare institution can only apply once per licensable healthcare
+service</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
@@ -146,7 +165,8 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details will be made available closer to July 2026</p>
+<p>Apply via OurSG Grants Portal: <a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apply via Business Grants Portal:&nbsp;<a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a>
