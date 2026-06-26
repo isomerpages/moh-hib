@@ -134,8 +134,9 @@ service</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>About 2 years of subscription to a HIMS; or 40% of the cost of enhancing
-the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
+<p>Approximately 2 years of subscription to a HIMS, or 40% of the cost of
+enhancing an existing HIMS. (Refer to the NCG Grant Quantum table below
+for details)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
@@ -150,7 +151,7 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open from July 2026, in batches</p>
+<p><strong>Progressively from July 2026 </strong>(starting with OMS GP clinics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Now</p>
