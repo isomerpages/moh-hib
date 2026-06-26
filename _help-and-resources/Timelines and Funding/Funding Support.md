@@ -379,7 +379,7 @@ and data security measures:</p>
 <p>Clinical Laboratory</p>
 </li>
 <li>
-<p>Radiology Laboratory</p>
+<p>Radiological Laboratory</p>
 </li>
 <li>
 <p>Nuclear Medicine</p>
