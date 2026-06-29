@@ -15,7 +15,7 @@ Grant (GP ITE) and Early Contribution Incentive Grant, both of which have
 closed applications and were limited to select licensable health sectors.
 Licensees that previously received funding under&nbsp;GP ITE and NH IT
 Funding/Nursing Home IT Enablement Programme (NHELP) will not be eligible
-for the NEHR Connect Grant. "</p>
+for the NEHR Connect Grant.</p>
 <p>Other than the NEHR Connect Grant, licensees will also be able to tap
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
