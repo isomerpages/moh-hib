@@ -11,9 +11,10 @@ third_nav_title: Timelines and Funding
 to NEHR under the Health Information Act (HIA), including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
 <p>It succeeds previous digitalisation grants such as the GP IT Enablement
-Grant and Early Contribution Incentive Grant, both of which have closed
-applications and were limited to select licensable health sectors. Licensees
-that previously received funding under those grants will not be eligible
+Grant (GP ITE) and Early Contribution Incentive Grant, both of which have
+closed applications and were limited to select licensable health sectors.
+Licensees that previously received funding under&nbsp;GP ITE and NH IT
+Funding/Nursing Home IT Enablement Programme (NHELP) will not be eligible
 for the NEHR Connect Grant.</p>
 <p>Other than the NEHR Connect Grant, licensees will also be able to tap
 other government grants to support the purchase of cybersecurity solutions,
@@ -93,8 +94,31 @@ consultants.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All licensees required to contribute to NEHR who had not previously received
-similar grants</p>
+<p>Healthcare providers must meet all of the following criteria to be eligible:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hold a valid licence under the Healthcare Services Act (HCSA) to provide
+Licensable Healthcare Services (LHS) or a valid retail pharmacy license
+under the Health Products Act (HPA).</p>
+</li>
+<li>
+<p>Required to contribute to NEHR under the Health Information Act (HIA).&nbsp;</p>
+</li>
+<li>
+<p>Adopt or upgrade to a HIA-compliant Health Information Management System
+(HIMS).</p>
+</li>
+<li>
+<p>Not be a government or MOHH-owned entity, except for Vanguard Nursing
+Home (NH).</p>
+</li>
+<li>
+<p>Have not previously received similar funding from MOH (such as General
+Practitioner IT Enablement (GP ITE) Grant and NH IT Funding/Nursing Home
+IT Enablement Programme (NHELP)) under the same Healthcare Institution
+(HCI) code.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)<sup>3</sup>
@@ -115,8 +139,9 @@ similar grants</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>About 2 years of subscription to a HIMS; or 40% of the cost of enhancing
-the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
+<p>Approximately 2 years of subscription to a HIMS, or 40% of the cost of
+enhancing an existing HIMS. (Refer to the NCG Grant Quantum table below
+for details)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50% of cost of package capped at $30k</p>
@@ -131,7 +156,8 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open from July 2026, in batches</p>
+<p>Open for application to Outpatient Medical Services (GP) licensees from
+1 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Now</p>
@@ -146,7 +172,8 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details will be made available closer to July 2026</p>
+<p>Apply via OurSG Grants Portal: <a href="https://oursggrants.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://oursggrants.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apply via Business Grants Portal:&nbsp;<a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a>
@@ -204,7 +231,7 @@ quantum for NCG.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Radiological</p>
+<p>Radiological Laboratory</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$12k (fixed amount)</p>
@@ -228,7 +255,7 @@ quantum for NCG.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Renal Dialysis Centre</p>
+<p>Outpatient Renal Dialysis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40% of cost capped at $29.3k</p>
@@ -301,6 +328,155 @@ and data security measures:</p>
 <p>Total: approximately $20,000</p>
 </li>
 </ul>
+<h4><strong>NCG Application Timeline</strong></h4>
+<p><strong><u>NCG Application and Implementation Schedule</u></strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Healthcare Service</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Grant Application Opens*</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Grant Application Deadline*</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Must Start Contributing By*</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Outpatient Medical (GP)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Acute and Community Hospital</p>
+</li>
+<li>
+<p>Clinical Laboratory</p>
+</li>
+<li>
+<p>Radiological Laboratory</p>
+</li>
+<li>
+<p>Nuclear Medicine</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 November 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Outpatient Medical (Specialist)</p>
+</li>
+<li>
+<p>Nursing Home</p>
+</li>
+<li>
+<p>Outpatient Renal Dialysis</p>
+</li>
+<li>
+<p>Contingency Care</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 August 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 August 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 September 2028</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Outpatient Dental</p>
+</li>
+<li>
+<p>Ambulatory Surgical Centre</p>
+</li>
+<li>
+<p>Assisted Reproduction</p>
+</li>
+<li>
+<p>Retail Pharmacy</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 May 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 February 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>01 March 2030</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*<em>Note: Dates are subject to change.</em>
+</p>
+<blockquote>
+<p>Need Help with Your Application?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Grants Application Related Enquiries: </strong><a href="mailto:nehr.grants@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.grants@synapxe.sg</a>
+</p>
+</li>
+<li>
+<p><strong>Technical HIMS Questions: </strong>Contact your selected HIMS
+provider</p>
+</li>
+<li>
+<p><strong>Grant Status Updates: </strong>Check <a href="https://www.healthinfo.gov.sg/funding-support" rel="noopener nofollow" target="_blank">here</a> for the latest
+information</p>
+</li>
+</ul>
+</blockquote>
 <h4><strong>Grants for Community Care Organisations and Social Services Agencies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -314,4 +490,3 @@ and data security measures:</p>
 </ul>
 <p><em>Note: The Transformation Sustainability Scheme (TSS) is applicable only to Community Care Organisations that are Members of the National Council of Social Service (NCSS). TSS replaces the previous Tech-and-GO! Scheme.</em>
 </p>
-<p></p>
