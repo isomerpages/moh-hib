@@ -98,7 +98,7 @@ consultants.
 <ul data-tight="true" class="tight">
 <li>
 <p>Hold a valid licence under the Healthcare Services Act (HCSA) to provide
-Licensable Healthcare Services (LHS) or a valid retail pharmacy license
+Licensable Healthcare Services (LHS) or a valid retail pharmacy licence
 under the Health Products Act (HPA).</p>
 </li>
 <li>
