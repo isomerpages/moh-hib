@@ -104,7 +104,7 @@ contribution under HIA</p>
 </li>
 <li>
 <p>Have not received previous MOH IT grants such as GP IT Enablement Grant,
-Nursing Home IT Grant [<em>Note: Except recipinents of the Early Contribution Incentive Grant, who are eligible to apply for NCG</em>]</p>
+Nursing Home IT Grant [<em>Note: Except recipients of the Early Contribution Incentive Grant, who are eligible to apply for NCG</em>]</p>
 </li>
 <li>
 <p>Not owned by government agencies or MOH Holdings entities [<em>Note: Vanguard nursing homes will be eligible to apply for NCG</em>]</p>
