@@ -151,7 +151,8 @@ for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Progressively from July 2026 </strong>(starting with OMS GP clinics)</p>
+<p>Open for application to Outpatient Medical Services (GP) licensees from
+1 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Now</p>
@@ -454,7 +455,6 @@ and data security measures:</p>
 </table>
 <p>*<em>Note: Dates are subject to change.</em>
 </p>
-<hr>
 <blockquote>
 <p>Need Help with Your Application?</p>
 <ul data-tight="true" class="tight">
