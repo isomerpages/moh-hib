@@ -96,22 +96,26 @@ consultants.
 <p>Healthcare providers must meet all of the following criteria to be eligible:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Have a valid MOH-HCSA or HSA-Retail Pharmacy licence mandated for NEHR
-contribution under HIA</p>
+<p>Hold a valid licence under the Healthcare Services Act (HCSA) to provide
+Licensable Healthcare Services (LHS) or a valid retail pharmacy license
+under the Health Products Act (HPA).</p>
 </li>
 <li>
-<p>Select a HIA-compliant HIMS certified by Synapxe at the point of application</p>
+<p>Required to contribute to NEHR under the Health Information Act (HIA).&nbsp;</p>
 </li>
 <li>
-<p>Have not received previous MOH IT grants such as GP IT Enablement Grant,
-Nursing Home IT Grant [<em>Note: Except recipients of the Early Contribution Incentive Grant, who are eligible to apply for NCG</em>]</p>
+<p>Adopt or upgrade to a HIA-compliant Health Information Management System
+(HIMS).</p>
 </li>
 <li>
-<p>Not owned by government agencies or MOH Holdings entities [<em>Note: Vanguard nursing homes will be eligible to apply for NCG</em>]</p>
+<p>Not be a government or MOHH-owned entity, except for Vanguard Nursing
+Home (NH).</p>
 </li>
 <li>
-<p>Each healthcare institution can only apply once per licensable healthcare
-service</p>
+<p>Have not previously received similar funding from MOH (such as General
+Practitioner IT Enablement (GP ITE) Grant and NH IT Funding/Nursing Home
+IT Enablement Programme (NHELP)) under the same Healthcare Institution
+(HCI) code.</p>
 </li>
 </ul>
 </td>
