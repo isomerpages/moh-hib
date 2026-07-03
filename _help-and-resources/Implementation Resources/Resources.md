@@ -20,7 +20,7 @@ third_nav_title: Implementation Resources
 </p>
 </li>
 <li>
-<p>Third Schedule of the HIA - <em>Access and Collection of Accessible Health Information</em>
+<p><a href="/files/Third_Schedule_of_the_HIA_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Third Schedule of the HIA</a> - <em>Written Laws Under Which Specified Examinations Carried Out for Purposes of Section 19(3)</em>
 </p>
 </li>
 </ul>
