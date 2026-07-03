@@ -472,8 +472,8 @@ and data security measures:</p>
 provider</p>
 </li>
 <li>
-<p><strong>Grant Status Updates: </strong>Check <a href="https://www.healthinfo.gov.sg/funding-support" rel="noopener nofollow" target="_blank">here</a> for the latest
-information</p>
+<p><strong>Grant Status Updates: </strong>Check back on this page periodically
+for the latest information</p>
 </li>
 </ul>
 </blockquote>
