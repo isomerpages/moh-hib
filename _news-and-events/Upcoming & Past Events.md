@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Upcoming Events</h2>
-<p>We are currently developing new programmes. Please check back on this
-page for updates on upcoming activities.</p>
+<p><em>We are currently developing new programmes. Please check back on this page for updates on upcoming activities.</em>
+</p>
 <h2>Past Events</h2>
 <table style="minWidth: 75px">
 <colgroup>
