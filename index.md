@@ -50,12 +50,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: MOH Health Information Act (HIA) Townhall - Retail Pharmacies
-          date: 08 July 2026
-          announcement: MOH will be hosting a townhall for Retail Pharmacies on 8 July
-            2026, 9.30am – 11.00am. Click below for more information.
-          link_text: Upcoming & Past Events
-          link_url: https://www.healthinfo.gov.sg/news-and-events/upcoming-and-past-events/
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
