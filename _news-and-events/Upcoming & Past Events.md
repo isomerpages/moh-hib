@@ -5,18 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>Upcoming Events</h2>
-<p>Ministry of Health (MOH) will be conducting the following Health Information
-Act (HIA) townhall covering (1) HIA obligations and the implementation
-timelines; (2) NEHR contribution and Cybersecurity and Data Security requirements;
-and (3) Implementation support that is available.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For Retail Pharmacy licensees on 8 July 2026, 9.30 – 11am</p>
-<p></p>
-<p>Retail Pharmacy licensees may register for the upcoming webinar <a href="https://gov-sg.zoom.us/webinar/register/WN_3kfPXWiVT7uAXFzD1Erx6w#/registration" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
-</li>
-</ul>
+<p>We are currently developing new programmes. Please check back on this
+page for updates on upcoming activities.</p>
 <h2>Past Events</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -48,7 +38,7 @@ and (3) Implementation support that is available.</p>
 <p><strong>28 March 2026</strong>
 </p>
 </th>
-<th rowspan="6" colspan="1">
+<th rowspan="7" colspan="1">
 <p>
 <br>
 <br>
@@ -63,14 +53,14 @@ and (3) Implementation support that is available.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p>
+<br>
+<br>
+<br>
+</p>
 <p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -117,6 +107,15 @@ and (3) Implementation support that is available.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>5 June 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>MOH HIA Webinar for Retail Pharmacies</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>8 July 2026</strong>
 </p>
 </td>
 </tr>
