@@ -112,7 +112,7 @@ page for updates on upcoming activities.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>MOH HIA Webinar for Retail Pharmacies</p>
+<p>MOH HIA Webinar for Retail Pharmacy Licensees</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>8 July 2026</strong>
