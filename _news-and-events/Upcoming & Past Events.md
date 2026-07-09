@@ -48,18 +48,12 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>
 <br>
 <br>
 <br>
 </p>
-<p><a href="/files/260512___HIA_Townhall__Generic_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
+<p><a href="/files/HIA_Townhall__Generic___updated_9Jul26_.pdf" rel="noopener nofollow" target="_blank">HIA Presentation Deck</a>
 </p>
 </th>
 </tr>
