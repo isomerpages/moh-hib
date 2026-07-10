@@ -31,6 +31,10 @@ these cyber and data security requirements.</p>
 <p><a href="https://www.healthinfo.gov.sg/files/CYBERSECURITY_AND_DATA_SECURITY_ESSENTIALS.pdf" rel="noopener nofollow" target="_blank"><u>Cybersecurity and Data Security Essentials</u></a>
 </p>
 </li>
+<li>
+<p><a href="/files/CSDS_Infographics.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS/DS Infographics</u></a>
+</p>
+</li>
 </ul>
 <p><em>Note: The CS/DS Essentials replace the Cyber and Data Security Guidelines for Healthcare Providers (issued in December 2023) and the Healthcare Cybersecurity Essentials (HCSE) (issued in August 2021)</em>
 </p>
