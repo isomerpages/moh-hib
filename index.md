@@ -54,9 +54,10 @@ sections:
             Licensees)
           date: 10 July 2026
           announcement: From 1 July 2026, eligible Outpatient Medical Services (GP)
-            licensees are invited to apply for the NCG.
-          link_text: Apply at OurSGGrants website
-          link_url: https://oursggrants.gov.sg/
+            licensees may apply for the NCG. Learn more, check your eligibility,
+            and apply on our Funding Support page.
+          link_text: Funding Support
+          link_url: https://www.healthinfo.gov.sg/funding-support/
         - title: HIA Implementation Guide (Part 1)
           date: 17 April 2026
           announcement: This Implementation Guide supports healthcare providers in
