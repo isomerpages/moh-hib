@@ -32,7 +32,7 @@ these cyber and data security requirements.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/HIA_Imple_Guide_Release_1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS/DS Infographics</u></a>
+<p><a href="/files/CSDS_Infographics.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CS/DS Infographics</u></a>
 </p>
 </li>
 </ul>
