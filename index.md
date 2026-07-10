@@ -53,9 +53,9 @@ sections:
         - title: NEHR Connect Grant (NCG) Funding (for Outpatient Medical Service (GP)
             Licensees)
           date: 10 July 2026
-          announcement: From 1 July 2026, eligible Outpatient Medical Services (GP)
-            licensees may apply for the NCG. Learn more, check your eligibility,
-            and apply on our Funding Support page.
+          announcement: Outpatient Medical Services (GP) licensees are now invited to
+            apply for the NEHR Connect Grant (NCG). Click the link below to find
+            out more.
           link_text: Funding Support
           link_url: https://www.healthinfo.gov.sg/funding-support/
         - title: HIA Implementation Guide (Part 1)
