@@ -35,6 +35,13 @@ third_nav_title: Implementation Resources
 </p>
 </li>
 </ul>
+<h2><strong>FAQs for Healthcare Providers on the Health Information Act (HIA)</strong></h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/FAQs_for_Healthcare_Providers_on_the_Health_Information_Act__HIA__v1_0__17_Jul_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs for Healthcare Providers on the Health Information Act (HIA)</a>
+</p>
+</li>
+</ul>
 <h2><strong>Cybersecurity and Data Security Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare providers will accordingly be
