@@ -50,6 +50,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: FAQs for Healthcare Providers on the Health Information Act (HIA)
+          date: 17 July 2026
+          announcement: A list of FAQs for Healthcare Providers on the Health Information
+            Act (HIA) is now available. Click the link below to read more.
+          link_text: Resources
+          link_url: https://www.healthinfo.gov.sg/resources/
         - title: NEHR Connect Grant (NCG) Funding (for Outpatient Medical Service (GP)
             Licensees)
           date: 01 July 2026
