@@ -27,15 +27,15 @@ third_nav_title: Implementation Resources
 <h2><strong>Key Information for Healthcare Providers and Healthcare Professionals</strong></h2>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/July_2026__Data_Contribution_Requirements.pdf" rel="noopener noreferrer nofollow" target="_blank">[July 2026] Data Contribution Requirements</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.healthinfo.gov.sg/files/March_2026___Key_Information_for_Healthcare_Providers_and_Healthcare_Professionals.pdf" rel="noopener nofollow" target="_blank"><u>Key Information for Healthcare Providers and Healthcare Professionals</u></a>
 </p>
 </li>
 <li>
 <p><a href="/files/Infographic_Key_Elements_of_the_HIA_2_0.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Data_Contribution_Requirements_Jul_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Contribution Requirements Jul 2026</a>
 </p>
 </li>
 </ul>
