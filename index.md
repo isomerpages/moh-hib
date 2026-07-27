@@ -50,6 +50,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: "New Resource Available: Health Information Components for NEHR
+            Contribution"
+          date: 27 July 2026
+          announcement: A quick reference guide summarising the health information
+            components required for contribution to the National Electronic
+            Health Record (NEHR) is now available. The guide helps healthcare
+            providers understand the data that should be submitted under the
+            Health Information Act (HIA).
+          link_text: Resources
+          link_url: https://www.healthinfo.gov.sg/resources/
         - title: FAQs for Healthcare Providers on the Health Information Act (HIA)
           date: 17 July 2026
           announcement: A list of FAQs for Healthcare Providers on the Health Information
@@ -79,12 +89,4 @@ sections:
           link_text: Guidelines on Appropriate Contribution, Use and Access to National
             Electronic Health Record (NEHR) (March 2026)
           link_url: https://www.healthinfo.gov.sg/files/Guidelines_on_Appropriate_Contribution__Use_and_Access_to_National_Electronic_Health_Record__NEHR__March_2026.pdf
-        - title: Health Information Act (HIA) - Enactment Circular
-          date: 06 March 2026
-          announcement: MOH issued a circular "Overview and Implementation of the Health
-            Information Act (HIA)" to support  licensed healthcare providers,
-            retail pharmacies, and approved users of NEHR in the implementation
-            of the HIA.
-          link_text: Overview and Implementation of the Health Information Act (HIA)
-          link_url: https://www.healthinfo.gov.sg/files/Overview_and_Implementation_of_the_Health_Information_Act__HIA_.pdf
 ---
