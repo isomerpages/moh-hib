@@ -34,6 +34,10 @@ third_nav_title: Implementation Resources
 <p><a href="/files/Infographic_Key_Elements_of_the_HIA_2_0.pdf" rel="noopener nofollow" target="_blank">Key Elements of the HIA</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Data_Contribution_Requirements_Jul_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Contribution Requirements Jul 2026</a>
+</p>
+</li>
 </ul>
 <h2><strong>FAQs for Healthcare Providers on the Health Information Act (HIA)</strong></h2>
 <ul data-tight="true" class="tight">
