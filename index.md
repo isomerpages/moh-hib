@@ -50,11 +50,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: NEHR Data Contribution Requirements
+        - title: "New Resource Available: Health Information Components for NEHR
+            Contribution"
           date: 27 July 2026
-          announcement: A resource providing clarity on NEHR contribution requirements,
-            based on licensable healthcare service (LHS), is now available.
-            Click the link below to read more.
+          announcement: A quick reference guide summarising the health information
+            components required for contribution to the National Electronic
+            Health Record (NEHR) is now available. The guide helps healthcare
+            providers understand the data that should be submitted under the
+            Health Information Act (HIA).
           link_text: Resources
           link_url: https://www.healthinfo.gov.sg/resources/
         - title: FAQs for Healthcare Providers on the Health Information Act (HIA)
