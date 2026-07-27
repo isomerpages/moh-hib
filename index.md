@@ -50,8 +50,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: "New Resource Available: Health Information Components for NEHR
-            Contribution"
+        - title: "New Resource Available: NEHR Contribution Requirements"
           date: 27 July 2026
           announcement: A quick reference guide summarising the health information
             components required for contribution to the National Electronic
