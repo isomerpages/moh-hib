@@ -33,7 +33,7 @@ and Hong Kong which have national health repositories similar to NEHR.
 </li>
 </ul>
 <p>The enhanced access controls will be made available on the HealthHub application
-in the second half of 2026.</p>
+in 2027.</p>
 <p>MOH will audit cases where your access restriction is overridden&nbsp;by
 the healthcare professional. Healthcare professionals who inappropriately
 override access restrictions to NEHR may be subject to legal penalties
